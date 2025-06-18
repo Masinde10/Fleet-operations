@@ -1,0 +1,1792 @@
+Number_Plate,Vehicle_Type,Part_Name,Category,Supplier,Purchase_Cost,Service_Date,Issue_Reported
+KCN 625C,Tractor,Battery,Electrical,Aeolus,4800.89,2024-08-12,Battery issue
+KCN 625C,Tractor,Radiator,Cooling System,MechWorks,3507.8,2024-09-21,Oil leak
+KCN 625C,Tractor,Radiator,Cooling System,PartsPlus,9258.37,2025-05-11,Electrical fault
+KCN 625C,Tractor,Fuel Pump,Fuel System,PartsPlus,1842.43,2024-09-25,Hydraulic issue
+KDA 106P,Tractor,Radiator,Cooling System,PowerAuto,10222.35,2025-03-27,Brake failure
+KDA 106P,Tractor,Brake Pads,Braking System,JKT,13392.65,2025-03-01,Overheating
+KDA 106P,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,14965.87,2025-03-14,Electrical fault
+KDA 106P,Tractor,Fuel Pump,Fuel System,PartsPlus,10574.12,2025-05-18,Brake failure
+KDA 106P,Tractor,Brake Pads,Braking System,SpareHub,9798.03,2024-11-15,Battery issue
+KDA 106P,Tractor,Brake Pads,Braking System,TurboTraders,12125.59,2025-05-24,Oil leak
+KBU 872G,Tractor,Hydraulic Pump,Hydraulics,Goodyear,4471.08,2025-01-22,Tyre worn out
+KBU 872G,Tractor,Air Filter,Air Intake,Aeolus,7093.12,2024-09-05,Tyre worn out
+KBU 872G,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,1577.72,2024-12-17,Battery issue
+KBU 872G,Tractor,Air Filter,Air Intake,Goodyear,4638.38,2025-04-10,Overheating
+KBU 872G,Tractor,Hydraulic Pump,Hydraulics,Gallant,4464.77,2024-10-30,Battery issue
+KBU 872G,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,13759.01,2025-03-12,Brake failure
+KBU 872G,Tractor,Battery,Electrical,MechWorks,6636.02,2025-04-05,Battery issue
+KBU 872G,Tractor,Battery,Electrical,TechFix,5734.51,2024-12-24,Low power
+KCN 532N,Tractor,Fuel Pump,Fuel System,Aeolus,6204.04,2024-11-04,Overheating
+KCN 532N,Tractor,Brake Pads,Braking System,PowerAuto,12365.58,2024-08-26,Electrical fault
+KCN 532N,Tractor,Spark Plug,Ignition,MechWorks,10025.75,2025-02-24,Overheating
+KCN 532N,Tractor,Radiator,Cooling System,SpareHub,2647.14,2025-04-30,Low power
+KCN 532N,Tractor,Oil Filter,Engine,TechFix,12729.52,2025-05-24,Brake failure
+KCN 532N,Tractor,Battery,Electrical,TechFix,11533.24,2024-10-11,Brake failure
+KCN 532N,Tractor,Air Filter,Air Intake,FarmEquip Co,2758.24,2025-02-09,Overheating
+KCN 532N,Tractor,Alternator,Electrical,Goodyear,7385.94,2025-05-31,Overheating
+KDA 242D,Tractor,Spark Plug,Ignition,DieselParts,4660.77,2025-05-12,Brake failure
+KDA 242D,Tractor,Radiator,Cooling System,Gallant,9661.31,2024-06-28,Engine noise
+KDA 242D,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,10899.74,2025-02-07,Routine service
+KDA 242D,Tractor,Alternator,Electrical,PartsPlus,13019.32,2024-09-20,Battery issue
+KDA 242D,Tractor,Brake Pads,Braking System,SpareHub,6536.84,2025-04-03,Tyre worn out
+KDA 242D,Tractor,Tyre,Wheels,Gallant,14749.37,2024-11-22,Engine noise
+KCN 949C,Tractor,Air Filter,Air Intake,MechWorks,12845.99,2025-01-31,Engine noise
+KCN 949C,Tractor,Spark Plug,Ignition,TechFix,10985.82,2025-03-12,Electrical fault
+KCN 949C,Tractor,Radiator,Cooling System,AutoPro Ltd,13087.79,2024-11-30,Battery issue
+KCN 949C,Tractor,Hydraulic Pump,Hydraulics,TurboTraders,8770.84,2024-07-08,Electrical fault
+KCN 949C,Tractor,Brake Pads,Braking System,PowerAuto,14352.62,2024-12-30,Oil leak
+KBZ 536N,Tractor,Battery,Electrical,DieselParts,11110.74,2024-09-14,Tyre worn out
+KBZ 536N,Tractor,Tyre,Wheels,Goodyear,12013.87,2024-06-29,Brake failure
+KBZ 536N,Tractor,Fuel Pump,Fuel System,AutoPro Ltd,4350.01,2024-09-27,Electrical fault
+KBZ 536N,Tractor,Oil Filter,Engine,AutoPro Ltd,8609.17,2024-08-17,Oil leak
+KBZ 536N,Tractor,Hydraulic Pump,Hydraulics,DieselParts,6217.92,2024-11-21,Battery issue
+KBZ 536N,Tractor,Tyre,Wheels,Goodyear,5937.33,2024-10-31,Engine noise
+KBX 297Z,Tractor,Hydraulic Pump,Hydraulics,Goodyear,12216.44,2024-09-13,Routine service
+KBX 297Z,Tractor,Spark Plug,Ignition,TechFix,10824.26,2025-01-23,Tyre worn out
+KBX 297Z,Tractor,Spark Plug,Ignition,SpareHub,4030.13,2024-10-07,Low power
+KBX 297Z,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,2025.11,2024-07-14,Engine noise
+KBX 297Z,Tractor,Radiator,Cooling System,BKT,4369.34,2024-12-14,Tyre worn out
+KCH 302M,Tractor,Oil Filter,Engine,JKT,2755.93,2024-12-15,Overheating
+KCH 302M,Tractor,Brake Pads,Braking System,FarmEquip Co,12646.65,2025-03-29,Electrical fault
+KCH 302M,Tractor,Tyre,Wheels,JKT,12506.53,2025-02-20,Tyre worn out
+KCH 302M,Tractor,Air Filter,Air Intake,BKT,10775.87,2024-10-09,Overheating
+KCH 302M,Tractor,Brake Pads,Braking System,JKT,12509.36,2024-07-01,Brake failure
+KCH 302M,Tractor,Radiator,Cooling System,Aeolus,9948.2,2025-02-17,Hydraulic issue
+KBU 214Z,Tractor,Air Filter,Air Intake,TurboTraders,14572.21,2024-11-26,Brake failure
+KBU 214Z,Tractor,Hydraulic Pump,Hydraulics,MechWorks,6103.4,2024-12-21,Tyre worn out
+KBU 214Z,Tractor,Battery,Electrical,Goodyear,14564.75,2025-06-08,Hydraulic issue
+KBU 214Z,Tractor,Hydraulic Pump,Hydraulics,SpareHub,4202.68,2025-02-11,Hydraulic issue
+KBU 642N,Tractor,Oil Filter,Engine,TechFix,2378.91,2025-02-11,Tyre worn out
+KBU 642N,Tractor,Oil Filter,Engine,Gallant,3934.32,2025-02-14,Hydraulic issue
+KBU 642N,Tractor,Tyre,Wheels,JKT,4008.13,2024-07-23,Engine noise
+KBU 642N,Tractor,Alternator,Electrical,HeavyDuty Supplies,13981.97,2024-11-12,Battery issue
+KBU 735R,Tractor,Tyre,Wheels,JKT,1956.63,2024-10-02,Electrical fault
+KBU 735R,Tractor,Oil Filter,Engine,HeavyDuty Supplies,13129.07,2024-09-09,Hydraulic issue
+KBU 735R,Tractor,Radiator,Cooling System,AutoPro Ltd,8325.15,2024-12-24,Hydraulic issue
+KBU 735R,Tractor,Air Filter,Air Intake,TurboTraders,12539.04,2024-08-10,Hydraulic issue
+KBN 913N,Tractor,Tyre,Wheels,BKT,13765.4,2024-12-09,Tyre worn out
+KBN 913N,Tractor,Tyre,Wheels,BKT,3489.83,2025-05-06,Electrical fault
+KBN 913N,Tractor,Hydraulic Pump,Hydraulics,TurboTraders,11339.33,2024-09-09,Battery issue
+KBN 913N,Tractor,Fuel Pump,Fuel System,DieselParts,3763.1,2024-07-31,Tyre worn out
+KDA 771F,Tractor,Radiator,Cooling System,MechWorks,5159.35,2025-04-20,Engine noise
+KDA 771F,Tractor,Brake Pads,Braking System,DieselParts,2610.3,2024-07-22,Overheating
+KDA 771F,Tractor,Alternator,Electrical,MechWorks,11220.93,2024-06-25,Hydraulic issue
+KDA 771F,Tractor,Radiator,Cooling System,Goodyear,12998.19,2025-04-20,Brake failure
+KDA 771F,Tractor,Fuel Pump,Fuel System,Gallant,10145.27,2024-08-29,Battery issue
+KDA 771F,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,14378.07,2024-09-18,Routine service
+KDA 771F,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,3621.4,2024-10-01,Overheating
+KBX 677C,Tractor,Fuel Pump,Fuel System,DieselParts,3227.19,2025-01-10,Routine service
+KBX 677C,Tractor,Alternator,Electrical,PowerAuto,10987.98,2024-08-14,Hydraulic issue
+KBX 677C,Tractor,Radiator,Cooling System,JKT,2226.01,2024-10-16,Engine noise
+KBX 677C,Tractor,Brake Pads,Braking System,SpareHub,2134.57,2025-02-12,Electrical fault
+KBX 677C,Tractor,Brake Pads,Braking System,HeavyDuty Supplies,9130.2,2024-12-07,Engine noise
+KBX 677C,Tractor,Battery,Electrical,BKT,12538.55,2024-07-19,Low power
+KBX 677C,Tractor,Tyre,Wheels,Goodyear,13389.13,2025-02-05,Overheating
+KBU 987U,Tractor,Oil Filter,Engine,SpareHub,8744.09,2024-10-06,Battery issue
+KBU 987U,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,7094.29,2025-02-27,Engine noise
+KBU 987U,Tractor,Brake Pads,Braking System,AutoPro Ltd,9645.22,2025-04-30,Battery issue
+KBU 987U,Tractor,Tyre,Wheels,Goodyear,1607.17,2025-03-09,Battery issue
+KBU 286G,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,11571.79,2024-08-13,Engine noise
+KBU 286G,Tractor,Radiator,Cooling System,PowerAuto,10055.34,2024-10-17,Electrical fault
+KBU 286G,Tractor,Oil Filter,Engine,TechFix,11830.26,2024-08-16,Oil leak
+KBU 286G,Tractor,Hydraulic Pump,Hydraulics,Goodyear,5661.27,2025-05-01,Oil leak
+KDM 819M,Tractor,Hydraulic Pump,Hydraulics,BKT,11618.0,2024-07-10,Low power
+KDM 819M,Tractor,Air Filter,Air Intake,FarmEquip Co,4297.63,2025-03-23,Overheating
+KDM 819M,Tractor,Oil Filter,Engine,FarmEquip Co,8471.84,2024-12-12,Low power
+KDM 819M,Tractor,Oil Filter,Engine,Gallant,4526.39,2025-06-03,Hydraulic issue
+KDM 819M,Tractor,Air Filter,Air Intake,SpareHub,10375.7,2024-12-24,Battery issue
+KDL 408K,Tractor,Hydraulic Pump,Hydraulics,TurboTraders,10681.69,2024-11-29,Low power
+KDL 408K,Tractor,Oil Filter,Engine,AutoPro Ltd,11774.13,2024-10-25,Engine noise
+KDL 408K,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,7507.19,2025-04-29,Engine noise
+KDL 408K,Tractor,Fuel Pump,Fuel System,Goodyear,14374.3,2025-06-06,Hydraulic issue
+KDL 408K,Tractor,Oil Filter,Engine,Gallant,3951.86,2024-08-01,Oil leak
+KDL 408K,Tractor,Tyre,Wheels,Goodyear,12588.85,2025-05-23,Low power
+KBN 380Z,Tractor,Battery,Electrical,Goodyear,6849.52,2024-07-07,Battery issue
+KBN 380Z,Tractor,Brake Pads,Braking System,PartsPlus,11785.44,2025-04-12,Engine noise
+KBN 380Z,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,3843.72,2025-04-01,Tyre worn out
+KBN 380Z,Tractor,Hydraulic Pump,Hydraulics,Aeolus,8635.79,2024-07-12,Tyre worn out
+KBN 380Z,Tractor,Brake Pads,Braking System,PowerAuto,9297.38,2025-03-23,Battery issue
+KBN 812D,Tractor,Radiator,Cooling System,Goodyear,7037.84,2024-11-11,Engine noise
+KBN 812D,Tractor,Spark Plug,Ignition,MechWorks,1728.1,2025-01-28,Routine service
+KBN 812D,Tractor,Spark Plug,Ignition,PowerAuto,10208.92,2025-05-14,Overheating
+KBN 812D,Tractor,Radiator,Cooling System,TurboTraders,13000.78,2024-08-06,Low power
+KBN 812D,Tractor,Oil Filter,Engine,JKT,2314.63,2025-05-21,Electrical fault
+KBN 812D,Tractor,Hydraulic Pump,Hydraulics,Aeolus,12843.89,2025-04-24,Brake failure
+KBN 812D,Tractor,Tyre,Wheels,Aeolus,6111.44,2024-09-27,Engine noise
+KBN 812D,Tractor,Air Filter,Air Intake,MechWorks,9925.43,2025-02-07,Overheating
+KDG 173R,Tractor,Alternator,Electrical,AutoPro Ltd,4176.86,2025-02-15,Brake failure
+KDG 173R,Tractor,Oil Filter,Engine,TechFix,4933.86,2024-08-05,Tyre worn out
+KDG 173R,Tractor,Tyre,Wheels,JKT,6923.0,2024-09-12,Battery issue
+KDG 173R,Tractor,Air Filter,Air Intake,Aeolus,12393.31,2025-01-08,Overheating
+KDG 173R,Tractor,Alternator,Electrical,MechWorks,6210.91,2025-01-14,Oil leak
+KDJ 259D,Tractor,Battery,Electrical,JKT,9203.85,2025-01-29,Hydraulic issue
+KDJ 259D,Tractor,Alternator,Electrical,PartsPlus,9617.3,2025-04-08,Brake failure
+KDJ 259D,Tractor,Brake Pads,Braking System,Aeolus,10306.86,2024-12-22,Engine noise
+KDJ 259D,Tractor,Air Filter,Air Intake,TechFix,2721.8,2025-03-01,Oil leak
+KDG 248D,Tractor,Spark Plug,Ignition,FarmEquip Co,8131.28,2025-02-04,Electrical fault
+KDG 248D,Tractor,Battery,Electrical,PartsPlus,14108.23,2025-03-01,Electrical fault
+KDG 248D,Tractor,Oil Filter,Engine,PartsPlus,3419.57,2025-03-01,Hydraulic issue
+KDG 248D,Tractor,Alternator,Electrical,FarmEquip Co,12548.78,2024-09-08,Low power
+KDG 248D,Tractor,Radiator,Cooling System,Gallant,4720.85,2025-01-12,Overheating
+KDG 248D,Tractor,Tyre,Wheels,Goodyear,11495.87,2024-08-10,Battery issue
+KDG 248D,Tractor,Spark Plug,Ignition,TurboTraders,5354.11,2024-11-24,Engine noise
+KDG 248D,Tractor,Air Filter,Air Intake,Goodyear,14752.19,2025-03-25,Hydraulic issue
+KDJ 511D,Tractor,Radiator,Cooling System,PowerAuto,1667.34,2025-05-23,Brake failure
+KDJ 511D,Tractor,Alternator,Electrical,HeavyDuty Supplies,4218.35,2024-08-26,Oil leak
+KDJ 511D,Tractor,Brake Pads,Braking System,Gallant,9125.47,2024-10-31,Low power
+KDJ 511D,Tractor,Radiator,Cooling System,PowerAuto,7663.92,2024-11-06,Hydraulic issue
+KDJ 511D,Tractor,Brake Pads,Braking System,DieselParts,3116.56,2024-09-18,Electrical fault
+KDJ 511D,Tractor,Oil Filter,Engine,JKT,3793.47,2024-10-26,Routine service
+KBX 312D,Tractor,Radiator,Cooling System,Gallant,1990.19,2025-01-12,Brake failure
+KBX 312D,Tractor,Alternator,Electrical,PowerAuto,11294.97,2024-07-27,Low power
+KBX 312D,Tractor,Hydraulic Pump,Hydraulics,Aeolus,12794.31,2024-07-18,Routine service
+KBX 312D,Tractor,Hydraulic Pump,Hydraulics,JKT,8162.9,2024-10-04,Battery issue
+KBX 312D,Tractor,Alternator,Electrical,MechWorks,7963.58,2024-12-05,Engine noise
+KBX 312D,Tractor,Battery,Electrical,PartsPlus,5810.93,2024-12-26,Engine noise
+KBU 706K,Tractor,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,14486.0,2024-08-08,Low power
+KBU 706K,Tractor,Radiator,Cooling System,BKT,5661.59,2025-06-07,Tyre worn out
+KBU 706K,Tractor,Radiator,Cooling System,FarmEquip Co,3537.52,2024-12-10,Electrical fault
+KBU 706K,Tractor,Fuel Pump,Fuel System,DieselParts,1808.36,2025-05-18,Battery issue
+KBU 706K,Tractor,Air Filter,Air Intake,Aeolus,4441.0,2024-12-04,Routine service
+KDA 573N,Tractor,Oil Filter,Engine,JKT,3553.69,2025-05-31,Oil leak
+KDA 573N,Tractor,Brake Pads,Braking System,SpareHub,13130.87,2025-04-27,Battery issue
+KDA 573N,Tractor,Alternator,Electrical,TurboTraders,13377.95,2024-08-08,Routine service
+KDA 573N,Tractor,Battery,Electrical,Gallant,11016.81,2025-01-22,Brake failure
+KDA 573N,Tractor,Air Filter,Air Intake,TurboTraders,3396.3,2025-01-15,Oil leak
+KDA 573N,Tractor,Tyre,Wheels,Gallant,9070.13,2024-08-12,Engine noise
+KDA 573N,Tractor,Spark Plug,Ignition,Gallant,8265.75,2024-07-22,Overheating
+KDA 573N,Tractor,Tyre,Wheels,Aeolus,6913.1,2025-04-24,Battery issue
+KCH 132Y,Tractor,Fuel Pump,Fuel System,Aeolus,8245.15,2024-06-29,Low power
+KCH 132Y,Tractor,Tyre,Wheels,Aeolus,13100.77,2025-02-27,Tyre worn out
+KCH 132Y,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,7141.55,2024-11-23,Low power
+KCH 132Y,Tractor,Battery,Electrical,Goodyear,3265.58,2025-05-31,Engine noise
+KCH 132Y,Tractor,Air Filter,Air Intake,AutoPro Ltd,12447.27,2024-10-05,Routine service
+KCH 132Y,Tractor,Hydraulic Pump,Hydraulics,BKT,8629.87,2025-01-14,Overheating
+KCH 132Y,Tractor,Oil Filter,Engine,TechFix,8809.08,2024-09-24,Hydraulic issue
+KCH 132Y,Tractor,Hydraulic Pump,Hydraulics,DieselParts,6703.41,2024-09-25,Electrical fault
+KDM 386H,Tractor,Air Filter,Air Intake,AutoPro Ltd,7026.33,2025-06-06,Overheating
+KDM 386H,Tractor,Battery,Electrical,MechWorks,14243.39,2025-01-13,Overheating
+KDM 386H,Tractor,Fuel Pump,Fuel System,DieselParts,6986.79,2025-02-12,Oil leak
+KDM 386H,Tractor,Brake Pads,Braking System,AutoPro Ltd,3573.93,2025-01-21,Electrical fault
+KBU 517F,Tractor,Hydraulic Pump,Hydraulics,MechWorks,2111.47,2025-05-05,Oil leak
+KBU 517F,Tractor,Fuel Pump,Fuel System,SpareHub,12057.94,2025-04-12,Routine service
+KBU 517F,Tractor,Tyre,Wheels,Gallant,7789.99,2025-06-09,Oil leak
+KBU 517F,Tractor,Hydraulic Pump,Hydraulics,Goodyear,5029.3,2025-03-31,Brake failure
+KBU 517F,Tractor,Oil Filter,Engine,PowerAuto,5067.89,2024-09-03,Low power
+KBU 517F,Tractor,Radiator,Cooling System,AutoPro Ltd,8533.78,2025-03-14,Tyre worn out
+KBU 517F,Tractor,Oil Filter,Engine,TurboTraders,4664.66,2025-05-05,Oil leak
+KBU 820P,Tractor,Spark Plug,Ignition,Gallant,4809.33,2024-06-28,Battery issue
+KBU 820P,Tractor,Battery,Electrical,HeavyDuty Supplies,8917.26,2024-10-25,Oil leak
+KBU 820P,Tractor,Spark Plug,Ignition,JKT,14368.32,2025-05-28,Brake failure
+KBU 820P,Tractor,Radiator,Cooling System,PowerAuto,14347.12,2024-09-26,Oil leak
+KBU 820P,Tractor,Fuel Pump,Fuel System,JKT,6879.52,2025-02-21,Electrical fault
+KBU 820P,Tractor,Oil Filter,Engine,DieselParts,6321.5,2024-10-10,Battery issue
+KCC 295P,Tractor,Hydraulic Pump,Hydraulics,SpareHub,2159.83,2024-11-22,Routine service
+KCC 295P,Tractor,Brake Pads,Braking System,MechWorks,9333.53,2025-03-26,Brake failure
+KCC 295P,Tractor,Tyre,Wheels,Goodyear,2154.81,2025-04-04,Hydraulic issue
+KCC 295P,Tractor,Radiator,Cooling System,SpareHub,14322.53,2025-06-03,Battery issue
+KCC 295P,Tractor,Spark Plug,Ignition,DieselParts,8533.19,2025-03-23,Low power
+KCC 295P,Tractor,Battery,Electrical,JKT,14347.91,2024-06-26,Oil leak
+KBZ 232N,Tractor,Battery,Electrical,JKT,14121.9,2025-04-29,Oil leak
+KBZ 232N,Tractor,Alternator,Electrical,TurboTraders,12142.29,2024-06-25,Electrical fault
+KBZ 232N,Tractor,Oil Filter,Engine,FarmEquip Co,8087.9,2024-07-04,Battery issue
+KBZ 232N,Tractor,Radiator,Cooling System,HeavyDuty Supplies,12316.95,2024-11-26,Brake failure
+KBZ 232N,Tractor,Battery,Electrical,SpareHub,12115.67,2025-03-16,Low power
+KBZ 232N,Tractor,Fuel Pump,Fuel System,Goodyear,4505.59,2024-07-10,Battery issue
+KDG 505X,Tractor,Spark Plug,Ignition,BKT,13293.72,2024-12-22,Hydraulic issue
+KDG 505X,Tractor,Oil Filter,Engine,Gallant,13756.35,2024-10-14,Brake failure
+KDG 505X,Tractor,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,12981.58,2025-04-17,Low power
+KDG 505X,Tractor,Fuel Pump,Fuel System,BKT,5374.02,2024-10-17,Brake failure
+KDJ 932A,Tractor,Spark Plug,Ignition,FarmEquip Co,6500.51,2024-07-21,Routine service
+KDJ 932A,Tractor,Fuel Pump,Fuel System,SpareHub,5242.95,2025-04-26,Tyre worn out
+KDJ 932A,Tractor,Radiator,Cooling System,DieselParts,14460.83,2024-07-05,Battery issue
+KDJ 932A,Tractor,Battery,Electrical,BKT,8713.06,2025-02-12,Low power
+KDJ 932A,Tractor,Oil Filter,Engine,BKT,9585.11,2025-05-04,Low power
+KDJ 932A,Tractor,Battery,Electrical,BKT,13839.81,2025-04-01,Oil leak
+KDJ 932A,Tractor,Spark Plug,Ignition,FarmEquip Co,12320.52,2024-08-20,Tyre worn out
+KCH 807V,Tractor,Brake Pads,Braking System,SpareHub,6846.57,2024-10-08,Battery issue
+KCH 807V,Tractor,Fuel Pump,Fuel System,DieselParts,13422.15,2024-07-15,Hydraulic issue
+KCH 807V,Tractor,Air Filter,Air Intake,BKT,6948.27,2024-09-26,Brake failure
+KCH 807V,Tractor,Brake Pads,Braking System,PartsPlus,8825.76,2024-07-17,Tyre worn out
+KCH 807V,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,11318.33,2024-12-21,Low power
+KCH 807V,Tractor,Hydraulic Pump,Hydraulics,Goodyear,8540.92,2024-07-04,Overheating
+KCC 572E,Tractor,Radiator,Cooling System,JKT,6776.82,2025-03-28,Routine service
+KCC 572E,Tractor,Tyre,Wheels,Gallant,8975.26,2024-09-09,Battery issue
+KCC 572E,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,14722.69,2024-11-13,Brake failure
+KCC 572E,Tractor,Fuel Pump,Fuel System,SpareHub,2422.34,2024-06-25,Hydraulic issue
+KCC 572E,Tractor,Battery,Electrical,SpareHub,3643.41,2024-10-18,Battery issue
+KCC 572E,Tractor,Brake Pads,Braking System,Goodyear,4681.6,2024-08-15,Oil leak
+KCC 572E,Tractor,Hydraulic Pump,Hydraulics,DieselParts,9695.5,2024-07-06,Oil leak
+KCC 572E,Tractor,Fuel Pump,Fuel System,Aeolus,13201.56,2024-10-31,Hydraulic issue
+KBU 278H,Tractor,Fuel Pump,Fuel System,FarmEquip Co,11920.01,2025-03-08,Battery issue
+KBU 278H,Tractor,Oil Filter,Engine,Aeolus,11399.65,2024-07-14,Electrical fault
+KBU 278H,Tractor,Spark Plug,Ignition,JKT,4194.02,2024-11-23,Brake failure
+KBU 278H,Tractor,Alternator,Electrical,DieselParts,2482.11,2025-02-01,Battery issue
+KBU 278H,Tractor,Oil Filter,Engine,TechFix,10740.23,2025-05-12,Electrical fault
+KBU 278H,Tractor,Tyre,Wheels,BKT,8114.29,2025-05-07,Routine service
+KBU 278H,Tractor,Tyre,Wheels,Goodyear,10304.89,2024-12-26,Electrical fault
+KDJ 576Y,Tractor,Alternator,Electrical,DieselParts,12294.69,2024-10-07,Overheating
+KDJ 576Y,Tractor,Spark Plug,Ignition,FarmEquip Co,7055.84,2024-11-07,Oil leak
+KDJ 576Y,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,5821.03,2025-06-13,Oil leak
+KDJ 576Y,Tractor,Oil Filter,Engine,AutoPro Ltd,13729.22,2025-01-26,Low power
+KDJ 576Y,Tractor,Air Filter,Air Intake,Aeolus,2704.72,2025-04-13,Overheating
+KDM 212D,Tractor,Oil Filter,Engine,BKT,5839.22,2024-07-21,Oil leak
+KDM 212D,Tractor,Alternator,Electrical,Goodyear,5981.59,2025-01-02,Brake failure
+KDM 212D,Tractor,Brake Pads,Braking System,PartsPlus,6081.08,2024-06-20,Overheating
+KDM 212D,Tractor,Spark Plug,Ignition,TechFix,11892.69,2025-03-24,Brake failure
+KDM 212D,Tractor,Brake Pads,Braking System,FarmEquip Co,14786.29,2024-08-07,Overheating
+KBZ 333R,Tractor,Fuel Pump,Fuel System,FarmEquip Co,10254.71,2025-06-01,Engine noise
+KBZ 333R,Tractor,Hydraulic Pump,Hydraulics,MechWorks,13442.7,2025-05-19,Battery issue
+KBZ 333R,Tractor,Radiator,Cooling System,BKT,8089.65,2025-04-19,Hydraulic issue
+KBZ 333R,Tractor,Air Filter,Air Intake,TechFix,11184.52,2025-01-30,Brake failure
+KBZ 333R,Tractor,Tyre,Wheels,BKT,9348.47,2024-09-25,Oil leak
+KDL 787R,Tractor,Oil Filter,Engine,PartsPlus,2962.11,2025-04-03,Battery issue
+KDL 787R,Tractor,Radiator,Cooling System,Aeolus,3362.75,2025-03-21,Brake failure
+KDL 787R,Tractor,Tyre,Wheels,BKT,3535.19,2024-07-28,Battery issue
+KDL 787R,Tractor,Air Filter,Air Intake,JKT,7336.44,2024-09-16,Overheating
+KDL 787R,Tractor,Alternator,Electrical,DieselParts,10998.42,2024-10-20,Brake failure
+KDM 806C,Tractor,Brake Pads,Braking System,JKT,11648.5,2025-02-26,Brake failure
+KDM 806C,Tractor,Spark Plug,Ignition,Goodyear,12120.06,2024-10-12,Overheating
+KDM 806C,Tractor,Alternator,Electrical,DieselParts,12341.92,2024-10-21,Engine noise
+KDM 806C,Tractor,Alternator,Electrical,TechFix,7789.02,2025-03-15,Battery issue
+KDM 806C,Tractor,Air Filter,Air Intake,TechFix,12531.75,2024-09-18,Hydraulic issue
+KDM 806C,Tractor,Tyre,Wheels,BKT,2035.59,2024-11-24,Hydraulic issue
+KBX 768S,Tractor,Battery,Electrical,BKT,3651.33,2024-09-23,Electrical fault
+KBX 768S,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,9511.51,2025-03-13,Hydraulic issue
+KBX 768S,Tractor,Brake Pads,Braking System,TechFix,9611.22,2025-03-09,Engine noise
+KBX 768S,Tractor,Alternator,Electrical,DieselParts,12140.37,2024-10-11,Tyre worn out
+KBX 768S,Tractor,Fuel Pump,Fuel System,JKT,3452.13,2025-02-18,Overheating
+KBX 768S,Tractor,Tyre,Wheels,JKT,8369.34,2024-11-12,Engine noise
+KBX 768S,Tractor,Hydraulic Pump,Hydraulics,Gallant,8884.67,2024-11-04,Electrical fault
+KDM 421E,Tractor,Air Filter,Air Intake,DieselParts,10778.79,2025-01-28,Electrical fault
+KDM 421E,Tractor,Radiator,Cooling System,TechFix,9998.77,2024-07-24,Overheating
+KDM 421E,Tractor,Fuel Pump,Fuel System,FarmEquip Co,8068.21,2024-07-28,Overheating
+KDM 421E,Tractor,Spark Plug,Ignition,Gallant,10487.55,2025-02-17,Low power
+KDM 421E,Tractor,Alternator,Electrical,PowerAuto,10301.26,2024-10-02,Electrical fault
+KDM 421E,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,6775.8,2025-04-15,Oil leak
+KDM 421E,Tractor,Hydraulic Pump,Hydraulics,DieselParts,8603.24,2024-07-13,Routine service
+KBZ 975C,Tractor,Brake Pads,Braking System,Goodyear,9846.46,2025-04-19,Tyre worn out
+KBZ 975C,Tractor,Spark Plug,Ignition,FarmEquip Co,14799.14,2024-09-01,Battery issue
+KBZ 975C,Tractor,Brake Pads,Braking System,Goodyear,10867.27,2025-05-16,Hydraulic issue
+KBZ 975C,Tractor,Oil Filter,Engine,PartsPlus,3770.66,2025-04-19,Overheating
+KBZ 975C,Tractor,Oil Filter,Engine,JKT,9857.01,2024-07-16,Overheating
+KBZ 975C,Tractor,Brake Pads,Braking System,HeavyDuty Supplies,12165.59,2025-02-06,Battery issue
+KBZ 344V,Tractor,Air Filter,Air Intake,TechFix,14757.26,2025-06-01,Hydraulic issue
+KBZ 344V,Tractor,Alternator,Electrical,DieselParts,14094.74,2025-04-01,Low power
+KBZ 344V,Tractor,Brake Pads,Braking System,TechFix,1814.03,2024-08-18,Brake failure
+KBZ 344V,Tractor,Fuel Pump,Fuel System,PowerAuto,9444.44,2025-01-02,Engine noise
+KBZ 344V,Tractor,Radiator,Cooling System,BKT,10640.86,2024-07-02,Tyre worn out
+KBZ 344V,Tractor,Alternator,Electrical,DieselParts,11056.66,2024-07-18,Brake failure
+KBZ 344V,Tractor,Brake Pads,Braking System,FarmEquip Co,3950.77,2024-07-02,Brake failure
+KBZ 344V,Tractor,Alternator,Electrical,FarmEquip Co,10168.02,2024-08-16,Tyre worn out
+KDG 396N,Tractor,Radiator,Cooling System,TechFix,9690.41,2024-07-22,Routine service
+KDG 396N,Tractor,Oil Filter,Engine,DieselParts,7494.31,2024-11-01,Hydraulic issue
+KDG 396N,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,3570.31,2025-05-24,Oil leak
+KDG 396N,Tractor,Alternator,Electrical,AutoPro Ltd,10534.93,2024-08-24,Hydraulic issue
+KDG 396N,Tractor,Fuel Pump,Fuel System,Goodyear,13458.52,2024-08-19,Hydraulic issue
+KDG 396N,Tractor,Radiator,Cooling System,TurboTraders,5565.47,2024-10-22,Tyre worn out
+KDG 396N,Tractor,Oil Filter,Engine,MechWorks,5828.22,2025-02-10,Tyre worn out
+KDG 396N,Tractor,Spark Plug,Ignition,Gallant,7260.73,2025-01-09,Overheating
+KBZ 137N,Tractor,Air Filter,Air Intake,Gallant,14928.22,2025-04-14,Hydraulic issue
+KBZ 137N,Tractor,Battery,Electrical,PartsPlus,5578.62,2025-04-22,Tyre worn out
+KBZ 137N,Tractor,Tyre,Wheels,Aeolus,14283.99,2024-07-07,Electrical fault
+KBZ 137N,Tractor,Fuel Pump,Fuel System,DieselParts,3272.43,2025-04-16,Brake failure
+KBZ 137N,Tractor,Fuel Pump,Fuel System,Aeolus,8501.27,2025-04-07,Routine service
+KBZ 137N,Tractor,Spark Plug,Ignition,Goodyear,5236.27,2025-05-30,Oil leak
+KBZ 137N,Tractor,Oil Filter,Engine,BKT,5428.36,2025-02-25,Electrical fault
+KBZ 137N,Tractor,Radiator,Cooling System,DieselParts,3998.81,2024-11-11,Low power
+KDL 966H,Tractor,Oil Filter,Engine,DieselParts,10657.85,2025-06-04,Low power
+KDL 966H,Tractor,Tyre,Wheels,Aeolus,2097.23,2025-02-14,Routine service
+KDL 966H,Tractor,Spark Plug,Ignition,Gallant,5981.5,2025-04-26,Routine service
+KDL 966H,Tractor,Oil Filter,Engine,SpareHub,5345.35,2025-01-12,Oil leak
+KDL 966H,Tractor,Brake Pads,Braking System,FarmEquip Co,14267.32,2025-04-06,Overheating
+KDL 966H,Tractor,Tyre,Wheels,Aeolus,13226.14,2025-03-05,Routine service
+KDL 966H,Tractor,Alternator,Electrical,DieselParts,13295.21,2025-03-17,Electrical fault
+KBZ 577Y,Tractor,Fuel Pump,Fuel System,Goodyear,10660.64,2025-06-16,Brake failure
+KBZ 577Y,Tractor,Battery,Electrical,TechFix,12776.54,2025-01-09,Tyre worn out
+KBZ 577Y,Tractor,Tyre,Wheels,BKT,14722.68,2024-11-14,Low power
+KBZ 577Y,Tractor,Alternator,Electrical,PowerAuto,14874.97,2024-07-02,Electrical fault
+KBZ 577Y,Tractor,Radiator,Cooling System,TurboTraders,6034.4,2024-11-04,Battery issue
+KBX 729E,Tractor,Brake Pads,Braking System,TurboTraders,11944.13,2025-06-07,Low power
+KBX 729E,Tractor,Alternator,Electrical,AutoPro Ltd,3242.04,2025-06-02,Hydraulic issue
+KBX 729E,Tractor,Brake Pads,Braking System,Gallant,4458.33,2025-05-04,Hydraulic issue
+KBX 729E,Tractor,Fuel Pump,Fuel System,JKT,2675.18,2024-11-14,Hydraulic issue
+KBX 729E,Tractor,Battery,Electrical,JKT,9039.78,2024-11-17,Tyre worn out
+KBX 729E,Tractor,Oil Filter,Engine,TurboTraders,2715.88,2024-12-21,Hydraulic issue
+KBX 729E,Tractor,Tyre,Wheels,BKT,10638.2,2024-10-23,Hydraulic issue
+KBX 729E,Tractor,Radiator,Cooling System,Gallant,13948.28,2024-09-06,Battery issue
+KBX 451H,Tractor,Oil Filter,Engine,MechWorks,8741.2,2024-11-22,Hydraulic issue
+KBX 451H,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,2977.94,2024-08-18,Routine service
+KBX 451H,Tractor,Battery,Electrical,SpareHub,10555.76,2024-09-08,Engine noise
+KBX 451H,Tractor,Oil Filter,Engine,DieselParts,10360.49,2025-03-28,Battery issue
+KBX 451H,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,1691.05,2024-12-09,Overheating
+KBX 451H,Tractor,Battery,Electrical,PowerAuto,8082.34,2025-02-25,Engine noise
+KDM 903X,Tractor,Radiator,Cooling System,SpareHub,10556.84,2024-09-03,Brake failure
+KDM 903X,Tractor,Oil Filter,Engine,AutoPro Ltd,10060.11,2025-03-28,Low power
+KDM 903X,Tractor,Alternator,Electrical,MechWorks,4385.73,2024-07-29,Hydraulic issue
+KDM 903X,Tractor,Brake Pads,Braking System,JKT,7887.62,2024-10-21,Routine service
+KDM 903X,Tractor,Battery,Electrical,AutoPro Ltd,3636.5,2024-07-03,Low power
+KDM 903X,Tractor,Oil Filter,Engine,JKT,1679.49,2025-02-16,Tyre worn out
+KDM 903X,Tractor,Spark Plug,Ignition,AutoPro Ltd,12433.58,2024-11-09,Engine noise
+KDM 903X,Tractor,Tyre,Wheels,Gallant,1564.89,2025-02-08,Engine noise
+KDG 394M,Tractor,Oil Filter,Engine,MechWorks,3111.44,2024-08-03,Battery issue
+KDG 394M,Tractor,Hydraulic Pump,Hydraulics,Goodyear,2508.89,2024-12-31,Overheating
+KDG 394M,Tractor,Battery,Electrical,DieselParts,12032.33,2025-03-24,Overheating
+KDG 394M,Tractor,Brake Pads,Braking System,TechFix,5662.93,2025-04-08,Hydraulic issue
+KDG 394M,Tractor,Fuel Pump,Fuel System,Aeolus,5141.78,2025-04-28,Hydraulic issue
+KDG 394M,Tractor,Battery,Electrical,TurboTraders,6479.2,2025-04-29,Routine service
+KDG 394M,Tractor,Brake Pads,Braking System,HeavyDuty Supplies,11775.15,2025-01-06,Brake failure
+KDM 989A,Tractor,Battery,Electrical,TurboTraders,6971.41,2024-08-16,Battery issue
+KDM 989A,Tractor,Battery,Electrical,MechWorks,12226.31,2025-01-05,Brake failure
+KDM 989A,Tractor,Spark Plug,Ignition,SpareHub,2066.94,2025-01-14,Overheating
+KDM 989A,Tractor,Brake Pads,Braking System,Goodyear,14268.75,2024-09-26,Routine service
+KDM 989A,Tractor,Battery,Electrical,TechFix,7233.81,2024-10-29,Low power
+KDM 989A,Tractor,Spark Plug,Ignition,AutoPro Ltd,3945.45,2024-10-03,Engine noise
+KBZ 747L,Tractor,Spark Plug,Ignition,PartsPlus,5356.84,2024-07-27,Tyre worn out
+KBZ 747L,Tractor,Battery,Electrical,TechFix,13294.41,2025-01-17,Hydraulic issue
+KBZ 747L,Tractor,Brake Pads,Braking System,PartsPlus,9084.84,2025-05-20,Routine service
+KBZ 747L,Tractor,Spark Plug,Ignition,MechWorks,8032.71,2025-01-15,Engine noise
+KDM 311T,Tractor,Battery,Electrical,TechFix,9620.1,2025-05-10,Routine service
+KDM 311T,Tractor,Brake Pads,Braking System,PartsPlus,12459.45,2024-10-31,Tyre worn out
+KDM 311T,Tractor,Oil Filter,Engine,PartsPlus,14157.7,2024-08-10,Low power
+KDM 311T,Tractor,Radiator,Cooling System,MechWorks,9640.15,2025-03-25,Battery issue
+KDM 311T,Tractor,Oil Filter,Engine,TurboTraders,4962.26,2025-05-14,Overheating
+KDM 311T,Tractor,Oil Filter,Engine,HeavyDuty Supplies,9019.9,2024-10-15,Overheating
+KBX 814D,Tractor,Fuel Pump,Fuel System,MechWorks,3596.28,2024-07-27,Low power
+KBX 814D,Tractor,Air Filter,Air Intake,Aeolus,12883.33,2024-12-06,Engine noise
+KBX 814D,Tractor,Hydraulic Pump,Hydraulics,BKT,13425.11,2024-07-18,Engine noise
+KBX 814D,Tractor,Alternator,Electrical,TechFix,1788.3,2024-07-07,Brake failure
+KBX 814D,Tractor,Battery,Electrical,TechFix,2632.97,2024-08-25,Low power
+KDJ 712L,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,3031.98,2024-10-25,Routine service
+KDJ 712L,Tractor,Fuel Pump,Fuel System,MechWorks,5478.0,2025-01-23,Battery issue
+KDJ 712L,Tractor,Radiator,Cooling System,MechWorks,7443.18,2025-04-08,Tyre worn out
+KDJ 712L,Tractor,Hydraulic Pump,Hydraulics,SpareHub,12253.52,2024-11-30,Tyre worn out
+KDJ 712L,Tractor,Alternator,Electrical,TechFix,13645.87,2024-08-09,Low power
+KBZ 226M,Tractor,Air Filter,Air Intake,PartsPlus,13229.52,2024-10-20,Oil leak
+KBZ 226M,Tractor,Hydraulic Pump,Hydraulics,JKT,8400.69,2024-06-24,Electrical fault
+KBZ 226M,Tractor,Hydraulic Pump,Hydraulics,Goodyear,9587.33,2025-04-13,Brake failure
+KBZ 226M,Tractor,Oil Filter,Engine,TurboTraders,14603.52,2024-09-07,Electrical fault
+KBZ 226M,Tractor,Hydraulic Pump,Hydraulics,JKT,7234.48,2025-01-26,Oil leak
+KBZ 226M,Tractor,Spark Plug,Ignition,Goodyear,8668.22,2025-04-23,Battery issue
+KBZ 226M,Tractor,Air Filter,Air Intake,PartsPlus,13533.48,2025-03-03,Hydraulic issue
+KCH 552G,Tractor,Spark Plug,Ignition,JKT,11013.28,2025-02-05,Oil leak
+KCH 552G,Tractor,Oil Filter,Engine,FarmEquip Co,1984.9,2025-04-19,Electrical fault
+KCH 552G,Tractor,Spark Plug,Ignition,PowerAuto,14672.63,2025-06-04,Engine noise
+KCH 552G,Tractor,Alternator,Electrical,FarmEquip Co,13722.64,2025-04-07,Battery issue
+KCH 552G,Tractor,Oil Filter,Engine,SpareHub,6455.42,2025-01-25,Engine noise
+KCH 552G,Tractor,Alternator,Electrical,PowerAuto,10633.5,2024-10-04,Electrical fault
+KCH 552G,Tractor,Fuel Pump,Fuel System,Goodyear,10389.44,2025-02-17,Brake failure
+KCH 552G,Tractor,Tyre,Wheels,JKT,1555.19,2025-05-03,Overheating
+KBZ 714C,Tractor,Hydraulic Pump,Hydraulics,TechFix,1958.11,2024-10-02,Brake failure
+KBZ 714C,Tractor,Brake Pads,Braking System,AutoPro Ltd,8813.35,2024-07-15,Oil leak
+KBZ 714C,Tractor,Oil Filter,Engine,TurboTraders,13044.79,2025-04-30,Engine noise
+KBZ 714C,Tractor,Alternator,Electrical,FarmEquip Co,13497.76,2024-07-29,Overheating
+KBZ 714C,Tractor,Radiator,Cooling System,PartsPlus,9872.52,2025-05-12,Engine noise
+KBZ 714C,Tractor,Brake Pads,Braking System,HeavyDuty Supplies,11457.67,2025-03-10,Oil leak
+KBZ 714C,Tractor,Brake Pads,Braking System,AutoPro Ltd,5917.63,2024-09-10,Low power
+KBZ 714C,Tractor,Air Filter,Air Intake,Goodyear,6372.17,2024-08-06,Low power
+KDJ 461K,Tractor,Air Filter,Air Intake,TechFix,14086.11,2024-11-01,Electrical fault
+KDJ 461K,Tractor,Brake Pads,Braking System,PartsPlus,8593.42,2025-06-07,Tyre worn out
+KDJ 461K,Tractor,Alternator,Electrical,BKT,9222.46,2024-10-29,Hydraulic issue
+KDJ 461K,Tractor,Brake Pads,Braking System,TechFix,10973.65,2025-06-09,Electrical fault
+KDJ 461K,Tractor,Alternator,Electrical,TurboTraders,5978.05,2024-11-04,Brake failure
+KDJ 461K,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,4834.06,2025-06-12,Brake failure
+KDJ 461K,Tractor,Fuel Pump,Fuel System,AutoPro Ltd,12981.18,2025-02-01,Battery issue
+KBN 761V,Tractor,Alternator,Electrical,MechWorks,11903.11,2025-02-02,Electrical fault
+KBN 761V,Tractor,Brake Pads,Braking System,MechWorks,4673.55,2024-07-30,Routine service
+KBN 761V,Tractor,Tyre,Wheels,JKT,3575.2,2025-05-03,Oil leak
+KBN 761V,Tractor,Spark Plug,Ignition,Aeolus,10342.01,2025-03-07,Battery issue
+KBN 761V,Tractor,Tyre,Wheels,JKT,5884.73,2025-03-22,Electrical fault
+KBN 761V,Tractor,Spark Plug,Ignition,PartsPlus,6488.63,2024-10-15,Engine noise
+KBN 761V,Tractor,Radiator,Cooling System,TurboTraders,5548.71,2024-11-12,Overheating
+KBN 761V,Tractor,Battery,Electrical,AutoPro Ltd,2186.54,2025-06-10,Overheating
+KDL 481C,Tractor,Radiator,Cooling System,JKT,2462.16,2025-05-03,Battery issue
+KDL 481C,Tractor,Alternator,Electrical,FarmEquip Co,5103.92,2024-11-13,Tyre worn out
+KDL 481C,Tractor,Radiator,Cooling System,TechFix,13953.45,2024-09-30,Oil leak
+KDL 481C,Tractor,Brake Pads,Braking System,PowerAuto,13480.62,2024-12-25,Hydraulic issue
+KDL 481C,Tractor,Hydraulic Pump,Hydraulics,Gallant,12752.5,2024-12-20,Low power
+KDL 481C,Tractor,Spark Plug,Ignition,Goodyear,10019.21,2024-12-07,Oil leak
+KBX 419E,Tractor,Fuel Pump,Fuel System,Gallant,2819.08,2024-10-14,Tyre worn out
+KBX 419E,Tractor,Tyre,Wheels,Gallant,13911.44,2024-09-05,Tyre worn out
+KBX 419E,Tractor,Alternator,Electrical,TechFix,2456.15,2025-06-07,Electrical fault
+KBX 419E,Tractor,Brake Pads,Braking System,Aeolus,14499.01,2025-01-21,Overheating
+KBX 419E,Tractor,Battery,Electrical,PartsPlus,13087.8,2024-08-15,Overheating
+KBX 419E,Tractor,Oil Filter,Engine,HeavyDuty Supplies,2646.02,2025-02-07,Overheating
+KDA 252R,Tractor,Oil Filter,Engine,HeavyDuty Supplies,14502.47,2024-12-30,Battery issue
+KDA 252R,Tractor,Battery,Electrical,FarmEquip Co,9751.0,2024-09-03,Routine service
+KDA 252R,Tractor,Radiator,Cooling System,TurboTraders,3101.99,2024-08-31,Engine noise
+KDA 252R,Tractor,Battery,Electrical,SpareHub,6855.14,2025-03-22,Hydraulic issue
+KDL 388V,Tractor,Tyre,Wheels,JKT,13698.05,2024-08-09,Oil leak
+KDL 388V,Tractor,Oil Filter,Engine,PartsPlus,14875.57,2024-09-03,Brake failure
+KDL 388V,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,10748.67,2025-05-03,Battery issue
+KDL 388V,Tractor,Radiator,Cooling System,AutoPro Ltd,3402.19,2025-06-06,Overheating
+KDM 492P,Tractor,Tyre,Wheels,BKT,2805.38,2024-06-26,Electrical fault
+KDM 492P,Tractor,Battery,Electrical,BKT,2295.49,2024-10-25,Low power
+KDM 492P,Tractor,Alternator,Electrical,BKT,12668.22,2025-02-16,Brake failure
+KDM 492P,Tractor,Oil Filter,Engine,FarmEquip Co,1556.98,2024-10-13,Routine service
+KDM 492P,Tractor,Fuel Pump,Fuel System,PartsPlus,8151.29,2025-04-09,Battery issue
+KDM 492P,Tractor,Brake Pads,Braking System,SpareHub,14140.25,2025-01-28,Electrical fault
+KDM 492P,Tractor,Oil Filter,Engine,AutoPro Ltd,8662.81,2025-05-21,Brake failure
+KDM 492P,Tractor,Alternator,Electrical,TechFix,8029.3,2025-03-07,Electrical fault
+KDA 505U,Tractor,Tyre,Wheels,Aeolus,11718.75,2024-09-27,Brake failure
+KDA 505U,Tractor,Battery,Electrical,HeavyDuty Supplies,3903.55,2024-09-20,Oil leak
+KDA 505U,Tractor,Hydraulic Pump,Hydraulics,MechWorks,6358.03,2025-05-29,Hydraulic issue
+KDA 505U,Tractor,Air Filter,Air Intake,AutoPro Ltd,9539.68,2024-10-16,Routine service
+KCN 331M,Tractor,Radiator,Cooling System,PartsPlus,4583.39,2024-09-05,Engine noise
+KCN 331M,Tractor,Brake Pads,Braking System,MechWorks,9554.91,2025-05-21,Battery issue
+KCN 331M,Tractor,Battery,Electrical,MechWorks,11951.44,2025-04-24,Brake failure
+KCN 331M,Tractor,Alternator,Electrical,AutoPro Ltd,2430.05,2025-02-22,Electrical fault
+KCN 331M,Tractor,Hydraulic Pump,Hydraulics,DieselParts,13864.02,2025-05-03,Electrical fault
+KBU 430S,Tractor,Hydraulic Pump,Hydraulics,Aeolus,5625.77,2024-12-29,Overheating
+KBU 430S,Tractor,Brake Pads,Braking System,TechFix,10766.52,2024-11-24,Electrical fault
+KBU 430S,Tractor,Fuel Pump,Fuel System,HeavyDuty Supplies,12402.2,2025-02-08,Overheating
+KBU 430S,Tractor,Tyre,Wheels,BKT,1620.91,2025-06-14,Oil leak
+KDM 473L,Tractor,Tyre,Wheels,JKT,14361.04,2024-11-29,Brake failure
+KDM 473L,Tractor,Fuel Pump,Fuel System,MechWorks,3047.73,2025-01-12,Routine service
+KDM 473L,Tractor,Oil Filter,Engine,PowerAuto,14719.68,2024-07-27,Battery issue
+KDM 473L,Tractor,Alternator,Electrical,PartsPlus,14665.57,2025-01-25,Electrical fault
+KDM 473L,Tractor,Alternator,Electrical,Aeolus,8121.48,2025-05-27,Hydraulic issue
+KDM 473L,Tractor,Fuel Pump,Fuel System,PowerAuto,5810.53,2024-07-09,Routine service
+KDM 473L,Tractor,Brake Pads,Braking System,SpareHub,9829.63,2025-02-02,Overheating
+KDM 473L,Tractor,Air Filter,Air Intake,JKT,3688.11,2025-02-21,Routine service
+KCH 298D,Tractor,Alternator,Electrical,PartsPlus,13649.97,2024-06-25,Overheating
+KCH 298D,Tractor,Air Filter,Air Intake,PartsPlus,7303.78,2024-09-03,Low power
+KCH 298D,Tractor,Spark Plug,Ignition,TechFix,8659.6,2025-04-12,Brake failure
+KCH 298D,Tractor,Alternator,Electrical,Goodyear,6878.08,2024-12-04,Hydraulic issue
+KCH 298D,Tractor,Brake Pads,Braking System,FarmEquip Co,2362.07,2024-11-24,Hydraulic issue
+KCH 298D,Tractor,Fuel Pump,Fuel System,JKT,4592.59,2025-04-07,Routine service
+KCH 298D,Tractor,Fuel Pump,Fuel System,TechFix,13306.74,2024-09-20,Overheating
+KCH 298D,Tractor,Air Filter,Air Intake,Goodyear,6423.63,2024-10-26,Battery issue
+KDA 138Y,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,3959.9,2024-10-20,Tyre worn out
+KDA 138Y,Tractor,Brake Pads,Braking System,PowerAuto,7541.15,2024-12-29,Electrical fault
+KDA 138Y,Tractor,Hydraulic Pump,Hydraulics,JKT,6296.27,2025-04-27,Electrical fault
+KDA 138Y,Tractor,Hydraulic Pump,Hydraulics,DieselParts,12107.91,2024-08-07,Tyre worn out
+KDA 138Y,Tractor,Radiator,Cooling System,Goodyear,12051.13,2024-12-19,Low power
+KDA 138Y,Tractor,Radiator,Cooling System,Aeolus,11386.23,2024-08-30,Oil leak
+KDA 138Y,Tractor,Battery,Electrical,MechWorks,10671.37,2024-12-05,Battery issue
+KBN 824X,Tractor,Alternator,Electrical,Aeolus,13453.9,2024-11-16,Oil leak
+KBN 824X,Tractor,Oil Filter,Engine,Aeolus,9474.72,2024-08-23,Brake failure
+KBN 824X,Tractor,Alternator,Electrical,BKT,10255.93,2025-02-28,Engine noise
+KBN 824X,Tractor,Brake Pads,Braking System,Goodyear,12553.72,2025-02-03,Oil leak
+KBN 824X,Tractor,Fuel Pump,Fuel System,AutoPro Ltd,9756.13,2025-06-07,Overheating
+KBN 824X,Tractor,Alternator,Electrical,BKT,14097.32,2024-08-21,Electrical fault
+KBN 824X,Tractor,Fuel Pump,Fuel System,MechWorks,5929.18,2024-10-24,Brake failure
+KBN 824X,Tractor,Hydraulic Pump,Hydraulics,TechFix,7111.47,2025-05-12,Battery issue
+KBU 469M,Tractor,Battery,Electrical,PowerAuto,8883.5,2025-05-25,Overheating
+KBU 469M,Tractor,Brake Pads,Braking System,Gallant,9604.69,2024-06-27,Hydraulic issue
+KBU 469M,Tractor,Brake Pads,Braking System,FarmEquip Co,8794.73,2024-07-07,Tyre worn out
+KBU 469M,Tractor,Spark Plug,Ignition,TechFix,1663.17,2024-07-18,Brake failure
+KBU 469M,Tractor,Radiator,Cooling System,PartsPlus,7211.39,2025-02-17,Hydraulic issue
+KBU 469M,Tractor,Radiator,Cooling System,Aeolus,9722.64,2025-05-16,Battery issue
+KDM 223Z,Tractor,Alternator,Electrical,BKT,2321.61,2024-12-15,Oil leak
+KDM 223Z,Tractor,Alternator,Electrical,DieselParts,12104.66,2024-09-18,Battery issue
+KDM 223Z,Tractor,Battery,Electrical,SpareHub,6961.48,2024-07-18,Routine service
+KDM 223Z,Tractor,Alternator,Electrical,TurboTraders,7042.98,2025-05-21,Battery issue
+KDM 223Z,Tractor,Battery,Electrical,PowerAuto,10151.09,2024-09-14,Hydraulic issue
+KDA 470B,Tractor,Battery,Electrical,BKT,9196.25,2024-09-14,Oil leak
+KDA 470B,Tractor,Spark Plug,Ignition,SpareHub,7623.54,2025-02-27,Overheating
+KDA 470B,Tractor,Oil Filter,Engine,TechFix,11508.19,2024-12-13,Tyre worn out
+KDA 470B,Tractor,Tyre,Wheels,Gallant,11877.42,2025-02-08,Low power
+KDA 470B,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,12026.3,2025-04-05,Hydraulic issue
+KDA 470B,Tractor,Hydraulic Pump,Hydraulics,JKT,2744.72,2024-10-30,Oil leak
+KDA 470B,Tractor,Oil Filter,Engine,Gallant,1751.5,2024-10-04,Hydraulic issue
+KDA 470B,Tractor,Battery,Electrical,AutoPro Ltd,3438.02,2025-03-09,Overheating
+KDL 861M,Tractor,Spark Plug,Ignition,TurboTraders,10863.22,2024-09-19,Low power
+KDL 861M,Tractor,Brake Pads,Braking System,TechFix,4657.31,2025-05-02,Tyre worn out
+KDL 861M,Tractor,Alternator,Electrical,SpareHub,3135.94,2024-12-19,Electrical fault
+KDL 861M,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,7900.39,2024-11-17,Hydraulic issue
+KDL 861M,Tractor,Hydraulic Pump,Hydraulics,JKT,14154.65,2024-10-15,Hydraulic issue
+KDL 861M,Tractor,Oil Filter,Engine,Goodyear,2283.77,2024-10-13,Tyre worn out
+KDL 861M,Tractor,Radiator,Cooling System,BKT,14080.53,2024-08-02,Oil leak
+KDL 861M,Tractor,Spark Plug,Ignition,MechWorks,4059.31,2024-07-05,Low power
+KBN 935A,Tractor,Battery,Electrical,SpareHub,9194.2,2024-10-12,Engine noise
+KBN 935A,Tractor,Oil Filter,Engine,AutoPro Ltd,13587.54,2024-12-25,Engine noise
+KBN 935A,Tractor,Brake Pads,Braking System,Goodyear,6315.81,2024-12-24,Engine noise
+KBN 935A,Tractor,Alternator,Electrical,Gallant,2785.62,2024-11-17,Brake failure
+KBN 935A,Tractor,Spark Plug,Ignition,DieselParts,3462.39,2025-03-16,Tyre worn out
+KBN 192P,Tractor,Brake Pads,Braking System,TurboTraders,7972.62,2024-08-20,Routine service
+KBN 192P,Tractor,Air Filter,Air Intake,SpareHub,3030.98,2024-10-22,Battery issue
+KBN 192P,Tractor,Fuel Pump,Fuel System,TurboTraders,14391.54,2024-12-02,Tyre worn out
+KBN 192P,Tractor,Alternator,Electrical,AutoPro Ltd,7528.35,2024-09-12,Electrical fault
+KDG 560G,Tractor,Radiator,Cooling System,DieselParts,14149.28,2025-04-11,Brake failure
+KDG 560G,Tractor,Tyre,Wheels,JKT,6392.09,2024-09-13,Battery issue
+KDG 560G,Tractor,Spark Plug,Ignition,PartsPlus,12385.62,2024-08-07,Electrical fault
+KDG 560G,Tractor,Fuel Pump,Fuel System,SpareHub,6128.52,2025-02-24,Oil leak
+KDG 560G,Tractor,Spark Plug,Ignition,TurboTraders,4437.17,2024-08-29,Battery issue
+KDG 560G,Tractor,Air Filter,Air Intake,Aeolus,7623.6,2025-03-01,Hydraulic issue
+KDG 560G,Tractor,Fuel Pump,Fuel System,AutoPro Ltd,8254.91,2024-12-14,Battery issue
+KDG 560G,Tractor,Brake Pads,Braking System,Goodyear,4983.87,2024-07-04,Electrical fault
+KBZ 857X,Tractor,Hydraulic Pump,Hydraulics,SpareHub,13177.84,2025-01-16,Low power
+KBZ 857X,Tractor,Battery,Electrical,MechWorks,10945.24,2025-06-09,Engine noise
+KBZ 857X,Tractor,Air Filter,Air Intake,BKT,8882.09,2024-10-08,Brake failure
+KBZ 857X,Tractor,Alternator,Electrical,PartsPlus,3285.16,2025-04-08,Low power
+KBZ 857X,Tractor,Radiator,Cooling System,MechWorks,7503.64,2024-06-24,Tyre worn out
+KCH 188X,Tractor,Radiator,Cooling System,BKT,10214.21,2025-03-22,Hydraulic issue
+KCH 188X,Tractor,Radiator,Cooling System,MechWorks,11576.32,2024-12-27,Low power
+KCH 188X,Tractor,Oil Filter,Engine,MechWorks,1736.43,2024-07-11,Electrical fault
+KCH 188X,Tractor,Spark Plug,Ignition,Gallant,2674.12,2025-02-18,Brake failure
+KCH 188X,Tractor,Oil Filter,Engine,JKT,14395.03,2024-08-24,Overheating
+KCH 188X,Tractor,Brake Pads,Braking System,FarmEquip Co,8710.6,2024-08-26,Tyre worn out
+KDG 906M,Tractor,Fuel Pump,Fuel System,FarmEquip Co,11945.62,2024-12-12,Oil leak
+KDG 906M,Tractor,Alternator,Electrical,Goodyear,12944.08,2024-06-21,Electrical fault
+KDG 906M,Tractor,Brake Pads,Braking System,TechFix,7288.3,2024-11-06,Overheating
+KDG 906M,Tractor,Fuel Pump,Fuel System,PowerAuto,8857.94,2025-02-06,Engine noise
+KDG 906M,Tractor,Air Filter,Air Intake,FarmEquip Co,11715.53,2024-08-08,Oil leak
+KDG 906M,Tractor,Air Filter,Air Intake,FarmEquip Co,7857.06,2025-06-09,Overheating
+KDG 906M,Tractor,Radiator,Cooling System,PowerAuto,8854.26,2025-05-23,Low power
+KDA 679B,Tractor,Alternator,Electrical,DieselParts,3736.4,2024-12-31,Electrical fault
+KDA 679B,Tractor,Air Filter,Air Intake,DieselParts,9292.64,2025-05-30,Battery issue
+KDA 679B,Tractor,Alternator,Electrical,TechFix,1811.2,2024-08-01,Electrical fault
+KDA 679B,Tractor,Fuel Pump,Fuel System,PowerAuto,9963.02,2024-11-01,Tyre worn out
+KDA 679B,Tractor,Battery,Electrical,Gallant,14097.42,2025-05-31,Electrical fault
+KDA 679B,Tractor,Spark Plug,Ignition,MechWorks,12976.7,2025-01-01,Brake failure
+KDA 679B,Tractor,Alternator,Electrical,FarmEquip Co,3442.82,2024-10-23,Routine service
+KDA 679B,Tractor,Fuel Pump,Fuel System,BKT,4015.64,2024-07-31,Overheating
+KDA 487U,Tractor,Tyre,Wheels,Gallant,13262.3,2024-10-16,Routine service
+KDA 487U,Tractor,Oil Filter,Engine,BKT,14125.0,2025-03-17,Oil leak
+KDA 487U,Tractor,Battery,Electrical,PowerAuto,8239.47,2024-12-09,Low power
+KDA 487U,Tractor,Radiator,Cooling System,AutoPro Ltd,7472.91,2024-11-06,Tyre worn out
+KDA 487U,Tractor,Radiator,Cooling System,JKT,5720.66,2024-06-19,Battery issue
+KBX 994Y,Tractor,Air Filter,Air Intake,FarmEquip Co,1577.7,2025-06-16,Oil leak
+KBX 994Y,Tractor,Brake Pads,Braking System,BKT,12909.98,2024-08-17,Engine noise
+KBX 994Y,Tractor,Fuel Pump,Fuel System,JKT,8007.44,2024-07-15,Overheating
+KBX 994Y,Tractor,Oil Filter,Engine,TurboTraders,5205.15,2024-08-30,Tyre worn out
+KDA 285D,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,7497.37,2024-08-16,Low power
+KDA 285D,Tractor,Tyre,Wheels,Aeolus,11454.45,2024-09-19,Engine noise
+KDA 285D,Tractor,Radiator,Cooling System,TechFix,14130.37,2024-10-24,Overheating
+KDA 285D,Tractor,Alternator,Electrical,HeavyDuty Supplies,5122.88,2025-01-17,Electrical fault
+KCN 651W,Tractor,Brake Pads,Braking System,DieselParts,2194.91,2024-08-01,Low power
+KCN 651W,Tractor,Battery,Electrical,PowerAuto,5956.06,2024-10-27,Oil leak
+KCN 651W,Tractor,Hydraulic Pump,Hydraulics,MechWorks,13774.03,2025-06-12,Brake failure
+KCN 651W,Tractor,Alternator,Electrical,TechFix,9757.8,2025-05-26,Engine noise
+KCN 651W,Tractor,Radiator,Cooling System,JKT,8127.83,2024-06-30,Oil leak
+KCN 651W,Tractor,Spark Plug,Ignition,AutoPro Ltd,4953.82,2024-08-08,Oil leak
+KCN 651W,Tractor,Spark Plug,Ignition,Aeolus,13695.66,2025-03-24,Engine noise
+KCN 651W,Tractor,Brake Pads,Braking System,TechFix,11733.6,2024-09-30,Battery issue
+KDA 570P,Tractor,Brake Pads,Braking System,PowerAuto,12384.73,2024-07-20,Hydraulic issue
+KDA 570P,Tractor,Oil Filter,Engine,FarmEquip Co,10439.9,2024-09-14,Routine service
+KDA 570P,Tractor,Radiator,Cooling System,BKT,6700.12,2025-02-25,Low power
+KDA 570P,Tractor,Battery,Electrical,Aeolus,8024.27,2025-03-07,Routine service
+KDA 570P,Tractor,Alternator,Electrical,DieselParts,6537.6,2025-06-06,Hydraulic issue
+KDA 570P,Tractor,Tyre,Wheels,Goodyear,3182.68,2025-03-07,Routine service
+KDA 570P,Tractor,Oil Filter,Engine,JKT,13039.08,2025-05-24,Engine noise
+KDA 570P,Tractor,Air Filter,Air Intake,PowerAuto,5796.15,2024-10-04,Engine noise
+KDL 969D,Tractor,Tyre,Wheels,BKT,9563.21,2024-08-10,Low power
+KDL 969D,Tractor,Spark Plug,Ignition,TechFix,11083.78,2025-01-23,Tyre worn out
+KDL 969D,Tractor,Alternator,Electrical,AutoPro Ltd,5236.9,2024-08-16,Hydraulic issue
+KDL 969D,Tractor,Brake Pads,Braking System,BKT,6852.03,2024-08-26,Oil leak
+KDL 969D,Tractor,Fuel Pump,Fuel System,Aeolus,5555.38,2025-05-11,Tyre worn out
+KCH 381R,Tractor,Air Filter,Air Intake,PartsPlus,6348.83,2024-08-01,Electrical fault
+KCH 381R,Tractor,Alternator,Electrical,BKT,6790.37,2025-04-21,Battery issue
+KCH 381R,Tractor,Battery,Electrical,DieselParts,13389.16,2025-05-16,Oil leak
+KCH 381R,Tractor,Brake Pads,Braking System,JKT,5348.3,2025-01-08,Brake failure
+KCH 381R,Tractor,Alternator,Electrical,AutoPro Ltd,13262.74,2025-03-31,Battery issue
+KCH 381R,Tractor,Hydraulic Pump,Hydraulics,JKT,13691.25,2025-06-02,Brake failure
+KDG 500L,Tractor,Spark Plug,Ignition,AutoPro Ltd,12202.06,2024-07-13,Overheating
+KDG 500L,Tractor,Tyre,Wheels,BKT,13938.56,2024-07-13,Hydraulic issue
+KDG 500L,Tractor,Spark Plug,Ignition,AutoPro Ltd,4737.06,2025-04-16,Hydraulic issue
+KDG 500L,Tractor,Air Filter,Air Intake,Aeolus,12678.6,2025-01-25,Overheating
+KDG 500L,Tractor,Fuel Pump,Fuel System,JKT,9768.46,2024-09-22,Hydraulic issue
+KDG 500L,Tractor,Battery,Electrical,Goodyear,10913.41,2025-03-20,Routine service
+KDG 500L,Tractor,Tyre,Wheels,Aeolus,7979.31,2025-06-09,Battery issue
+KDG 779W,Tractor,Air Filter,Air Intake,AutoPro Ltd,3780.13,2024-11-10,Oil leak
+KDG 779W,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,13102.51,2025-01-27,Low power
+KDG 779W,Tractor,Oil Filter,Engine,PartsPlus,7138.16,2025-02-20,Battery issue
+KDG 779W,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,12578.69,2025-05-24,Oil leak
+KDM 365U,Tractor,Air Filter,Air Intake,FarmEquip Co,1919.0,2025-02-17,Brake failure
+KDM 365U,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,11134.15,2024-07-01,Tyre worn out
+KDM 365U,Tractor,Tyre,Wheels,Gallant,6786.44,2025-01-01,Brake failure
+KDM 365U,Tractor,Radiator,Cooling System,AutoPro Ltd,6318.9,2024-08-31,Hydraulic issue
+KBZ 887L,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,14375.9,2025-02-19,Oil leak
+KBZ 887L,Tractor,Battery,Electrical,TechFix,1731.48,2024-11-08,Tyre worn out
+KBZ 887L,Tractor,Air Filter,Air Intake,JKT,4857.12,2024-12-10,Low power
+KBZ 887L,Tractor,Brake Pads,Braking System,PartsPlus,3534.41,2025-05-24,Tyre worn out
+KBU 722X,Tractor,Radiator,Cooling System,BKT,9284.9,2024-11-01,Overheating
+KBU 722X,Tractor,Oil Filter,Engine,Goodyear,4957.14,2025-03-18,Routine service
+KBU 722X,Tractor,Air Filter,Air Intake,Gallant,10468.76,2025-02-05,Battery issue
+KBU 722X,Tractor,Air Filter,Air Intake,PartsPlus,14036.59,2024-11-12,Hydraulic issue
+KBU 722X,Tractor,Radiator,Cooling System,AutoPro Ltd,14608.01,2025-06-07,Routine service
+KBU 722X,Tractor,Alternator,Electrical,HeavyDuty Supplies,4646.71,2024-10-24,Low power
+KBU 722X,Tractor,Brake Pads,Braking System,SpareHub,6692.31,2025-02-24,Battery issue
+KBU 722X,Tractor,Battery,Electrical,TurboTraders,12045.05,2024-10-23,Low power
+KDM 201J,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,4175.72,2024-09-20,Hydraulic issue
+KDM 201J,Tractor,Oil Filter,Engine,MechWorks,13643.6,2025-05-24,Routine service
+KDM 201J,Tractor,Spark Plug,Ignition,Gallant,9170.24,2024-08-08,Low power
+KDM 201J,Tractor,Oil Filter,Engine,BKT,12642.23,2024-11-11,Battery issue
+KDM 201J,Tractor,Tyre,Wheels,Gallant,4437.18,2025-02-27,Overheating
+KDA 587G,Tractor,Air Filter,Air Intake,Gallant,11737.55,2025-01-12,Engine noise
+KDA 587G,Tractor,Tyre,Wheels,BKT,3487.91,2024-08-04,Low power
+KDA 587G,Tractor,Fuel Pump,Fuel System,JKT,3584.37,2024-07-22,Oil leak
+KDA 587G,Tractor,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,14252.88,2025-01-14,Brake failure
+KDA 587G,Tractor,Air Filter,Air Intake,BKT,5249.07,2025-06-02,Oil leak
+KDA 587G,Tractor,Fuel Pump,Fuel System,Gallant,8086.62,2025-05-26,Oil leak
+KDA 587G,Tractor,Fuel Pump,Fuel System,BKT,14161.52,2025-01-09,Overheating
+KDA 587G,Tractor,Brake Pads,Braking System,Gallant,13100.49,2025-02-12,Overheating
+KDA 461P,Tractor,Fuel Pump,Fuel System,PowerAuto,11571.44,2024-11-27,Oil leak
+KDA 461P,Tractor,Fuel Pump,Fuel System,AutoPro Ltd,6542.74,2024-09-08,Hydraulic issue
+KDA 461P,Tractor,Tyre,Wheels,BKT,1948.61,2024-11-30,Battery issue
+KDA 461P,Tractor,Brake Pads,Braking System,AutoPro Ltd,5849.01,2025-02-07,Electrical fault
+KDA 461P,Tractor,Alternator,Electrical,FarmEquip Co,10780.22,2024-08-16,Brake failure
+KDA 461P,Tractor,Air Filter,Air Intake,Gallant,7120.77,2024-08-31,Electrical fault
+KBX 889A,Tractor,Air Filter,Air Intake,BKT,11337.82,2025-01-09,Electrical fault
+KBX 889A,Tractor,Oil Filter,Engine,MechWorks,7304.62,2025-04-22,Routine service
+KBX 889A,Tractor,Alternator,Electrical,TurboTraders,3614.73,2025-02-17,Hydraulic issue
+KBX 889A,Tractor,Brake Pads,Braking System,JKT,9862.57,2025-06-02,Electrical fault
+KBX 889A,Tractor,Brake Pads,Braking System,TurboTraders,11800.16,2024-10-09,Low power
+KBX 889A,Tractor,Fuel Pump,Fuel System,TurboTraders,9294.38,2025-04-17,Overheating
+KBX 889A,Tractor,Alternator,Electrical,AutoPro Ltd,14845.38,2024-09-15,Overheating
+KDM 574G,Tractor,Hydraulic Pump,Hydraulics,Gallant,3054.35,2025-06-04,Tyre worn out
+KDM 574G,Tractor,Fuel Pump,Fuel System,FarmEquip Co,13152.17,2025-05-23,Routine service
+KDM 574G,Tractor,Radiator,Cooling System,BKT,5342.93,2025-06-10,Oil leak
+KDM 574G,Tractor,Air Filter,Air Intake,SpareHub,4691.09,2024-12-16,Low power
+KDM 574G,Tractor,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,7035.52,2024-06-28,Electrical fault
+KDM 574G,Tractor,Battery,Electrical,TechFix,14720.27,2025-06-07,Electrical fault
+KDM 574G,Tractor,Tyre,Wheels,Aeolus,9726.68,2024-09-05,Low power
+KCN 991K,Tractor,Battery,Electrical,AutoPro Ltd,2331.01,2024-07-08,Electrical fault
+KCN 991K,Tractor,Battery,Electrical,BKT,13141.17,2024-07-21,Oil leak
+KCN 991K,Tractor,Battery,Electrical,Gallant,6240.07,2024-12-29,Electrical fault
+KCN 991K,Tractor,Battery,Electrical,MechWorks,4596.6,2024-11-27,Engine noise
+KCH 915D,Tractor,Oil Filter,Engine,Aeolus,11919.75,2024-08-03,Tyre worn out
+KCH 915D,Tractor,Hydraulic Pump,Hydraulics,SpareHub,2477.45,2025-04-21,Routine service
+KCH 915D,Tractor,Brake Pads,Braking System,PartsPlus,1830.88,2024-09-13,Overheating
+KCH 915D,Tractor,Spark Plug,Ignition,SpareHub,13095.14,2024-11-18,Hydraulic issue
+KCH 915D,Tractor,Fuel Pump,Fuel System,JKT,5826.58,2024-09-30,Routine service
+KCH 915D,Tractor,Radiator,Cooling System,FarmEquip Co,4196.54,2024-07-10,Routine service
+KCH 915D,Tractor,Fuel Pump,Fuel System,TechFix,5805.85,2024-11-30,Oil leak
+KCH 915D,Tractor,Hydraulic Pump,Hydraulics,Aeolus,5769.63,2025-05-07,Oil leak
+KBX 109G,Tractor,Brake Pads,Braking System,HeavyDuty Supplies,10989.13,2024-11-04,Overheating
+KBX 109G,Tractor,Tyre,Wheels,JKT,8684.27,2024-09-22,Engine noise
+KBX 109G,Tractor,Fuel Pump,Fuel System,SpareHub,10389.11,2025-04-13,Electrical fault
+KBX 109G,Tractor,Radiator,Cooling System,Gallant,13924.56,2024-10-24,Oil leak
+KBX 109G,Tractor,Radiator,Cooling System,PowerAuto,6233.01,2025-02-27,Electrical fault
+KDM 983P,Tractor,Radiator,Cooling System,MechWorks,3052.11,2025-03-11,Engine noise
+KDM 983P,Tractor,Radiator,Cooling System,AutoPro Ltd,6283.32,2025-03-14,Oil leak
+KDM 983P,Tractor,Brake Pads,Braking System,SpareHub,6503.54,2025-01-18,Engine noise
+KDM 983P,Tractor,Spark Plug,Ignition,FarmEquip Co,6251.46,2025-04-17,Brake failure
+KDM 983P,Tractor,Tyre,Wheels,JKT,4418.56,2024-10-19,Low power
+KDA 309B,Tractor,Radiator,Cooling System,FarmEquip Co,13533.92,2024-07-26,Overheating
+KDA 309B,Tractor,Spark Plug,Ignition,JKT,5703.02,2025-01-03,Hydraulic issue
+KDA 309B,Tractor,Air Filter,Air Intake,TurboTraders,2835.18,2024-07-08,Battery issue
+KDA 309B,Tractor,Fuel Pump,Fuel System,TechFix,8216.84,2024-11-28,Routine service
+KBU 815G,Tractor,Brake Pads,Braking System,TurboTraders,7120.82,2024-12-13,Engine noise
+KBU 815G,Tractor,Radiator,Cooling System,AutoPro Ltd,11003.24,2024-08-24,Low power
+KBU 815G,Tractor,Alternator,Electrical,Aeolus,11307.45,2024-09-21,Tyre worn out
+KBU 815G,Tractor,Battery,Electrical,FarmEquip Co,7867.47,2025-05-17,Electrical fault
+KBU 815G,Tractor,Air Filter,Air Intake,JKT,9540.67,2024-10-06,Routine service
+KBU 815G,Tractor,Battery,Electrical,SpareHub,9526.03,2025-02-15,Brake failure
+KBU 815G,Tractor,Oil Filter,Engine,JKT,5543.4,2024-08-23,Hydraulic issue
+KCH 202W,Tractor,Battery,Electrical,Aeolus,9587.72,2024-07-09,Low power
+KCH 202W,Tractor,Tyre,Wheels,BKT,6169.29,2024-11-23,Tyre worn out
+KCH 202W,Tractor,Battery,Electrical,Aeolus,9523.2,2025-05-23,Battery issue
+KCH 202W,Tractor,Radiator,Cooling System,Goodyear,10006.74,2025-02-15,Brake failure
+KCH 202W,Tractor,Oil Filter,Engine,HeavyDuty Supplies,12564.12,2025-06-01,Engine noise
+KCH 202W,Tractor,Oil Filter,Engine,AutoPro Ltd,2565.3,2025-03-04,Tyre worn out
+KCH 202W,Tractor,Fuel Pump,Fuel System,Goodyear,9817.77,2024-10-27,Electrical fault
+KCH 202W,Tractor,Battery,Electrical,PowerAuto,1796.29,2024-09-02,Electrical fault
+KBZ 496V,Tractor,Fuel Pump,Fuel System,BKT,12532.17,2025-05-06,Low power
+KBZ 496V,Tractor,Tyre,Wheels,Goodyear,7093.67,2024-09-17,Low power
+KBZ 496V,Tractor,Alternator,Electrical,JKT,13122.01,2024-07-29,Hydraulic issue
+KBZ 496V,Tractor,Hydraulic Pump,Hydraulics,SpareHub,11849.91,2025-02-22,Overheating
+KBZ 496V,Tractor,Battery,Electrical,JKT,12054.07,2024-12-02,Tyre worn out
+KBZ 496V,Tractor,Radiator,Cooling System,TechFix,2739.52,2024-11-09,Low power
+KBZ 496V,Tractor,Radiator,Cooling System,PowerAuto,13266.77,2025-01-19,Tyre worn out
+KDG 648K,Tractor,Alternator,Electrical,Aeolus,10664.3,2025-05-02,Hydraulic issue
+KDG 648K,Tractor,Air Filter,Air Intake,JKT,6260.74,2024-10-20,Tyre worn out
+KDG 648K,Tractor,Hydraulic Pump,Hydraulics,BKT,3663.07,2024-12-11,Battery issue
+KDG 648K,Tractor,Tyre,Wheels,JKT,4329.19,2024-11-22,Low power
+KDG 648K,Tractor,Air Filter,Air Intake,AutoPro Ltd,2864.25,2024-07-10,Brake failure
+KDG 648K,Tractor,Tyre,Wheels,BKT,13448.1,2024-07-07,Tyre worn out
+KDG 648K,Tractor,Spark Plug,Ignition,JKT,11540.14,2024-07-22,Oil leak
+KBZ 784L,Tractor,Oil Filter,Engine,MechWorks,8981.82,2024-11-15,Overheating
+KBZ 784L,Tractor,Alternator,Electrical,PartsPlus,10771.91,2024-09-20,Routine service
+KBZ 784L,Tractor,Tyre,Wheels,JKT,3567.72,2024-06-22,Electrical fault
+KBZ 784L,Tractor,Spark Plug,Ignition,BKT,4435.17,2025-04-30,Routine service
+KBZ 784L,Tractor,Tyre,Wheels,Aeolus,5294.44,2024-09-19,Low power
+KBZ 952F,Tractor,Alternator,Electrical,PowerAuto,11459.11,2024-07-08,Overheating
+KBZ 952F,Tractor,Oil Filter,Engine,TechFix,4002.47,2025-03-21,Brake failure
+KBZ 952F,Tractor,Tyre,Wheels,Gallant,9119.1,2025-06-17,Tyre worn out
+KBZ 952F,Tractor,Fuel Pump,Fuel System,TurboTraders,3357.58,2025-02-20,Tyre worn out
+KBZ 952F,Tractor,Tyre,Wheels,Aeolus,6998.06,2025-02-07,Oil leak
+KBZ 952F,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,10091.9,2025-05-13,Low power
+KCH 122R,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,2318.92,2025-04-04,Battery issue
+KCH 122R,Tractor,Alternator,Electrical,MechWorks,2399.37,2024-11-27,Hydraulic issue
+KCH 122R,Tractor,Brake Pads,Braking System,DieselParts,8869.76,2025-03-17,Battery issue
+KCH 122R,Tractor,Fuel Pump,Fuel System,Goodyear,11547.45,2024-08-21,Engine noise
+KCH 122R,Tractor,Brake Pads,Braking System,TurboTraders,11194.33,2025-04-29,Low power
+KCH 122R,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,11375.19,2025-01-10,Low power
+KCH 122R,Tractor,Air Filter,Air Intake,TechFix,8518.47,2025-01-28,Low power
+KCH 122R,Tractor,Battery,Electrical,FarmEquip Co,11972.19,2025-03-17,Electrical fault
+KDG 783P,Tractor,Tyre,Wheels,Gallant,3991.71,2025-03-28,Battery issue
+KDG 783P,Tractor,Battery,Electrical,PartsPlus,12502.19,2024-08-20,Tyre worn out
+KDG 783P,Tractor,Radiator,Cooling System,Gallant,10260.89,2025-02-22,Low power
+KDG 783P,Tractor,Brake Pads,Braking System,MechWorks,13959.42,2025-05-19,Engine noise
+KDG 783P,Tractor,Tyre,Wheels,BKT,2539.11,2025-02-05,Oil leak
+KDL 291P,Tractor,Oil Filter,Engine,TechFix,8034.5,2024-07-09,Routine service
+KDL 291P,Tractor,Alternator,Electrical,TurboTraders,4865.67,2024-10-21,Electrical fault
+KDL 291P,Tractor,Alternator,Electrical,FarmEquip Co,9506.33,2024-08-24,Routine service
+KDL 291P,Tractor,Fuel Pump,Fuel System,HeavyDuty Supplies,13837.29,2025-06-16,Engine noise
+KDL 291P,Tractor,Fuel Pump,Fuel System,HeavyDuty Supplies,11621.42,2025-02-16,Routine service
+KDM 527W,Tractor,Hydraulic Pump,Hydraulics,DieselParts,13148.91,2025-03-18,Routine service
+KDM 527W,Tractor,Alternator,Electrical,TechFix,8599.3,2025-05-21,Tyre worn out
+KDM 527W,Tractor,Spark Plug,Ignition,MechWorks,4263.87,2025-05-04,Hydraulic issue
+KDM 527W,Tractor,Alternator,Electrical,Goodyear,7713.34,2025-01-16,Electrical fault
+KDM 527W,Tractor,Oil Filter,Engine,AutoPro Ltd,8875.75,2025-01-07,Battery issue
+KDM 527W,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,14682.59,2024-10-11,Overheating
+KCH 495M,Tractor,Brake Pads,Braking System,SpareHub,5754.11,2024-07-11,Brake failure
+KCH 495M,Tractor,Spark Plug,Ignition,BKT,14025.23,2024-08-14,Tyre worn out
+KCH 495M,Tractor,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,8553.92,2024-12-28,Brake failure
+KCH 495M,Tractor,Air Filter,Air Intake,JKT,4945.0,2025-01-27,Battery issue
+KCH 495M,Tractor,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,8369.92,2025-01-25,Low power
+KCC 134F,Tractor,Radiator,Cooling System,SpareHub,3702.84,2025-04-15,Overheating
+KCC 134F,Tractor,Radiator,Cooling System,Goodyear,10126.97,2024-06-26,Tyre worn out
+KCC 134F,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,3481.7,2025-03-04,Routine service
+KCC 134F,Tractor,Tyre,Wheels,Gallant,10863.43,2024-12-06,Oil leak
+KCC 134F,Tractor,Radiator,Cooling System,Aeolus,9907.48,2025-05-02,Hydraulic issue
+KCC 134F,Tractor,Alternator,Electrical,PartsPlus,5889.18,2024-06-25,Battery issue
+KCC 134F,Tractor,Hydraulic Pump,Hydraulics,SpareHub,7872.22,2024-08-14,Electrical fault
+KCC 134F,Tractor,Battery,Electrical,DieselParts,3396.5,2025-01-13,Routine service
+KCH 354A,Tractor,Oil Filter,Engine,JKT,13672.55,2025-03-21,Oil leak
+KCH 354A,Tractor,Fuel Pump,Fuel System,Goodyear,8568.18,2025-05-27,Low power
+KCH 354A,Tractor,Battery,Electrical,FarmEquip Co,5164.42,2024-08-28,Low power
+KCH 354A,Tractor,Tyre,Wheels,Goodyear,3641.48,2025-02-28,Battery issue
+KCH 354A,Tractor,Battery,Electrical,BKT,10595.99,2024-10-21,Tyre worn out
+KCH 354A,Tractor,Radiator,Cooling System,DieselParts,12385.95,2024-08-09,Overheating
+KCH 354A,Tractor,Brake Pads,Braking System,DieselParts,12347.32,2025-05-02,Routine service
+KBZ 447P,Tractor,Spark Plug,Ignition,JKT,8694.04,2024-10-30,Oil leak
+KBZ 447P,Tractor,Spark Plug,Ignition,JKT,8783.76,2025-01-15,Hydraulic issue
+KBZ 447P,Tractor,Spark Plug,Ignition,SpareHub,5505.14,2025-01-19,Hydraulic issue
+KBZ 447P,Tractor,Battery,Electrical,FarmEquip Co,8427.83,2024-08-25,Low power
+KBZ 447P,Tractor,Hydraulic Pump,Hydraulics,MechWorks,12838.39,2025-04-05,Routine service
+KBZ 447P,Tractor,Fuel Pump,Fuel System,TechFix,12103.49,2025-05-30,Hydraulic issue
+KBZ 447P,Tractor,Alternator,Electrical,TechFix,5953.62,2024-07-15,Battery issue
+KDG 186C,Tractor,Oil Filter,Engine,JKT,10525.76,2025-04-03,Hydraulic issue
+KDG 186C,Tractor,Radiator,Cooling System,Gallant,4761.04,2025-01-02,Routine service
+KDG 186C,Tractor,Tyre,Wheels,Goodyear,5837.97,2025-04-26,Oil leak
+KDG 186C,Tractor,Spark Plug,Ignition,TurboTraders,3186.52,2025-01-15,Brake failure
+KCC 230S,Tractor,Hydraulic Pump,Hydraulics,BKT,2746.29,2024-09-06,Hydraulic issue
+KCC 230S,Tractor,Hydraulic Pump,Hydraulics,Goodyear,11942.9,2024-10-02,Brake failure
+KCC 230S,Tractor,Brake Pads,Braking System,PowerAuto,5187.02,2025-03-16,Oil leak
+KCC 230S,Tractor,Alternator,Electrical,TechFix,3366.9,2025-05-13,Hydraulic issue
+KCC 230S,Tractor,Oil Filter,Engine,TurboTraders,5182.47,2024-08-13,Overheating
+KCC 688K,Tractor,Fuel Pump,Fuel System,TurboTraders,2926.61,2024-12-15,Low power
+KCC 688K,Tractor,Radiator,Cooling System,BKT,10754.29,2024-08-06,Oil leak
+KCC 688K,Tractor,Oil Filter,Engine,HeavyDuty Supplies,1518.6,2024-07-20,Overheating
+KCC 688K,Tractor,Battery,Electrical,PartsPlus,5866.83,2024-12-13,Tyre worn out
+KCC 688K,Tractor,Oil Filter,Engine,MechWorks,2219.87,2024-07-22,Oil leak
+KCC 688K,Tractor,Alternator,Electrical,TechFix,3892.9,2024-09-08,Battery issue
+KCC 103K,Tractor,Tyre,Wheels,Goodyear,13577.3,2024-08-20,Low power
+KCC 103K,Tractor,Alternator,Electrical,PowerAuto,5160.69,2024-06-23,Engine noise
+KCC 103K,Tractor,Hydraulic Pump,Hydraulics,TechFix,2144.28,2025-01-24,Overheating
+KCC 103K,Tractor,Air Filter,Air Intake,AutoPro Ltd,12160.76,2024-09-07,Brake failure
+KCC 103K,Tractor,Tyre,Wheels,BKT,8794.89,2024-12-21,Battery issue
+KCC 103K,Tractor,Air Filter,Air Intake,DieselParts,14491.13,2025-03-14,Hydraulic issue
+KCC 103K,Tractor,Hydraulic Pump,Hydraulics,MechWorks,10928.13,2025-03-16,Oil leak
+KCC 103K,Tractor,Spark Plug,Ignition,Gallant,12498.47,2024-09-04,Oil leak
+KDJ 446C,Tractor,Oil Filter,Engine,TurboTraders,7767.2,2025-02-19,Oil leak
+KDJ 446C,Tractor,Fuel Pump,Fuel System,TechFix,9418.42,2024-09-07,Overheating
+KDJ 446C,Tractor,Radiator,Cooling System,HeavyDuty Supplies,11470.36,2025-01-12,Overheating
+KDJ 446C,Tractor,Brake Pads,Braking System,DieselParts,11156.58,2024-10-16,Battery issue
+KDJ 446C,Tractor,Alternator,Electrical,DieselParts,11489.36,2025-02-07,Battery issue
+KCC 477S,Tractor,Fuel Pump,Fuel System,TechFix,3236.83,2025-02-07,Low power
+KCC 477S,Tractor,Oil Filter,Engine,FarmEquip Co,11801.63,2025-03-24,Tyre worn out
+KCC 477S,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,8409.03,2025-05-01,Overheating
+KCC 477S,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,10949.16,2024-12-29,Oil leak
+KBZ 421T,Tractor,Tyre,Wheels,BKT,5652.52,2025-02-16,Hydraulic issue
+KBZ 421T,Tractor,Hydraulic Pump,Hydraulics,Aeolus,12238.42,2025-02-12,Hydraulic issue
+KBZ 421T,Tractor,Oil Filter,Engine,HeavyDuty Supplies,3928.91,2024-07-15,Brake failure
+KBZ 421T,Tractor,Spark Plug,Ignition,DieselParts,7676.25,2025-04-21,Electrical fault
+KBZ 421T,Tractor,Alternator,Electrical,AutoPro Ltd,12013.5,2025-06-02,Engine noise
+KBZ 421T,Tractor,Oil Filter,Engine,TurboTraders,4969.59,2025-04-25,Overheating
+KCN 180K,Tractor,Alternator,Electrical,FarmEquip Co,2550.89,2024-12-02,Brake failure
+KCN 180K,Tractor,Spark Plug,Ignition,BKT,4357.28,2025-06-02,Hydraulic issue
+KCN 180K,Tractor,Alternator,Electrical,TechFix,3344.81,2025-06-13,Oil leak
+KCN 180K,Tractor,Brake Pads,Braking System,Goodyear,6441.04,2025-05-24,Engine noise
+KCN 180K,Tractor,Fuel Pump,Fuel System,Goodyear,8024.07,2024-06-30,Engine noise
+KCN 180K,Tractor,Alternator,Electrical,Gallant,6513.35,2024-08-17,Engine noise
+KBZ 704H,Tractor,Tyre,Wheels,Aeolus,8888.87,2025-03-03,Overheating
+KBZ 704H,Tractor,Fuel Pump,Fuel System,TechFix,6376.83,2024-12-23,Routine service
+KBZ 704H,Tractor,Air Filter,Air Intake,DieselParts,2321.1,2024-12-24,Low power
+KBZ 704H,Tractor,Fuel Pump,Fuel System,DieselParts,1701.53,2024-11-09,Low power
+KBZ 704H,Tractor,Spark Plug,Ignition,FarmEquip Co,8293.16,2024-12-14,Battery issue
+KBZ 704H,Tractor,Alternator,Electrical,TechFix,9835.07,2024-06-22,Engine noise
+KBZ 733L,Tractor,Tyre,Wheels,BKT,7491.83,2025-04-11,Battery issue
+KBZ 733L,Tractor,Hydraulic Pump,Hydraulics,SpareHub,5554.69,2024-07-12,Low power
+KBZ 733L,Tractor,Battery,Electrical,JKT,4476.76,2025-03-26,Oil leak
+KBZ 733L,Tractor,Hydraulic Pump,Hydraulics,TurboTraders,3960.5,2025-01-02,Oil leak
+KBZ 733L,Tractor,Spark Plug,Ignition,Gallant,13658.23,2025-06-13,Low power
+KBZ 733L,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,1818.51,2025-01-10,Oil leak
+KBZ 733L,Tractor,Battery,Electrical,PartsPlus,5657.18,2024-12-06,Tyre worn out
+KBZ 733L,Tractor,Fuel Pump,Fuel System,TurboTraders,4185.48,2025-06-17,Tyre worn out
+KDL 843B,Tractor,Fuel Pump,Fuel System,PartsPlus,8199.27,2025-06-10,Routine service
+KDL 843B,Tractor,Fuel Pump,Fuel System,TurboTraders,12891.14,2024-12-05,Brake failure
+KDL 843B,Tractor,Hydraulic Pump,Hydraulics,Aeolus,14909.11,2025-02-10,Overheating
+KDL 843B,Tractor,Brake Pads,Braking System,DieselParts,5177.05,2024-08-15,Low power
+KDL 843B,Tractor,Spark Plug,Ignition,TechFix,11958.54,2024-06-25,Low power
+KDL 843B,Tractor,Spark Plug,Ignition,PartsPlus,5406.95,2025-01-22,Oil leak
+KDA 282V,Tractor,Radiator,Cooling System,HeavyDuty Supplies,13370.18,2025-05-24,Brake failure
+KDA 282V,Tractor,Air Filter,Air Intake,Gallant,6234.73,2024-10-14,Engine noise
+KDA 282V,Tractor,Radiator,Cooling System,Aeolus,2932.15,2024-12-15,Low power
+KDA 282V,Tractor,Alternator,Electrical,SpareHub,5251.14,2024-11-07,Overheating
+KDA 282V,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,4936.83,2024-10-16,Routine service
+KDA 282V,Tractor,Tyre,Wheels,Goodyear,14809.16,2024-07-02,Low power
+KDA 282V,Tractor,Oil Filter,Engine,Aeolus,10862.77,2025-04-15,Overheating
+KDA 282V,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,12132.54,2024-12-18,Electrical fault
+KDG 680X,Tractor,Spark Plug,Ignition,BKT,14492.86,2024-11-22,Hydraulic issue
+KDG 680X,Tractor,Hydraulic Pump,Hydraulics,Aeolus,12674.22,2024-12-15,Brake failure
+KDG 680X,Tractor,Tyre,Wheels,Goodyear,8717.59,2024-10-08,Overheating
+KDG 680X,Tractor,Battery,Electrical,Gallant,7317.46,2025-06-13,Battery issue
+KDG 680X,Tractor,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,13766.41,2024-09-01,Hydraulic issue
+KDG 680X,Tractor,Air Filter,Air Intake,DieselParts,4977.23,2024-06-30,Battery issue
+KDG 680X,Tractor,Spark Plug,Ignition,AutoPro Ltd,9943.24,2025-02-18,Tyre worn out
+KBN 169M,Tractor,Oil Filter,Engine,Goodyear,9792.1,2024-09-22,Routine service
+KBN 169M,Tractor,Tyre,Wheels,JKT,1820.78,2024-11-24,Brake failure
+KBN 169M,Tractor,Spark Plug,Ignition,SpareHub,12044.48,2025-04-10,Routine service
+KBN 169M,Tractor,Tyre,Wheels,BKT,11501.88,2024-07-27,Hydraulic issue
+KBN 169M,Tractor,Oil Filter,Engine,JKT,7013.42,2025-04-07,Battery issue
+KBZ 326U,Tractor,Battery,Electrical,TurboTraders,8232.57,2024-12-31,Electrical fault
+KBZ 326U,Tractor,Oil Filter,Engine,Aeolus,7481.47,2025-06-07,Hydraulic issue
+KBZ 326U,Tractor,Spark Plug,Ignition,FarmEquip Co,9134.25,2024-11-20,Brake failure
+KBZ 326U,Tractor,Oil Filter,Engine,PowerAuto,12159.74,2025-06-05,Tyre worn out
+KBZ 326U,Tractor,Fuel Pump,Fuel System,PowerAuto,14470.12,2024-08-31,Electrical fault
+KBZ 326U,Tractor,Radiator,Cooling System,Gallant,12655.2,2025-05-07,Oil leak
+KBZ 326U,Tractor,Air Filter,Air Intake,SpareHub,14848.79,2025-05-03,Engine noise
+KDL 612W,Tractor,Alternator,Electrical,FarmEquip Co,10174.73,2025-02-04,Oil leak
+KDL 612W,Tractor,Brake Pads,Braking System,SpareHub,7348.19,2025-01-11,Brake failure
+KDL 612W,Tractor,Fuel Pump,Fuel System,BKT,5511.6,2024-11-08,Routine service
+KDL 612W,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,14846.34,2024-08-29,Brake failure
+KDL 612W,Tractor,Brake Pads,Braking System,TechFix,2052.47,2024-10-26,Routine service
+KDL 612W,Tractor,Battery,Electrical,Gallant,13443.02,2025-05-14,Engine noise
+KDL 612W,Tractor,Radiator,Cooling System,PartsPlus,3815.25,2025-02-21,Overheating
+KDL 612W,Tractor,Alternator,Electrical,DieselParts,4863.78,2024-07-17,Routine service
+KDJ 265T,Tractor,Battery,Electrical,DieselParts,5788.77,2024-11-15,Oil leak
+KDJ 265T,Tractor,Radiator,Cooling System,JKT,10463.71,2025-03-10,Engine noise
+KDJ 265T,Tractor,Alternator,Electrical,BKT,6110.34,2025-05-08,Hydraulic issue
+KDJ 265T,Tractor,Oil Filter,Engine,FarmEquip Co,2785.82,2024-07-13,Low power
+KBU 292P,Tractor,Radiator,Cooling System,DieselParts,9732.86,2024-09-30,Engine noise
+KBU 292P,Tractor,Tyre,Wheels,Aeolus,7373.51,2024-09-25,Electrical fault
+KBU 292P,Tractor,Brake Pads,Braking System,Gallant,10273.61,2025-04-17,Brake failure
+KBU 292P,Tractor,Fuel Pump,Fuel System,TurboTraders,9553.37,2025-05-02,Battery issue
+KBU 292P,Tractor,Radiator,Cooling System,BKT,5075.66,2024-09-22,Routine service
+KBU 271D,Tractor,Oil Filter,Engine,PowerAuto,13375.93,2025-02-03,Tyre worn out
+KBU 271D,Tractor,Fuel Pump,Fuel System,Aeolus,14603.84,2024-11-14,Electrical fault
+KBU 271D,Tractor,Spark Plug,Ignition,JKT,9337.66,2024-06-28,Hydraulic issue
+KBU 271D,Tractor,Fuel Pump,Fuel System,SpareHub,7505.0,2024-12-10,Engine noise
+KBN 372P,Tractor,Tyre,Wheels,BKT,2632.18,2025-03-25,Electrical fault
+KBN 372P,Tractor,Oil Filter,Engine,PartsPlus,13836.99,2025-04-09,Engine noise
+KBN 372P,Tractor,Alternator,Electrical,JKT,11633.92,2024-12-06,Brake failure
+KBN 372P,Tractor,Alternator,Electrical,FarmEquip Co,9595.0,2024-06-23,Routine service
+KBX 214A,Tractor,Tyre,Wheels,JKT,12574.67,2025-03-31,Hydraulic issue
+KBX 214A,Tractor,Battery,Electrical,TurboTraders,6096.29,2024-10-20,Brake failure
+KBX 214A,Tractor,Hydraulic Pump,Hydraulics,JKT,11629.87,2025-02-12,Engine noise
+KBX 214A,Tractor,Fuel Pump,Fuel System,PartsPlus,9539.94,2025-02-20,Overheating
+KBX 214A,Tractor,Spark Plug,Ignition,AutoPro Ltd,14303.49,2025-04-03,Oil leak
+KBX 214A,Tractor,Radiator,Cooling System,HeavyDuty Supplies,13143.24,2024-06-27,Tyre worn out
+KBX 214A,Tractor,Tyre,Wheels,Gallant,6157.61,2024-07-21,Low power
+KBX 214A,Tractor,Brake Pads,Braking System,PartsPlus,6584.36,2024-10-03,Oil leak
+KDL 345M,Tractor,Oil Filter,Engine,Aeolus,9885.57,2024-10-16,Battery issue
+KDL 345M,Tractor,Radiator,Cooling System,JKT,6025.47,2025-01-16,Engine noise
+KDL 345M,Tractor,Oil Filter,Engine,Gallant,6937.18,2025-04-02,Engine noise
+KDL 345M,Tractor,Oil Filter,Engine,SpareHub,2829.69,2024-07-23,Low power
+KDL 345M,Tractor,Spark Plug,Ignition,PartsPlus,2619.41,2024-09-24,Brake failure
+KDL 345M,Tractor,Radiator,Cooling System,Goodyear,13737.1,2024-11-30,Battery issue
+KCC 184K,Tractor,Radiator,Cooling System,PowerAuto,2303.58,2024-10-29,Brake failure
+KCC 184K,Tractor,Alternator,Electrical,Goodyear,5209.88,2025-02-18,Engine noise
+KCC 184K,Tractor,Hydraulic Pump,Hydraulics,JKT,6633.37,2025-04-06,Tyre worn out
+KCC 184K,Tractor,Spark Plug,Ignition,PowerAuto,2506.93,2025-04-03,Electrical fault
+KCC 184K,Tractor,Oil Filter,Engine,BKT,4194.2,2025-04-23,Overheating
+KCC 184K,Tractor,Brake Pads,Braking System,BKT,11717.82,2024-07-09,Overheating
+KCC 184K,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,5467.31,2025-02-19,Overheating
+KCC 184K,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,2888.66,2024-08-23,Overheating
+KDA 516T,Tractor,Radiator,Cooling System,AutoPro Ltd,6546.11,2025-04-02,Battery issue
+KDA 516T,Tractor,Radiator,Cooling System,TechFix,12073.02,2024-09-06,Electrical fault
+KDA 516T,Tractor,Radiator,Cooling System,BKT,5403.42,2025-06-02,Routine service
+KDA 516T,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,10560.2,2024-08-05,Electrical fault
+KDL 647D,Tractor,Oil Filter,Engine,PowerAuto,1982.75,2025-02-09,Electrical fault
+KDL 647D,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,1647.08,2024-09-29,Engine noise
+KDL 647D,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,14904.55,2025-05-28,Overheating
+KDL 647D,Tractor,Alternator,Electrical,MechWorks,4077.96,2025-03-30,Electrical fault
+KCC 862S,Tractor,Tyre,Wheels,Goodyear,3013.35,2024-08-16,Battery issue
+KCC 862S,Tractor,Hydraulic Pump,Hydraulics,TurboTraders,6471.46,2025-03-14,Routine service
+KCC 862S,Tractor,Fuel Pump,Fuel System,DieselParts,8475.48,2024-12-02,Engine noise
+KCC 862S,Tractor,Oil Filter,Engine,JKT,12919.13,2024-12-13,Electrical fault
+KCC 862S,Tractor,Radiator,Cooling System,AutoPro Ltd,14772.06,2024-10-21,Tyre worn out
+KCC 862S,Tractor,Air Filter,Air Intake,Gallant,10473.11,2025-04-11,Routine service
+KBX 732X,Tractor,Spark Plug,Ignition,SpareHub,8130.27,2024-09-21,Hydraulic issue
+KBX 732X,Tractor,Air Filter,Air Intake,BKT,8718.11,2025-06-14,Tyre worn out
+KBX 732X,Tractor,Oil Filter,Engine,HeavyDuty Supplies,7823.11,2025-01-07,Overheating
+KBX 732X,Tractor,Alternator,Electrical,MechWorks,13259.18,2025-02-15,Battery issue
+KDM 251T,Tractor,Radiator,Cooling System,MechWorks,1687.54,2024-12-14,Brake failure
+KDM 251T,Tractor,Alternator,Electrical,Goodyear,7608.28,2025-05-11,Battery issue
+KDM 251T,Tractor,Radiator,Cooling System,SpareHub,11493.89,2025-06-05,Oil leak
+KDM 251T,Tractor,Fuel Pump,Fuel System,SpareHub,3478.04,2025-03-12,Low power
+KDM 251T,Tractor,Tyre,Wheels,JKT,3048.85,2025-01-29,Tyre worn out
+KDM 251T,Tractor,Tyre,Wheels,BKT,1581.3,2025-04-19,Hydraulic issue
+KDM 251T,Tractor,Radiator,Cooling System,AutoPro Ltd,10544.19,2024-12-19,Brake failure
+KBU 750N,Tractor,Alternator,Electrical,Goodyear,9205.41,2024-06-29,Electrical fault
+KBU 750N,Tractor,Radiator,Cooling System,JKT,8927.93,2024-12-21,Routine service
+KBU 750N,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,6058.03,2025-06-14,Overheating
+KBU 750N,Tractor,Fuel Pump,Fuel System,PartsPlus,5230.05,2025-06-13,Overheating
+KBU 750N,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,14143.52,2024-12-07,Hydraulic issue
+KBZ 458L,Tractor,Air Filter,Air Intake,JKT,7442.49,2025-01-18,Battery issue
+KBZ 458L,Tractor,Fuel Pump,Fuel System,PartsPlus,8052.84,2024-06-18,Oil leak
+KBZ 458L,Tractor,Hydraulic Pump,Hydraulics,PartsPlus,1818.97,2025-01-31,Brake failure
+KBZ 458L,Tractor,Fuel Pump,Fuel System,HeavyDuty Supplies,13116.33,2024-10-30,Brake failure
+KBN 907X,Tractor,Oil Filter,Engine,FarmEquip Co,6008.51,2024-07-25,Engine noise
+KBN 907X,Tractor,Brake Pads,Braking System,MechWorks,6268.48,2025-04-14,Routine service
+KBN 907X,Tractor,Battery,Electrical,PartsPlus,5391.93,2024-11-24,Low power
+KBN 907X,Tractor,Radiator,Cooling System,Goodyear,11480.46,2024-11-15,Battery issue
+KBN 907X,Tractor,Fuel Pump,Fuel System,TechFix,14327.2,2025-02-10,Oil leak
+KDL 109R,Tractor,Spark Plug,Ignition,BKT,9929.02,2024-09-08,Engine noise
+KDL 109R,Tractor,Fuel Pump,Fuel System,PartsPlus,13465.89,2024-11-18,Brake failure
+KDL 109R,Tractor,Tyre,Wheels,BKT,8220.45,2025-02-12,Brake failure
+KDL 109R,Tractor,Battery,Electrical,FarmEquip Co,9121.33,2024-06-25,Oil leak
+KDL 109R,Tractor,Air Filter,Air Intake,FarmEquip Co,3259.01,2024-12-05,Overheating
+KDL 109R,Tractor,Alternator,Electrical,TechFix,13330.52,2024-09-15,Brake failure
+KDL 109R,Tractor,Battery,Electrical,HeavyDuty Supplies,9624.89,2024-11-21,Electrical fault
+KDL 109R,Tractor,Alternator,Electrical,Gallant,3164.79,2025-06-08,Low power
+KCH 465M,Tractor,Alternator,Electrical,AutoPro Ltd,8791.31,2024-11-13,Overheating
+KCH 465M,Tractor,Fuel Pump,Fuel System,HeavyDuty Supplies,8992.51,2024-12-21,Overheating
+KCH 465M,Tractor,Spark Plug,Ignition,SpareHub,11263.51,2025-02-19,Oil leak
+KCH 465M,Tractor,Tyre,Wheels,JKT,1764.65,2025-01-18,Hydraulic issue
+KCH 465M,Tractor,Oil Filter,Engine,AutoPro Ltd,4336.81,2024-12-25,Hydraulic issue
+KCH 465M,Tractor,Fuel Pump,Fuel System,Aeolus,11296.36,2025-01-27,Battery issue
+KCH 465M,Tractor,Battery,Electrical,BKT,8118.96,2024-07-02,Electrical fault
+KCN 885Y,Tractor,Air Filter,Air Intake,Goodyear,5812.16,2025-02-15,Routine service
+KCN 885Y,Tractor,Tyre,Wheels,BKT,8117.8,2024-06-21,Electrical fault
+KCN 885Y,Tractor,Oil Filter,Engine,BKT,14836.38,2024-11-03,Low power
+KCN 885Y,Tractor,Spark Plug,Ignition,SpareHub,14970.89,2024-06-29,Overheating
+KCN 885Y,Tractor,Tyre,Wheels,BKT,7905.89,2024-07-21,Low power
+KCN 885Y,Tractor,Spark Plug,Ignition,PartsPlus,14847.54,2025-04-17,Oil leak
+KCN 885Y,Tractor,Oil Filter,Engine,SpareHub,11162.73,2025-02-03,Engine noise
+KDJ 840G,Tractor,Air Filter,Air Intake,Gallant,4892.87,2025-01-23,Brake failure
+KDJ 840G,Tractor,Spark Plug,Ignition,SpareHub,9043.4,2025-03-24,Engine noise
+KDJ 840G,Tractor,Alternator,Electrical,HeavyDuty Supplies,12216.95,2025-02-21,Hydraulic issue
+KDJ 840G,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,4889.31,2025-01-02,Hydraulic issue
+KDJ 840G,Tractor,Battery,Electrical,Goodyear,4475.04,2025-01-20,Low power
+KDG 907L,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,11584.7,2024-07-01,Low power
+KDG 907L,Tractor,Spark Plug,Ignition,Goodyear,5135.86,2025-03-18,Oil leak
+KDG 907L,Tractor,Battery,Electrical,PowerAuto,14757.68,2024-07-07,Brake failure
+KDG 907L,Tractor,Fuel Pump,Fuel System,DieselParts,14259.98,2024-07-18,Brake failure
+KDL 608E,Tractor,Radiator,Cooling System,BKT,3024.64,2025-06-10,Tyre worn out
+KDL 608E,Tractor,Battery,Electrical,PowerAuto,11253.66,2024-10-06,Low power
+KDL 608E,Tractor,Radiator,Cooling System,SpareHub,2662.18,2024-07-23,Routine service
+KDL 608E,Tractor,Battery,Electrical,PowerAuto,9538.78,2024-08-11,Brake failure
+KDL 608E,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,2445.54,2025-03-22,Hydraulic issue
+KDL 608E,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,5321.98,2025-02-10,Overheating
+KDL 608E,Tractor,Battery,Electrical,DieselParts,2162.02,2024-12-10,Brake failure
+KDL 608E,Tractor,Radiator,Cooling System,Goodyear,13980.16,2025-06-07,Routine service
+KDG 784A,Tractor,Battery,Electrical,JKT,13089.16,2024-10-01,Battery issue
+KDG 784A,Tractor,Battery,Electrical,Gallant,4742.4,2025-01-16,Overheating
+KDG 784A,Tractor,Oil Filter,Engine,Aeolus,6872.62,2025-01-17,Hydraulic issue
+KDG 784A,Tractor,Battery,Electrical,SpareHub,10113.37,2024-11-12,Oil leak
+KDG 784A,Tractor,Radiator,Cooling System,MechWorks,14222.33,2024-07-06,Low power
+KDG 784A,Tractor,Battery,Electrical,MechWorks,12322.9,2024-12-04,Engine noise
+KDG 784A,Tractor,Tyre,Wheels,Aeolus,12455.88,2025-04-17,Oil leak
+KCN 533H,Tractor,Brake Pads,Braking System,BKT,1946.09,2025-05-01,Brake failure
+KCN 533H,Tractor,Alternator,Electrical,MechWorks,10513.18,2025-04-24,Routine service
+KCN 533H,Tractor,Tyre,Wheels,BKT,10503.25,2024-12-24,Tyre worn out
+KCN 533H,Tractor,Brake Pads,Braking System,MechWorks,2608.63,2025-02-02,Engine noise
+KCN 533H,Tractor,Fuel Pump,Fuel System,JKT,13336.74,2024-11-11,Low power
+KCN 533H,Tractor,Battery,Electrical,Gallant,10527.64,2025-03-03,Hydraulic issue
+KCN 533H,Tractor,Air Filter,Air Intake,PowerAuto,13629.17,2024-09-18,Battery issue
+KCN 533H,Tractor,Battery,Electrical,PartsPlus,10925.5,2024-06-27,Low power
+KDA 459H,Tractor,Brake Pads,Braking System,PartsPlus,6010.92,2025-03-29,Routine service
+KDA 459H,Tractor,Brake Pads,Braking System,AutoPro Ltd,7149.37,2024-09-12,Tyre worn out
+KDA 459H,Tractor,Brake Pads,Braking System,AutoPro Ltd,7601.4,2024-08-10,Oil leak
+KDA 459H,Tractor,Radiator,Cooling System,DieselParts,14686.63,2024-08-24,Routine service
+KDA 459H,Tractor,Brake Pads,Braking System,Aeolus,13809.54,2024-12-17,Overheating
+KDA 459H,Tractor,Spark Plug,Ignition,Goodyear,6520.77,2024-09-19,Electrical fault
+KDA 459H,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,3429.52,2024-08-10,Routine service
+KCC 240S,Tractor,Spark Plug,Ignition,Gallant,8247.98,2024-10-25,Routine service
+KCC 240S,Tractor,Oil Filter,Engine,HeavyDuty Supplies,9956.23,2025-03-28,Battery issue
+KCC 240S,Tractor,Tyre,Wheels,Goodyear,10347.23,2024-09-03,Overheating
+KCC 240S,Tractor,Spark Plug,Ignition,TurboTraders,5516.32,2024-10-27,Brake failure
+KDJ 742F,Tractor,Battery,Electrical,Aeolus,10828.95,2024-09-21,Hydraulic issue
+KDJ 742F,Tractor,Brake Pads,Braking System,MechWorks,12309.63,2025-06-11,Engine noise
+KDJ 742F,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,14421.92,2025-03-11,Oil leak
+KDJ 742F,Tractor,Alternator,Electrical,TechFix,6338.03,2024-12-25,Routine service
+KDJ 742F,Tractor,Air Filter,Air Intake,JKT,6455.49,2025-05-21,Battery issue
+KDJ 742F,Tractor,Fuel Pump,Fuel System,Gallant,8183.13,2024-07-20,Oil leak
+KDJ 742F,Tractor,Battery,Electrical,FarmEquip Co,3381.5,2024-12-24,Overheating
+KDA 819F,Tractor,Oil Filter,Engine,DieselParts,8301.99,2024-07-24,Brake failure
+KDA 819F,Tractor,Battery,Electrical,TechFix,14515.11,2024-06-20,Engine noise
+KDA 819F,Tractor,Brake Pads,Braking System,JKT,10572.63,2024-09-30,Routine service
+KDA 819F,Tractor,Alternator,Electrical,PartsPlus,1752.25,2024-07-28,Engine noise
+KDA 819F,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,2240.65,2024-11-06,Overheating
+KCN 774F,Tractor,Hydraulic Pump,Hydraulics,Goodyear,12678.07,2024-11-29,Overheating
+KCN 774F,Tractor,Radiator,Cooling System,DieselParts,4727.85,2025-03-16,Overheating
+KCN 774F,Tractor,Radiator,Cooling System,Aeolus,3582.3,2024-11-04,Engine noise
+KCN 774F,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,5856.31,2025-06-03,Hydraulic issue
+KCN 774F,Tractor,Tyre,Wheels,JKT,5407.81,2024-07-10,Engine noise
+KCN 774F,Tractor,Radiator,Cooling System,Goodyear,6061.66,2024-07-02,Electrical fault
+KCN 774F,Tractor,Hydraulic Pump,Hydraulics,Aeolus,11559.68,2024-12-21,Hydraulic issue
+KCN 774F,Tractor,Oil Filter,Engine,DieselParts,6552.76,2024-10-10,Oil leak
+KBX 136H,Tractor,Hydraulic Pump,Hydraulics,Gallant,12703.02,2024-07-11,Tyre worn out
+KBX 136H,Tractor,Fuel Pump,Fuel System,HeavyDuty Supplies,13418.09,2024-09-26,Oil leak
+KBX 136H,Tractor,Alternator,Electrical,Aeolus,5767.29,2024-10-06,Tyre worn out
+KBX 136H,Tractor,Brake Pads,Braking System,Aeolus,10961.1,2024-10-26,Oil leak
+KBX 136H,Tractor,Alternator,Electrical,Aeolus,2370.42,2024-11-17,Tyre worn out
+KBX 136H,Tractor,Oil Filter,Engine,DieselParts,4797.6,2024-08-10,Tyre worn out
+KCH 876W,Tractor,Tyre,Wheels,Goodyear,14438.24,2024-11-15,Battery issue
+KCH 876W,Tractor,Brake Pads,Braking System,HeavyDuty Supplies,6242.42,2024-08-18,Low power
+KCH 876W,Tractor,Oil Filter,Engine,FarmEquip Co,7226.93,2025-03-02,Brake failure
+KCH 876W,Tractor,Air Filter,Air Intake,AutoPro Ltd,8899.94,2025-06-05,Tyre worn out
+KCH 876W,Tractor,Fuel Pump,Fuel System,Goodyear,6670.9,2024-08-03,Battery issue
+KCH 876W,Tractor,Brake Pads,Braking System,PartsPlus,11018.0,2024-12-11,Brake failure
+KDA 451A,Tractor,Air Filter,Air Intake,Gallant,13661.63,2025-03-22,Electrical fault
+KDA 451A,Tractor,Tyre,Wheels,Aeolus,10446.13,2025-04-03,Overheating
+KDA 451A,Tractor,Oil Filter,Engine,HeavyDuty Supplies,5639.88,2024-10-14,Routine service
+KDA 451A,Tractor,Radiator,Cooling System,MechWorks,13702.35,2025-04-03,Hydraulic issue
+KDA 451A,Tractor,Oil Filter,Engine,FarmEquip Co,14333.54,2024-07-06,Brake failure
+KCC 279G,Tractor,Air Filter,Air Intake,MechWorks,13635.4,2025-05-20,Engine noise
+KCC 279G,Tractor,Spark Plug,Ignition,Gallant,4407.69,2024-09-23,Brake failure
+KCC 279G,Tractor,Fuel Pump,Fuel System,FarmEquip Co,10740.12,2025-05-28,Low power
+KCC 279G,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,2667.62,2025-06-12,Electrical fault
+KCN 608V,Tractor,Spark Plug,Ignition,FarmEquip Co,10958.84,2024-07-14,Low power
+KCN 608V,Tractor,Battery,Electrical,AutoPro Ltd,14698.57,2025-03-06,Hydraulic issue
+KCN 608V,Tractor,Air Filter,Air Intake,TechFix,3191.84,2024-11-17,Low power
+KCN 608V,Tractor,Tyre,Wheels,JKT,5357.14,2025-04-04,Engine noise
+KCN 608V,Tractor,Alternator,Electrical,DieselParts,11967.37,2025-05-08,Hydraulic issue
+KCH 417E,Tractor,Alternator,Electrical,MechWorks,2045.22,2025-04-14,Electrical fault
+KCH 417E,Tractor,Battery,Electrical,FarmEquip Co,4698.59,2025-05-30,Oil leak
+KCH 417E,Tractor,Air Filter,Air Intake,PowerAuto,8415.78,2024-11-08,Low power
+KCH 417E,Tractor,Alternator,Electrical,Gallant,5333.97,2025-02-03,Electrical fault
+KCH 417E,Tractor,Oil Filter,Engine,BKT,7626.17,2024-12-10,Overheating
+KCH 417E,Tractor,Battery,Electrical,Goodyear,3780.31,2025-02-07,Hydraulic issue
+KCH 417E,Tractor,Hydraulic Pump,Hydraulics,TurboTraders,14215.37,2025-05-07,Brake failure
+KCH 417E,Tractor,Fuel Pump,Fuel System,FarmEquip Co,1627.99,2024-11-01,Battery issue
+KDM 982B,Tractor,Fuel Pump,Fuel System,JKT,12786.94,2025-03-22,Brake failure
+KDM 982B,Tractor,Hydraulic Pump,Hydraulics,Goodyear,3705.07,2025-03-26,Low power
+KDM 982B,Tractor,Battery,Electrical,BKT,6139.91,2025-05-22,Low power
+KDM 982B,Tractor,Spark Plug,Ignition,TechFix,13791.93,2025-02-06,Hydraulic issue
+KDM 982B,Tractor,Battery,Electrical,AutoPro Ltd,4102.09,2024-12-06,Hydraulic issue
+KDM 982B,Tractor,Air Filter,Air Intake,Aeolus,9101.49,2024-10-23,Oil leak
+KDM 982B,Tractor,Fuel Pump,Fuel System,Aeolus,10978.77,2024-12-29,Brake failure
+KBU 288D,Tractor,Battery,Electrical,PartsPlus,13324.6,2024-11-25,Hydraulic issue
+KBU 288D,Tractor,Air Filter,Air Intake,AutoPro Ltd,11666.21,2025-05-12,Brake failure
+KBU 288D,Tractor,Air Filter,Air Intake,FarmEquip Co,7783.99,2024-09-05,Engine noise
+KBU 288D,Tractor,Radiator,Cooling System,TurboTraders,3316.25,2024-09-25,Low power
+KBU 288D,Tractor,Hydraulic Pump,Hydraulics,JKT,1548.43,2024-12-28,Overheating
+KBU 288D,Tractor,Fuel Pump,Fuel System,TechFix,8684.57,2025-01-23,Electrical fault
+KBU 288D,Tractor,Tyre,Wheels,BKT,8057.73,2024-08-18,Electrical fault
+KBU 288D,Tractor,Fuel Pump,Fuel System,SpareHub,4052.78,2024-10-21,Tyre worn out
+KBU 746L,Tractor,Hydraulic Pump,Hydraulics,SpareHub,10455.27,2025-01-20,Low power
+KBU 746L,Tractor,Tyre,Wheels,Aeolus,13150.35,2025-01-16,Electrical fault
+KBU 746L,Tractor,Battery,Electrical,FarmEquip Co,12229.54,2024-08-31,Routine service
+KBU 746L,Tractor,Tyre,Wheels,Goodyear,12762.57,2024-09-24,Routine service
+KBU 746L,Tractor,Radiator,Cooling System,JKT,4144.17,2025-03-23,Electrical fault
+KCC 206C,Tractor,Battery,Electrical,PowerAuto,12372.33,2024-06-27,Oil leak
+KCC 206C,Tractor,Tyre,Wheels,BKT,8358.86,2025-05-14,Electrical fault
+KCC 206C,Tractor,Radiator,Cooling System,TurboTraders,7672.08,2024-07-01,Engine noise
+KCC 206C,Tractor,Hydraulic Pump,Hydraulics,BKT,4847.97,2024-09-13,Oil leak
+KDA 286A,Tractor,Radiator,Cooling System,HeavyDuty Supplies,11805.25,2025-05-21,Engine noise
+KDA 286A,Tractor,Fuel Pump,Fuel System,Gallant,11103.08,2025-05-09,Low power
+KDA 286A,Tractor,Alternator,Electrical,HeavyDuty Supplies,5531.06,2024-08-20,Low power
+KDA 286A,Tractor,Air Filter,Air Intake,PowerAuto,6487.41,2024-07-14,Tyre worn out
+KBU 666R,Tractor,Brake Pads,Braking System,MechWorks,14211.37,2024-08-22,Electrical fault
+KBU 666R,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,12304.54,2025-01-19,Oil leak
+KBU 666R,Tractor,Tyre,Wheels,JKT,6239.95,2024-09-05,Tyre worn out
+KBU 666R,Tractor,Hydraulic Pump,Hydraulics,FarmEquip Co,13531.15,2025-05-08,Overheating
+KBU 666R,Tractor,Hydraulic Pump,Hydraulics,Aeolus,12337.7,2024-08-03,Tyre worn out
+KBU 666R,Tractor,Fuel Pump,Fuel System,Gallant,14421.11,2024-09-26,Hydraulic issue
+KCN 486M,Tractor,Battery,Electrical,TurboTraders,9543.71,2025-05-30,Tyre worn out
+KCN 486M,Tractor,Brake Pads,Braking System,MechWorks,10328.86,2025-06-07,Hydraulic issue
+KCN 486M,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,13453.44,2025-02-13,Overheating
+KCN 486M,Tractor,Battery,Electrical,Gallant,14905.49,2025-03-22,Engine noise
+KCN 486M,Tractor,Brake Pads,Braking System,Aeolus,5563.88,2025-04-28,Hydraulic issue
+KCH 880B,Tractor,Spark Plug,Ignition,Aeolus,13350.01,2024-07-26,Electrical fault
+KCH 880B,Tractor,Oil Filter,Engine,BKT,8916.57,2024-10-11,Hydraulic issue
+KCH 880B,Tractor,Radiator,Cooling System,BKT,7770.5,2025-02-27,Low power
+KCH 880B,Tractor,Oil Filter,Engine,FarmEquip Co,14151.55,2024-07-13,Electrical fault
+KBU 197H,Tractor,Air Filter,Air Intake,DieselParts,11339.1,2024-07-05,Tyre worn out
+KBU 197H,Tractor,Radiator,Cooling System,Gallant,11114.9,2024-11-14,Battery issue
+KBU 197H,Tractor,Alternator,Electrical,AutoPro Ltd,14006.29,2025-04-21,Brake failure
+KBU 197H,Tractor,Brake Pads,Braking System,Gallant,10881.03,2025-03-23,Tyre worn out
+KBX 789G,Tractor,Oil Filter,Engine,SpareHub,7572.87,2025-04-11,Electrical fault
+KBX 789G,Tractor,Radiator,Cooling System,PartsPlus,2765.9,2025-05-15,Low power
+KBX 789G,Tractor,Spark Plug,Ignition,Aeolus,13545.62,2024-12-04,Hydraulic issue
+KBX 789G,Tractor,Tyre,Wheels,JKT,9310.58,2024-10-09,Hydraulic issue
+KDJ 467H,Tractor,Radiator,Cooling System,TurboTraders,9944.74,2024-09-01,Hydraulic issue
+KDJ 467H,Tractor,Hydraulic Pump,Hydraulics,AutoPro Ltd,3733.74,2024-12-21,Low power
+KDJ 467H,Tractor,Spark Plug,Ignition,Aeolus,12100.39,2024-08-23,Brake failure
+KDJ 467H,Tractor,Battery,Electrical,Goodyear,10512.45,2025-03-13,Brake failure
+KDM 137A,Tractor,Oil Filter,Engine,Gallant,11978.66,2025-04-28,Overheating
+KDM 137A,Tractor,Tyre,Wheels,Gallant,8233.02,2024-11-11,Low power
+KDM 137A,Tractor,Tyre,Wheels,JKT,5533.84,2024-10-22,Tyre worn out
+KDM 137A,Tractor,Brake Pads,Braking System,PowerAuto,10926.13,2025-04-08,Oil leak
+KDM 137A,Tractor,Battery,Electrical,TechFix,3566.91,2024-11-27,Hydraulic issue
+KDM 137A,Tractor,Air Filter,Air Intake,HeavyDuty Supplies,10533.13,2024-08-22,Oil leak
+KDM 137A,Tractor,Brake Pads,Braking System,BKT,2960.35,2025-02-07,Oil leak
+KDM 137A,Tractor,Alternator,Electrical,MechWorks,9765.5,2024-12-23,Oil leak
+KCH 770N,Tractor,Tyre,Wheels,JKT,2653.58,2025-05-09,Engine noise
+KCH 770N,Tractor,Tyre,Wheels,JKT,8563.1,2025-03-31,Hydraulic issue
+KCH 770N,Tractor,Hydraulic Pump,Hydraulics,PowerAuto,14358.02,2025-05-20,Oil leak
+KCH 770N,Tractor,Hydraulic Pump,Hydraulics,DieselParts,3111.18,2024-07-24,Tyre worn out
+KCH 770N,Tractor,Spark Plug,Ignition,DieselParts,1825.56,2025-01-19,Brake failure
+KCH 770N,Tractor,Radiator,Cooling System,Aeolus,3366.93,2024-08-27,Battery issue
+KBX 777W,Tractor,Tyre,Wheels,BKT,7680.9,2025-04-12,Low power
+KBX 777W,Tractor,Fuel Pump,Fuel System,TurboTraders,11563.64,2024-12-24,Brake failure
+KBX 777W,Tractor,Fuel Pump,Fuel System,PartsPlus,13609.73,2024-10-12,Tyre worn out
+KBX 777W,Tractor,Battery,Electrical,FarmEquip Co,3825.5,2025-03-20,Overheating
+KBX 777W,Tractor,Tyre,Wheels,Goodyear,9270.07,2024-07-02,Routine service
+KDG 301X,Tractor,Spark Plug,Ignition,JKT,9578.88,2025-03-27,Battery issue
+KDG 301X,Tractor,Radiator,Cooling System,TechFix,11511.83,2024-12-15,Low power
+KDG 301X,Tractor,Tyre,Wheels,Goodyear,7819.12,2024-08-03,Electrical fault
+KDG 301X,Tractor,Tyre,Wheels,BKT,13246.93,2024-12-02,Brake failure
+KDG 301X,Tractor,Spark Plug,Ignition,HeavyDuty Supplies,12882.7,2025-04-28,Low power
+KDG 301X,Tractor,Spark Plug,Ignition,FarmEquip Co,4041.85,2024-08-11,Overheating
+KDG 301X,Tractor,Brake Pads,Braking System,PartsPlus,11312.7,2024-09-25,Hydraulic issue
+KDG 301X,Tractor,Tyre,Wheels,Aeolus,8973.56,2024-09-26,Engine noise
+KCN 562Y,Tractor,Oil Filter,Engine,DieselParts,13295.24,2025-05-25,Oil leak
+KCN 562Y,Tractor,Oil Filter,Engine,MechWorks,4312.12,2025-03-04,Battery issue
+KCN 562Y,Tractor,Tyre,Wheels,Aeolus,10189.86,2024-08-19,Routine service
+KCN 562Y,Tractor,Hydraulic Pump,Hydraulics,TechFix,7793.65,2024-08-28,Brake failure
+KCN 562Y,Tractor,Battery,Electrical,HeavyDuty Supplies,10054.0,2025-06-03,Engine noise
+KCH 586W,Tractor,Tyre,Wheels,Gallant,7314.86,2025-04-28,Tyre worn out
+KCH 586W,Tractor,Fuel Pump,Fuel System,BKT,13963.25,2024-12-28,Hydraulic issue
+KCH 586W,Tractor,Radiator,Cooling System,TechFix,13836.53,2025-02-28,Routine service
+KCH 586W,Tractor,Tyre,Wheels,Goodyear,2844.03,2025-04-18,Oil leak
+KCC 220T,Tractor,Radiator,Cooling System,MechWorks,5748.39,2024-11-29,Routine service
+KCC 220T,Tractor,Oil Filter,Engine,HeavyDuty Supplies,9724.77,2025-04-24,Electrical fault
+KCC 220T,Tractor,Battery,Electrical,MechWorks,9970.74,2024-06-27,Overheating
+KCC 220T,Tractor,Radiator,Cooling System,DieselParts,4151.94,2025-03-21,Tyre worn out
+KDL 650Z,Tractor,Brake Pads,Braking System,Goodyear,8336.09,2025-01-29,Low power
+KDL 650Z,Tractor,Air Filter,Air Intake,FarmEquip Co,8806.87,2025-06-13,Brake failure
+KDL 650Z,Tractor,Alternator,Electrical,BKT,9923.34,2025-01-20,Routine service
+KDL 650Z,Tractor,Battery,Electrical,AutoPro Ltd,9559.01,2025-03-26,Low power
+KDL 650Z,Tractor,Hydraulic Pump,Hydraulics,BKT,8160.82,2025-02-13,Engine noise
+KDL 650Z,Tractor,Air Filter,Air Intake,FarmEquip Co,1984.21,2024-08-14,Low power
+KDL 650Z,Tractor,Radiator,Cooling System,PowerAuto,7218.34,2025-01-16,Electrical fault
+KDL 650Z,Tractor,Fuel Pump,Fuel System,BKT,7038.68,2024-06-22,Routine service
+KBZ 278M,Tractor,Air Filter,Air Intake,PowerAuto,5079.59,2025-05-29,Engine noise
+KBZ 278M,Tractor,Oil Filter,Engine,FarmEquip Co,8612.01,2025-05-22,Electrical fault
+KBZ 278M,Tractor,Battery,Electrical,Goodyear,5624.68,2024-09-08,Tyre worn out
+KBZ 278M,Tractor,Air Filter,Air Intake,SpareHub,8367.42,2025-05-06,Oil leak
+KBZ 278M,Tractor,Brake Pads,Braking System,Goodyear,5890.94,2024-09-01,Engine noise
+KDA 443N,Tractor,Spark Plug,Ignition,BKT,3259.56,2025-06-13,Battery issue
+KDA 443N,Tractor,Brake Pads,Braking System,TurboTraders,5404.82,2025-05-20,Battery issue
+KDA 443N,Tractor,Radiator,Cooling System,Goodyear,4734.81,2025-06-17,Routine service
+KDA 443N,Tractor,Spark Plug,Ignition,SpareHub,4619.44,2025-01-03,Battery issue
+KDA 443N,Tractor,Fuel Pump,Fuel System,TechFix,1681.74,2025-01-16,Engine noise
+KDA 443N,Tractor,Battery,Electrical,JKT,2886.77,2025-03-30,Electrical fault
+KDG 751E,Tractor,Brake Pads,Braking System,Aeolus,5155.73,2024-09-12,Battery issue
+KDG 751E,Tractor,Alternator,Electrical,JKT,9358.82,2024-11-29,Hydraulic issue
+KDG 751E,Tractor,Air Filter,Air Intake,PartsPlus,8890.56,2025-04-20,Engine noise
+KDG 751E,Tractor,Alternator,Electrical,JKT,9783.25,2025-03-09,Tyre worn out
+KDG 751E,Tractor,Brake Pads,Braking System,AutoPro Ltd,11971.11,2024-08-09,Low power
+KDG 751E,Tractor,Oil Filter,Engine,Aeolus,6322.07,2024-09-21,Tyre worn out
+KDG 751E,Tractor,Brake Pads,Braking System,FarmEquip Co,10302.09,2024-08-19,Low power
+KDG 751E,Tractor,Spark Plug,Ignition,Goodyear,1653.75,2024-07-05,Engine noise
+KCN 592U,Tractor,Radiator,Cooling System,TurboTraders,8325.87,2024-08-25,Hydraulic issue
+KCN 592U,Tractor,Battery,Electrical,Aeolus,10881.15,2024-09-21,Tyre worn out
+KCN 592U,Tractor,Fuel Pump,Fuel System,MechWorks,9229.51,2024-11-26,Overheating
+KCN 592U,Tractor,Brake Pads,Braking System,SpareHub,13082.32,2024-09-30,Routine service
+KCN 592U,Tractor,Air Filter,Air Intake,BKT,8179.18,2024-07-09,Engine noise
+KCN 592U,Tractor,Radiator,Cooling System,Goodyear,10408.03,2025-05-05,Low power
+KCN 592U,Tractor,Spark Plug,Ignition,TurboTraders,6742.71,2025-04-29,Brake failure
+KBN 212M,Tractor,Alternator,Electrical,TurboTraders,14219.84,2024-12-17,Tyre worn out
+KBN 212M,Tractor,Radiator,Cooling System,JKT,9214.19,2024-12-21,Hydraulic issue
+KBN 212M,Tractor,Tyre,Wheels,Goodyear,6534.48,2025-03-13,Electrical fault
+KBN 212M,Tractor,Air Filter,Air Intake,AutoPro Ltd,6234.57,2025-02-11,Electrical fault
+KBN 212M,Tractor,Radiator,Cooling System,DieselParts,6575.18,2025-05-08,Battery issue
+KBN 212M,Tractor,Brake Pads,Braking System,HeavyDuty Supplies,11552.76,2025-05-30,Engine noise
+KBN 212M,Tractor,Alternator,Electrical,TurboTraders,9227.71,2025-04-10,Routine service
+KBU 206X,Tractor,Spark Plug,Ignition,PowerAuto,9762.98,2024-06-20,Hydraulic issue
+KBU 206X,Tractor,Oil Filter,Engine,TurboTraders,13880.35,2025-04-19,Low power
+KBU 206X,Tractor,Spark Plug,Ignition,BKT,11597.41,2025-01-18,Low power
+KBU 206X,Tractor,Alternator,Electrical,TurboTraders,10603.68,2024-09-04,Brake failure
+KBU 206X,Tractor,Battery,Electrical,TechFix,12576.19,2024-11-29,Low power
+KBU 206X,Tractor,Radiator,Cooling System,AutoPro Ltd,10333.25,2024-12-19,Hydraulic issue
+KBU 206X,Tractor,Radiator,Cooling System,MechWorks,9552.95,2024-09-29,Hydraulic issue
+KDJ 868B,Truck,Hydraulic Pump,Hydraulics,Goodyear,10733.83,2025-02-16,Electrical fault
+KDJ 868B,Truck,Hydraulic Pump,Hydraulics,PowerAuto,3351.43,2024-08-23,Routine service
+KDJ 868B,Truck,Radiator,Cooling System,DieselParts,5049.0,2024-07-25,Oil leak
+KDJ 868B,Truck,Air Filter,Air Intake,Aeolus,3300.59,2025-06-05,Tyre worn out
+KDJ 868B,Truck,Hydraulic Pump,Hydraulics,FarmEquip Co,12901.92,2024-12-05,Oil leak
+KDJ 868B,Truck,Air Filter,Air Intake,PartsPlus,2176.22,2025-01-03,Engine noise
+KCH 880T,Truck,Oil Filter,Engine,Gallant,2842.99,2024-07-11,Electrical fault
+KCH 880T,Truck,Hydraulic Pump,Hydraulics,TurboTraders,14077.27,2025-05-10,Routine service
+KCH 880T,Truck,Alternator,Electrical,BKT,3155.96,2024-06-30,Battery issue
+KCH 880T,Truck,Oil Filter,Engine,DieselParts,4282.19,2024-11-29,Low power
+KBN 298Y,Truck,Alternator,Electrical,PartsPlus,2124.41,2024-11-21,Battery issue
+KBN 298Y,Truck,Oil Filter,Engine,Gallant,6532.34,2025-03-28,Brake failure
+KBN 298Y,Truck,Alternator,Electrical,SpareHub,8467.17,2025-02-08,Engine noise
+KBN 298Y,Truck,Battery,Electrical,SpareHub,13004.12,2025-06-11,Routine service
+KBN 298Y,Truck,Brake Pads,Braking System,TurboTraders,3836.71,2025-04-20,Brake failure
+KCH 809H,Truck,Fuel Pump,Fuel System,Goodyear,7633.52,2025-06-02,Routine service
+KCH 809H,Truck,Air Filter,Air Intake,PartsPlus,3471.63,2024-10-09,Oil leak
+KCH 809H,Truck,Radiator,Cooling System,Goodyear,1614.71,2024-07-29,Brake failure
+KCH 809H,Truck,Alternator,Electrical,MechWorks,14507.75,2025-01-18,Battery issue
+KCH 809H,Truck,Battery,Electrical,Goodyear,6315.24,2025-01-14,Electrical fault
+KCH 809H,Truck,Alternator,Electrical,Aeolus,14847.72,2024-08-22,Battery issue
+KDA 494E,Truck,Battery,Electrical,PowerAuto,8538.42,2024-11-14,Overheating
+KDA 494E,Truck,Alternator,Electrical,Goodyear,11546.94,2024-09-11,Engine noise
+KDA 494E,Truck,Oil Filter,Engine,Aeolus,3591.37,2025-02-01,Engine noise
+KDA 494E,Truck,Tyre,Wheels,JKT,5710.56,2025-03-28,Hydraulic issue
+KDA 494E,Truck,Fuel Pump,Fuel System,TurboTraders,5689.47,2025-03-24,Tyre worn out
+KDA 494E,Truck,Brake Pads,Braking System,AutoPro Ltd,14247.37,2025-06-08,Engine noise
+KDA 494E,Truck,Hydraulic Pump,Hydraulics,Goodyear,6559.35,2024-07-26,Overheating
+KDA 494E,Truck,Battery,Electrical,Aeolus,7576.24,2024-07-19,Routine service
+KCH 306V,Truck,Oil Filter,Engine,DieselParts,4058.32,2024-12-27,Tyre worn out
+KCH 306V,Truck,Oil Filter,Engine,TurboTraders,12675.01,2024-07-08,Electrical fault
+KCH 306V,Truck,Tyre,Wheels,BKT,7768.5,2025-03-23,Tyre worn out
+KCH 306V,Truck,Air Filter,Air Intake,BKT,7621.75,2024-06-26,Engine noise
+KCH 306V,Truck,Radiator,Cooling System,TechFix,3190.73,2025-04-08,Low power
+KCH 306V,Truck,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,6044.44,2025-06-10,Low power
+KCH 306V,Truck,Alternator,Electrical,TechFix,2469.01,2024-06-20,Overheating
+KBZ 554P,Truck,Spark Plug,Ignition,HeavyDuty Supplies,2405.66,2025-01-18,Battery issue
+KBZ 554P,Truck,Fuel Pump,Fuel System,Gallant,11020.98,2025-04-12,Overheating
+KBZ 554P,Truck,Oil Filter,Engine,Aeolus,6020.83,2025-03-30,Routine service
+KBZ 554P,Truck,Brake Pads,Braking System,Goodyear,12477.13,2025-02-26,Routine service
+KBZ 554P,Truck,Radiator,Cooling System,PowerAuto,11290.35,2025-01-12,Hydraulic issue
+KBZ 554P,Truck,Oil Filter,Engine,SpareHub,13917.69,2024-10-14,Engine noise
+KBN 534G,Truck,Battery,Electrical,PartsPlus,8963.49,2025-03-19,Electrical fault
+KBN 534G,Truck,Air Filter,Air Intake,TurboTraders,14468.22,2025-02-01,Battery issue
+KBN 534G,Truck,Hydraulic Pump,Hydraulics,Aeolus,9331.37,2025-06-07,Battery issue
+KBN 534G,Truck,Battery,Electrical,HeavyDuty Supplies,13011.41,2025-04-18,Routine service
+KBN 503U,Truck,Fuel Pump,Fuel System,MechWorks,4916.04,2025-02-20,Routine service
+KBN 503U,Truck,Hydraulic Pump,Hydraulics,TechFix,8793.3,2025-03-08,Brake failure
+KBN 503U,Truck,Radiator,Cooling System,MechWorks,11006.35,2024-11-01,Battery issue
+KBN 503U,Truck,Oil Filter,Engine,BKT,3473.99,2024-08-23,Brake failure
+KBZ 251E,Truck,Fuel Pump,Fuel System,TechFix,3405.06,2024-08-25,Hydraulic issue
+KBZ 251E,Truck,Battery,Electrical,Goodyear,1712.77,2025-03-26,Low power
+KBZ 251E,Truck,Tyre,Wheels,BKT,3368.51,2024-08-29,Brake failure
+KBZ 251E,Truck,Air Filter,Air Intake,Goodyear,14554.01,2024-08-26,Overheating
+KDM 378L,Truck,Alternator,Electrical,MechWorks,7239.5,2024-12-18,Oil leak
+KDM 378L,Truck,Air Filter,Air Intake,SpareHub,10316.93,2024-07-04,Battery issue
+KDM 378L,Truck,Tyre,Wheels,Goodyear,7322.89,2024-08-07,Overheating
+KDM 378L,Truck,Air Filter,Air Intake,Goodyear,3318.65,2024-07-04,Hydraulic issue
+KDG 362B,Truck,Hydraulic Pump,Hydraulics,JKT,14701.27,2024-07-12,Hydraulic issue
+KDG 362B,Truck,Air Filter,Air Intake,Goodyear,3497.7,2024-09-28,Hydraulic issue
+KDG 362B,Truck,Radiator,Cooling System,DieselParts,11890.79,2025-05-12,Battery issue
+KDG 362B,Truck,Fuel Pump,Fuel System,TechFix,2781.33,2024-12-28,Overheating
+KDG 362B,Truck,Fuel Pump,Fuel System,BKT,3702.93,2025-05-20,Tyre worn out
+KDG 362B,Truck,Brake Pads,Braking System,Aeolus,4025.03,2024-11-22,Engine noise
+KCC 919H,Truck,Spark Plug,Ignition,FarmEquip Co,14219.35,2024-12-22,Overheating
+KCC 919H,Truck,Radiator,Cooling System,Gallant,3184.11,2024-07-11,Routine service
+KCC 919H,Truck,Radiator,Cooling System,PowerAuto,11456.99,2025-02-18,Hydraulic issue
+KCC 919H,Truck,Radiator,Cooling System,PowerAuto,12028.01,2024-09-12,Routine service
+KCC 919H,Truck,Tyre,Wheels,Aeolus,6850.74,2024-10-02,Routine service
+KCC 919H,Truck,Alternator,Electrical,HeavyDuty Supplies,1561.29,2025-03-22,Battery issue
+KCC 919H,Truck,Brake Pads,Braking System,FarmEquip Co,4432.74,2024-10-13,Overheating
+KDJ 268J,Truck,Spark Plug,Ignition,AutoPro Ltd,3919.02,2025-04-28,Oil leak
+KDJ 268J,Truck,Oil Filter,Engine,Gallant,5984.98,2025-01-17,Routine service
+KDJ 268J,Truck,Radiator,Cooling System,Goodyear,10175.03,2025-01-29,Tyre worn out
+KDJ 268J,Truck,Tyre,Wheels,JKT,5014.04,2024-09-02,Overheating
+KDJ 268J,Truck,Battery,Electrical,TechFix,6078.73,2024-10-07,Routine service
+KDJ 268J,Truck,Oil Filter,Engine,PartsPlus,14800.31,2025-01-28,Overheating
+KDJ 716H,Truck,Fuel Pump,Fuel System,JKT,14139.23,2025-04-01,Tyre worn out
+KDJ 716H,Truck,Hydraulic Pump,Hydraulics,Goodyear,8576.67,2025-03-08,Tyre worn out
+KDJ 716H,Truck,Radiator,Cooling System,Aeolus,3695.93,2025-02-11,Tyre worn out
+KDJ 716H,Truck,Hydraulic Pump,Hydraulics,MechWorks,1911.77,2024-09-09,Engine noise
+KDJ 716H,Truck,Spark Plug,Ignition,Gallant,14877.01,2025-04-12,Tyre worn out
+KDJ 716H,Truck,Alternator,Electrical,SpareHub,2300.54,2024-10-31,Tyre worn out
+KDJ 716H,Truck,Battery,Electrical,HeavyDuty Supplies,13378.83,2025-05-20,Engine noise
+KDJ 716H,Truck,Fuel Pump,Fuel System,Goodyear,12927.12,2025-05-17,Low power
+KDA 780Z,Truck,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,7520.84,2025-01-06,Overheating
+KDA 780Z,Truck,Spark Plug,Ignition,Aeolus,11531.33,2024-08-25,Overheating
+KDA 780Z,Truck,Spark Plug,Ignition,PartsPlus,9946.19,2024-10-31,Hydraulic issue
+KDA 780Z,Truck,Spark Plug,Ignition,TechFix,5092.84,2024-12-18,Engine noise
+KDA 780Z,Truck,Alternator,Electrical,MechWorks,13535.9,2024-12-26,Overheating
+KDA 780Z,Truck,Air Filter,Air Intake,PowerAuto,14611.97,2025-04-11,Overheating
+KDA 780Z,Truck,Fuel Pump,Fuel System,Gallant,3634.64,2024-12-04,Tyre worn out
+KBZ 271X,Truck,Radiator,Cooling System,Goodyear,11968.31,2024-12-11,Brake failure
+KBZ 271X,Truck,Radiator,Cooling System,FarmEquip Co,6347.0,2024-09-13,Battery issue
+KBZ 271X,Truck,Radiator,Cooling System,PartsPlus,5659.34,2025-02-15,Battery issue
+KBZ 271X,Truck,Fuel Pump,Fuel System,FarmEquip Co,9784.73,2024-08-14,Hydraulic issue
+KBZ 271X,Truck,Air Filter,Air Intake,BKT,2816.17,2024-07-27,Low power
+KDG 976N,Truck,Fuel Pump,Fuel System,AutoPro Ltd,13244.21,2024-12-22,Overheating
+KDG 976N,Truck,Air Filter,Air Intake,Gallant,13785.39,2024-08-22,Engine noise
+KDG 976N,Truck,Battery,Electrical,PowerAuto,3597.64,2024-11-15,Tyre worn out
+KDG 976N,Truck,Fuel Pump,Fuel System,DieselParts,10372.58,2024-10-15,Oil leak
+KDG 976N,Truck,Air Filter,Air Intake,Goodyear,11891.18,2024-12-23,Low power
+KDG 976N,Truck,Alternator,Electrical,PartsPlus,3468.16,2025-05-20,Oil leak
+KDG 976N,Truck,Hydraulic Pump,Hydraulics,AutoPro Ltd,4936.56,2024-07-21,Brake failure
+KDM 240B,Truck,Battery,Electrical,FarmEquip Co,3049.37,2025-05-15,Battery issue
+KDM 240B,Truck,Spark Plug,Ignition,Gallant,7329.81,2024-07-15,Electrical fault
+KDM 240B,Truck,Alternator,Electrical,FarmEquip Co,7215.36,2025-03-04,Routine service
+KDM 240B,Truck,Brake Pads,Braking System,AutoPro Ltd,13864.6,2025-02-20,Low power
+KDL 955M,Truck,Fuel Pump,Fuel System,Goodyear,13613.8,2025-01-31,Engine noise
+KDL 955M,Truck,Tyre,Wheels,Goodyear,8237.13,2024-11-02,Hydraulic issue
+KDL 955M,Truck,Air Filter,Air Intake,JKT,2642.15,2024-11-23,Oil leak
+KDL 955M,Truck,Alternator,Electrical,Gallant,9633.83,2024-08-22,Brake failure
+KDL 955M,Truck,Hydraulic Pump,Hydraulics,DieselParts,12739.9,2024-12-18,Brake failure
+KDL 955M,Truck,Spark Plug,Ignition,PartsPlus,1951.16,2024-09-13,Battery issue
+KDJ 943P,Truck,Air Filter,Air Intake,HeavyDuty Supplies,3103.69,2024-12-04,Low power
+KDJ 943P,Truck,Spark Plug,Ignition,JKT,6768.05,2025-05-26,Overheating
+KDJ 943P,Truck,Tyre,Wheels,Aeolus,2404.32,2025-05-06,Low power
+KDJ 943P,Truck,Fuel Pump,Fuel System,HeavyDuty Supplies,6779.43,2024-12-02,Engine noise
+KDA 404R,Truck,Radiator,Cooling System,FarmEquip Co,1905.29,2025-03-16,Brake failure
+KDA 404R,Truck,Brake Pads,Braking System,TechFix,10267.08,2024-12-16,Oil leak
+KDA 404R,Truck,Tyre,Wheels,Aeolus,9733.11,2024-08-19,Hydraulic issue
+KDA 404R,Truck,Air Filter,Air Intake,Aeolus,13407.65,2024-06-29,Engine noise
+KDA 404R,Truck,Fuel Pump,Fuel System,HeavyDuty Supplies,11137.53,2024-07-25,Oil leak
+KDA 404R,Truck,Air Filter,Air Intake,AutoPro Ltd,2925.1,2025-06-10,Oil leak
+KDM 463Y,Truck,Oil Filter,Engine,DieselParts,9070.08,2025-06-11,Hydraulic issue
+KDM 463Y,Truck,Radiator,Cooling System,FarmEquip Co,13390.65,2025-03-07,Oil leak
+KDM 463Y,Truck,Tyre,Wheels,Gallant,3773.19,2024-11-13,Oil leak
+KDM 463Y,Truck,Spark Plug,Ignition,AutoPro Ltd,7410.11,2024-08-18,Overheating
+KDM 463Y,Truck,Oil Filter,Engine,HeavyDuty Supplies,7295.84,2024-09-11,Engine noise
+KDM 463Y,Truck,Radiator,Cooling System,HeavyDuty Supplies,10787.03,2024-10-15,Battery issue
+KDM 714A,Truck,Fuel Pump,Fuel System,TurboTraders,11304.19,2025-04-07,Brake failure
+KDM 714A,Truck,Alternator,Electrical,DieselParts,1726.7,2024-06-21,Tyre worn out
+KDM 714A,Truck,Hydraulic Pump,Hydraulics,FarmEquip Co,4542.98,2024-09-03,Oil leak
+KDM 714A,Truck,Spark Plug,Ignition,DieselParts,8878.71,2025-01-05,Battery issue
+KDM 714A,Truck,Air Filter,Air Intake,DieselParts,12335.65,2025-02-10,Brake failure
+KBX 990J,Truck,Radiator,Cooling System,PartsPlus,4806.59,2024-11-10,Oil leak
+KBX 990J,Truck,Air Filter,Air Intake,HeavyDuty Supplies,6258.02,2025-06-14,Overheating
+KBX 990J,Truck,Tyre,Wheels,JKT,9320.8,2024-09-14,Low power
+KBX 990J,Truck,Oil Filter,Engine,PartsPlus,13226.33,2024-12-08,Overheating
+KBX 990J,Truck,Spark Plug,Ignition,Goodyear,8099.18,2024-09-01,Engine noise
+KBX 990J,Truck,Fuel Pump,Fuel System,Gallant,12737.31,2025-03-16,Routine service
+KBZ 616H,Truck,Hydraulic Pump,Hydraulics,PartsPlus,13764.1,2024-12-06,Routine service
+KBZ 616H,Truck,Oil Filter,Engine,PowerAuto,5788.2,2024-07-24,Routine service
+KBZ 616H,Truck,Radiator,Cooling System,FarmEquip Co,3757.07,2024-10-03,Overheating
+KBZ 616H,Truck,Spark Plug,Ignition,SpareHub,12007.94,2024-10-27,Battery issue
+KBZ 616H,Truck,Brake Pads,Braking System,Aeolus,13773.15,2024-07-06,Low power
+KBZ 616H,Truck,Air Filter,Air Intake,Gallant,9958.79,2025-03-09,Tyre worn out
+KBZ 616H,Truck,Hydraulic Pump,Hydraulics,TurboTraders,5891.79,2024-07-25,Overheating
+KCC 859P,Truck,Spark Plug,Ignition,SpareHub,7297.27,2024-12-27,Brake failure
+KCC 859P,Truck,Alternator,Electrical,PartsPlus,7366.09,2025-06-05,Low power
+KCC 859P,Truck,Tyre,Wheels,Gallant,9505.33,2024-10-19,Overheating
+KCC 859P,Truck,Tyre,Wheels,Aeolus,6108.39,2024-10-12,Hydraulic issue
+KCC 859P,Truck,Alternator,Electrical,AutoPro Ltd,2464.86,2024-11-05,Hydraulic issue
+KCC 859P,Truck,Radiator,Cooling System,Gallant,6843.21,2025-06-07,Brake failure
+KCC 859P,Truck,Spark Plug,Ignition,PartsPlus,12924.82,2025-03-10,Engine noise
+KCC 859P,Truck,Radiator,Cooling System,Gallant,3972.45,2024-10-28,Routine service
+KBN 351J,Truck,Fuel Pump,Fuel System,Goodyear,4829.26,2025-02-19,Hydraulic issue
+KBN 351J,Truck,Radiator,Cooling System,FarmEquip Co,3116.78,2024-12-10,Overheating
+KBN 351J,Truck,Battery,Electrical,Gallant,8270.11,2025-04-20,Battery issue
+KBN 351J,Truck,Brake Pads,Braking System,BKT,12165.58,2025-01-25,Tyre worn out
+KBN 351J,Truck,Fuel Pump,Fuel System,PartsPlus,13347.27,2024-08-30,Overheating
+KBN 351J,Truck,Tyre,Wheels,JKT,5141.03,2025-04-20,Routine service
+KDA 763N,Truck,Radiator,Cooling System,TechFix,11454.21,2025-05-25,Engine noise
+KDA 763N,Truck,Air Filter,Air Intake,SpareHub,9800.81,2025-03-08,Tyre worn out
+KDA 763N,Truck,Hydraulic Pump,Hydraulics,AutoPro Ltd,4591.12,2025-04-11,Overheating
+KDA 763N,Truck,Spark Plug,Ignition,DieselParts,8608.03,2024-10-15,Brake failure
+KDA 763N,Truck,Battery,Electrical,Gallant,11631.89,2024-08-15,Hydraulic issue
+KDA 763N,Truck,Hydraulic Pump,Hydraulics,JKT,12009.96,2025-05-12,Oil leak
+KDM 100V,Truck,Radiator,Cooling System,TurboTraders,11565.09,2024-11-09,Oil leak
+KDM 100V,Truck,Battery,Electrical,HeavyDuty Supplies,2272.41,2025-03-14,Brake failure
+KDM 100V,Truck,Brake Pads,Braking System,SpareHub,7107.83,2024-10-24,Battery issue
+KDM 100V,Truck,Radiator,Cooling System,MechWorks,13559.26,2024-10-31,Tyre worn out
+KDM 100V,Truck,Oil Filter,Engine,BKT,13941.51,2025-04-09,Low power
+KDM 100V,Truck,Air Filter,Air Intake,PartsPlus,6811.07,2025-02-02,Tyre worn out
+KDM 100V,Truck,Battery,Electrical,PartsPlus,11638.98,2024-11-09,Hydraulic issue
+KDM 100V,Truck,Radiator,Cooling System,PartsPlus,6652.73,2024-08-07,Routine service
+KBX 346L,Truck,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,6204.53,2025-03-02,Oil leak
+KBX 346L,Truck,Radiator,Cooling System,PartsPlus,8556.01,2025-01-24,Tyre worn out
+KBX 346L,Truck,Air Filter,Air Intake,JKT,2887.23,2024-06-26,Electrical fault
+KBX 346L,Truck,Tyre,Wheels,JKT,5619.28,2024-11-01,Low power
+KBX 346L,Truck,Spark Plug,Ignition,FarmEquip Co,13368.32,2024-09-03,Engine noise
+KBX 346L,Truck,Brake Pads,Braking System,JKT,3101.32,2024-06-24,Brake failure
+KCH 761S,Truck,Air Filter,Air Intake,DieselParts,5165.34,2024-07-27,Overheating
+KCH 761S,Truck,Alternator,Electrical,JKT,4267.93,2024-09-23,Electrical fault
+KCH 761S,Truck,Spark Plug,Ignition,Goodyear,11022.55,2025-03-24,Oil leak
+KCH 761S,Truck,Oil Filter,Engine,Goodyear,5890.01,2024-09-21,Electrical fault
+KCH 761S,Truck,Spark Plug,Ignition,PowerAuto,4719.47,2024-08-09,Brake failure
+KBX 224U,Truck,Spark Plug,Ignition,AutoPro Ltd,13050.51,2025-02-06,Brake failure
+KBX 224U,Truck,Battery,Electrical,HeavyDuty Supplies,9786.7,2025-02-15,Overheating
+KBX 224U,Truck,Oil Filter,Engine,TurboTraders,13784.03,2024-06-21,Routine service
+KBX 224U,Truck,Brake Pads,Braking System,Gallant,6134.36,2025-04-22,Brake failure
+KBX 224U,Truck,Radiator,Cooling System,SpareHub,6253.38,2025-05-26,Electrical fault
+KBX 224U,Truck,Tyre,Wheels,Aeolus,6388.4,2025-01-31,Tyre worn out
+KBX 224U,Truck,Fuel Pump,Fuel System,Gallant,6268.27,2025-04-11,Routine service
+KDM 301G,Truck,Fuel Pump,Fuel System,BKT,14166.31,2025-03-25,Brake failure
+KDM 301G,Truck,Air Filter,Air Intake,MechWorks,14657.87,2024-10-22,Engine noise
+KDM 301G,Truck,Battery,Electrical,Aeolus,13950.81,2025-01-08,Electrical fault
+KDM 301G,Truck,Air Filter,Air Intake,BKT,5719.18,2025-05-20,Engine noise
+KDM 301G,Truck,Air Filter,Air Intake,AutoPro Ltd,2012.01,2024-11-02,Overheating
+KDM 301G,Truck,Fuel Pump,Fuel System,JKT,2966.04,2025-03-21,Routine service
+KDM 301G,Truck,Radiator,Cooling System,MechWorks,9797.2,2024-07-29,Overheating
+KDM 301G,Truck,Radiator,Cooling System,PartsPlus,14590.69,2025-06-15,Low power
+KDL 715A,Truck,Tyre,Wheels,BKT,7426.46,2025-04-13,Routine service
+KDL 715A,Truck,Fuel Pump,Fuel System,DieselParts,8748.56,2025-05-04,Overheating
+KDL 715A,Truck,Tyre,Wheels,Gallant,13121.92,2025-04-04,Oil leak
+KDL 715A,Truck,Oil Filter,Engine,TurboTraders,2071.72,2025-03-31,Brake failure
+KDL 715A,Truck,Alternator,Electrical,Aeolus,9244.21,2025-06-12,Oil leak
+KDL 715A,Truck,Hydraulic Pump,Hydraulics,PartsPlus,7899.09,2025-04-02,Brake failure
+KDG 501Y,Truck,Air Filter,Air Intake,MechWorks,11805.49,2025-05-20,Engine noise
+KDG 501Y,Truck,Battery,Electrical,PowerAuto,5972.09,2024-11-02,Battery issue
+KDG 501Y,Truck,Hydraulic Pump,Hydraulics,Goodyear,14285.88,2025-02-08,Low power
+KDG 501Y,Truck,Tyre,Wheels,BKT,7131.54,2025-03-24,Battery issue
+KDG 501Y,Truck,Oil Filter,Engine,FarmEquip Co,2552.71,2025-03-20,Hydraulic issue
+KDG 501Y,Truck,Hydraulic Pump,Hydraulics,TechFix,8484.11,2025-05-24,Electrical fault
+KDG 501Y,Truck,Alternator,Electrical,Gallant,7000.78,2024-10-28,Hydraulic issue
+KDG 501Y,Truck,Tyre,Wheels,Goodyear,7136.1,2025-04-27,Overheating
+KBZ 934F,Truck,Hydraulic Pump,Hydraulics,AutoPro Ltd,4955.17,2024-11-18,Engine noise
+KBZ 934F,Truck,Hydraulic Pump,Hydraulics,SpareHub,11134.66,2024-06-27,Low power
+KBZ 934F,Truck,Hydraulic Pump,Hydraulics,Goodyear,2389.86,2024-07-29,Engine noise
+KBZ 934F,Truck,Spark Plug,Ignition,TechFix,10040.12,2025-03-09,Electrical fault
+KBZ 934F,Truck,Fuel Pump,Fuel System,AutoPro Ltd,13390.74,2024-11-12,Electrical fault
+KBZ 934F,Truck,Oil Filter,Engine,AutoPro Ltd,9757.29,2024-10-27,Engine noise
+KBZ 934F,Truck,Brake Pads,Braking System,DieselParts,10919.0,2025-01-14,Routine service
+KDJ 737M,Truck,Air Filter,Air Intake,Gallant,7873.0,2025-01-15,Oil leak
+KDJ 737M,Truck,Spark Plug,Ignition,Aeolus,3920.41,2024-12-10,Battery issue
+KDJ 737M,Truck,Fuel Pump,Fuel System,PartsPlus,7172.61,2024-08-08,Low power
+KDJ 737M,Truck,Oil Filter,Engine,TurboTraders,12919.7,2024-09-07,Battery issue
+KDJ 737M,Truck,Battery,Electrical,Goodyear,7260.4,2025-02-17,Overheating
+KDJ 737M,Truck,Radiator,Cooling System,SpareHub,11243.47,2024-12-21,Hydraulic issue
+KCC 989T,Truck,Battery,Electrical,Aeolus,5620.32,2025-04-03,Battery issue
+KCC 989T,Truck,Brake Pads,Braking System,SpareHub,11544.27,2025-02-12,Routine service
+KCC 989T,Truck,Brake Pads,Braking System,FarmEquip Co,14825.7,2025-06-07,Electrical fault
+KCC 989T,Truck,Oil Filter,Engine,BKT,14166.86,2025-03-06,Tyre worn out
+KCC 989T,Truck,Battery,Electrical,AutoPro Ltd,2755.1,2024-10-06,Brake failure
+KCC 989T,Truck,Air Filter,Air Intake,Goodyear,2329.97,2024-08-11,Overheating
+KCC 989T,Truck,Air Filter,Air Intake,Gallant,10744.64,2025-02-21,Oil leak
+KCN 219X,Truck,Brake Pads,Braking System,HeavyDuty Supplies,11591.84,2024-12-05,Electrical fault
+KCN 219X,Truck,Radiator,Cooling System,SpareHub,10543.64,2024-09-16,Oil leak
+KCN 219X,Truck,Hydraulic Pump,Hydraulics,Gallant,2687.43,2024-07-09,Battery issue
+KCN 219X,Truck,Oil Filter,Engine,PowerAuto,5239.16,2025-01-15,Low power
+KCN 219X,Truck,Air Filter,Air Intake,PowerAuto,5969.93,2025-05-27,Overheating
+KCN 219X,Truck,Alternator,Electrical,DieselParts,2817.81,2025-05-01,Hydraulic issue
+KCN 219X,Truck,Battery,Electrical,SpareHub,11963.81,2024-08-15,Engine noise
+KCN 219X,Truck,Tyre,Wheels,Aeolus,10764.46,2025-03-13,Battery issue
+KBN 906Y,Truck,Air Filter,Air Intake,TurboTraders,4966.55,2025-05-08,Engine noise
+KBN 906Y,Truck,Air Filter,Air Intake,PowerAuto,12623.16,2025-03-01,Battery issue
+KBN 906Y,Truck,Oil Filter,Engine,TurboTraders,7523.23,2024-11-14,Oil leak
+KBN 906Y,Truck,Fuel Pump,Fuel System,DieselParts,7757.58,2025-01-20,Routine service
+KBN 906Y,Truck,Alternator,Electrical,FarmEquip Co,2575.93,2025-01-29,Routine service
+KBN 906Y,Truck,Tyre,Wheels,JKT,6505.36,2025-02-16,Hydraulic issue
+KBN 710V,Truck,Tyre,Wheels,Gallant,6618.46,2025-01-18,Routine service
+KBN 710V,Truck,Battery,Electrical,HeavyDuty Supplies,5280.19,2024-12-15,Routine service
+KBN 710V,Truck,Air Filter,Air Intake,JKT,2338.55,2025-03-16,Engine noise
+KBN 710V,Truck,Radiator,Cooling System,Gallant,2359.49,2024-07-24,Electrical fault
+KDL 727K,Truck,Radiator,Cooling System,SpareHub,10863.04,2024-08-01,Electrical fault
+KDL 727K,Truck,Spark Plug,Ignition,TechFix,12351.66,2024-08-03,Routine service
+KDL 727K,Truck,Oil Filter,Engine,TechFix,4547.12,2025-04-03,Brake failure
+KDL 727K,Truck,Alternator,Electrical,DieselParts,6093.09,2025-04-18,Engine noise
+KDL 727K,Truck,Hydraulic Pump,Hydraulics,HeavyDuty Supplies,1819.39,2025-01-16,Battery issue
+KDL 727K,Truck,Alternator,Electrical,Gallant,13442.22,2024-11-04,Low power
+KDL 727K,Truck,Air Filter,Air Intake,TechFix,12237.71,2025-04-12,Battery issue
+KBZ 901B,Truck,Spark Plug,Ignition,AutoPro Ltd,13106.85,2025-03-14,Hydraulic issue
+KBZ 901B,Truck,Spark Plug,Ignition,HeavyDuty Supplies,7378.13,2025-05-25,Brake failure
+KBZ 901B,Truck,Oil Filter,Engine,SpareHub,10506.71,2024-06-29,Tyre worn out
+KBZ 901B,Truck,Alternator,Electrical,DieselParts,12204.43,2024-12-16,Hydraulic issue
+KBZ 901B,Truck,Alternator,Electrical,JKT,5198.47,2024-11-04,Hydraulic issue
+KBZ 453N,Truck,Battery,Electrical,SpareHub,13919.99,2024-06-28,Electrical fault
+KBZ 453N,Truck,Oil Filter,Engine,SpareHub,9108.24,2025-04-15,Tyre worn out
+KBZ 453N,Truck,Air Filter,Air Intake,MechWorks,13478.19,2024-07-11,Oil leak
+KBZ 453N,Truck,Brake Pads,Braking System,TechFix,2445.15,2024-07-20,Brake failure
+KBZ 453N,Truck,Alternator,Electrical,PowerAuto,12989.19,2024-07-02,Engine noise
+KBZ 453N,Truck,Air Filter,Air Intake,TurboTraders,5798.53,2024-09-22,Hydraulic issue
+KBX 672A,Truck,Tyre,Wheels,Gallant,9555.6,2025-03-20,Brake failure
+KBX 672A,Truck,Radiator,Cooling System,FarmEquip Co,14613.34,2025-05-14,Engine noise
+KBX 672A,Truck,Tyre,Wheels,Goodyear,12395.17,2024-07-25,Low power
+KBX 672A,Truck,Brake Pads,Braking System,PartsPlus,4282.18,2025-05-23,Overheating
+KDM 508D,Truck,Battery,Electrical,FarmEquip Co,4444.13,2025-06-14,Electrical fault
+KDM 508D,Truck,Spark Plug,Ignition,Aeolus,6247.01,2024-06-26,Routine service
+KDM 508D,Truck,Alternator,Electrical,SpareHub,6305.48,2024-10-05,Overheating
+KDM 508D,Truck,Oil Filter,Engine,DieselParts,8834.83,2024-10-15,Battery issue
+KDM 508D,Truck,Radiator,Cooling System,AutoPro Ltd,3379.33,2024-12-23,Routine service
+KDG 968J,Truck,Fuel Pump,Fuel System,Gallant,7580.84,2024-08-30,Electrical fault
+KDG 968J,Truck,Hydraulic Pump,Hydraulics,DieselParts,14443.85,2024-08-21,Battery issue
+KDG 968J,Truck,Air Filter,Air Intake,Gallant,14485.26,2024-07-18,Hydraulic issue
+KDG 968J,Truck,Oil Filter,Engine,FarmEquip Co,7394.28,2025-03-12,Battery issue
+KDG 968J,Truck,Fuel Pump,Fuel System,SpareHub,10789.49,2024-09-23,Low power
+KDG 968J,Truck,Alternator,Electrical,DieselParts,2914.45,2024-07-29,Battery issue
+KCH 477N,Truck,Brake Pads,Braking System,TechFix,2317.69,2025-01-04,Electrical fault
+KCH 477N,Truck,Brake Pads,Braking System,MechWorks,12640.19,2024-06-17,Brake failure
+KCH 477N,Truck,Spark Plug,Ignition,Goodyear,10622.61,2025-01-01,Battery issue
+KCH 477N,Truck,Oil Filter,Engine,PowerAuto,9196.73,2025-02-18,Overheating
+KCH 477N,Truck,Radiator,Cooling System,HeavyDuty Supplies,13212.96,2024-12-15,Hydraulic issue
+KDG 494J,Truck,Spark Plug,Ignition,HeavyDuty Supplies,1944.75,2025-05-28,Tyre worn out
+KDG 494J,Truck,Radiator,Cooling System,Gallant,4671.95,2024-09-21,Brake failure
+KDG 494J,Truck,Hydraulic Pump,Hydraulics,FarmEquip Co,8749.18,2024-08-14,Electrical fault
+KDG 494J,Truck,Fuel Pump,Fuel System,FarmEquip Co,9610.64,2024-10-02,Electrical fault
+KDG 494J,Truck,Spark Plug,Ignition,TurboTraders,2120.59,2024-06-23,Brake failure
+KDG 494J,Truck,Hydraulic Pump,Hydraulics,AutoPro Ltd,5230.08,2025-01-28,Routine service
+KBN 916J,Probox,Battery,Electrical,FarmEquip Co,8673.58,2024-06-24,Engine noise
+KBN 916J,Probox,Battery,Electrical,DieselParts,14720.65,2024-07-31,Low power
+KBN 916J,Probox,Battery,Electrical,PartsPlus,4598.28,2024-07-30,Low power
+KBN 916J,Probox,Air Filter,Air Intake,PowerAuto,12465.2,2025-01-26,Tyre worn out
+KBN 916J,Probox,Brake Pads,Braking System,Aeolus,3614.37,2024-06-21,Routine service
+KBN 916J,Probox,Hydraulic Pump,Hydraulics,AutoPro Ltd,14155.66,2024-10-17,Hydraulic issue
+KBN 916J,Probox,Hydraulic Pump,Hydraulics,JKT,8460.27,2024-09-26,Electrical fault
+KDJ 632M,Probox,Brake Pads,Braking System,Aeolus,10682.47,2024-10-16,Low power
+KDJ 632M,Probox,Radiator,Cooling System,Goodyear,9320.35,2025-03-31,Routine service
+KDJ 632M,Probox,Brake Pads,Braking System,Gallant,9927.84,2025-01-30,Electrical fault
+KDJ 632M,Probox,Air Filter,Air Intake,Goodyear,8530.24,2024-11-22,Electrical fault
+KDJ 632M,Probox,Alternator,Electrical,HeavyDuty Supplies,9645.58,2025-01-16,Overheating
+KDJ 632M,Probox,Air Filter,Air Intake,Gallant,13109.63,2024-07-07,Brake failure
+KDJ 632M,Probox,Brake Pads,Braking System,PowerAuto,7543.94,2025-03-29,Routine service
+KDJ 632M,Probox,Alternator,Electrical,AutoPro Ltd,8514.3,2024-07-15,Electrical fault
+KDA 416K,Probox,Brake Pads,Braking System,Aeolus,12951.39,2024-07-26,Tyre worn out
+KDA 416K,Probox,Radiator,Cooling System,Goodyear,4250.98,2025-03-08,Low power
+KDA 416K,Probox,Air Filter,Air Intake,SpareHub,4958.9,2025-03-30,Hydraulic issue
+KDA 416K,Probox,Radiator,Cooling System,JKT,13054.78,2025-02-16,Low power
+KDA 416K,Probox,Battery,Electrical,HeavyDuty Supplies,10021.38,2025-01-30,Low power
+KDA 416K,Probox,Tyre,Wheels,Aeolus,10633.02,2024-08-13,Hydraulic issue
+KDA 416K,Probox,Alternator,Electrical,DieselParts,7662.12,2024-09-09,Brake failure
+KDA 416K,Probox,Radiator,Cooling System,SpareHub,11919.88,2024-11-29,Overheating
+KBX 659W,Probox,Hydraulic Pump,Hydraulics,JKT,5124.32,2025-04-19,Battery issue
+KBX 659W,Probox,Radiator,Cooling System,SpareHub,11385.56,2025-05-12,Tyre worn out
+KBX 659W,Probox,Battery,Electrical,Goodyear,8781.53,2024-07-07,Tyre worn out
+KBX 659W,Probox,Spark Plug,Ignition,MechWorks,4532.8,2024-10-08,Tyre worn out
+KBX 659W,Probox,Hydraulic Pump,Hydraulics,JKT,14903.03,2024-06-21,Oil leak
+KDL 774F,Probox,Fuel Pump,Fuel System,Aeolus,1512.36,2025-03-12,Tyre worn out
+KDL 774F,Probox,Hydraulic Pump,Hydraulics,PartsPlus,9056.88,2025-02-28,Overheating
+KDL 774F,Probox,Brake Pads,Braking System,Aeolus,10769.41,2024-07-01,Electrical fault
+KDL 774F,Probox,Fuel Pump,Fuel System,MechWorks,12822.53,2024-12-12,Brake failure
+KDJ 579F,Probox,Battery,Electrical,Gallant,3167.12,2025-05-11,Routine service
+KDJ 579F,Probox,Tyre,Wheels,Gallant,5428.46,2024-11-18,Electrical fault
+KDJ 579F,Probox,Tyre,Wheels,Aeolus,5620.39,2024-09-02,Electrical fault
+KDJ 579F,Probox,Battery,Electrical,TurboTraders,4245.61,2025-05-31,Overheating
+KDJ 579F,Probox,Hydraulic Pump,Hydraulics,Goodyear,11238.27,2025-05-15,Overheating
+KDJ 579F,Probox,Oil Filter,Engine,MechWorks,4194.9,2025-05-08,Oil leak
+KDJ 579F,Probox,Radiator,Cooling System,FarmEquip Co,13072.13,2024-08-04,Brake failure
+KBX 706U,Probox,Battery,Electrical,Goodyear,14875.85,2025-05-09,Hydraulic issue
+KBX 706U,Probox,Air Filter,Air Intake,Goodyear,3039.93,2024-08-01,Electrical fault
+KBX 706U,Probox,Spark Plug,Ignition,PartsPlus,2217.99,2024-12-26,Routine service
+KBX 706U,Probox,Air Filter,Air Intake,TechFix,13230.8,2025-06-13,Engine noise
+KBX 706U,Probox,Brake Pads,Braking System,SpareHub,1751.91,2025-01-28,Hydraulic issue
+KBX 706U,Probox,Hydraulic Pump,Hydraulics,BKT,8816.2,2024-07-11,Hydraulic issue
+KBX 706U,Probox,Hydraulic Pump,Hydraulics,TechFix,11468.37,2025-04-24,Tyre worn out
+KBN 279V,Probox,Radiator,Cooling System,TechFix,3186.04,2024-12-14,Battery issue
+KBN 279V,Probox,Air Filter,Air Intake,JKT,5765.81,2024-10-27,Hydraulic issue
+KBN 279V,Probox,Oil Filter,Engine,Aeolus,5421.04,2024-08-14,Tyre worn out
+KBN 279V,Probox,Radiator,Cooling System,Aeolus,3898.85,2024-11-14,Low power
+KBN 279V,Probox,Battery,Electrical,MechWorks,12747.63,2025-05-22,Tyre worn out
+KBN 279V,Probox,Oil Filter,Engine,Aeolus,9867.07,2025-01-20,Engine noise
+KBN 279V,Probox,Air Filter,Air Intake,HeavyDuty Supplies,13838.06,2025-03-20,Tyre worn out
+KDG 184M,Probox,Spark Plug,Ignition,FarmEquip Co,6758.75,2025-05-23,Routine service
+KDG 184M,Probox,Spark Plug,Ignition,MechWorks,10738.58,2024-08-21,Electrical fault
+KDG 184M,Probox,Oil Filter,Engine,JKT,9306.48,2024-08-20,Engine noise
+KDG 184M,Probox,Fuel Pump,Fuel System,SpareHub,3078.54,2025-04-22,Overheating
+KDG 184M,Probox,Alternator,Electrical,SpareHub,13840.06,2024-07-25,Electrical fault
+KCH 220N,Probox,Oil Filter,Engine,Gallant,14263.09,2024-11-19,Engine noise
+KCH 220N,Probox,Fuel Pump,Fuel System,FarmEquip Co,2677.67,2024-12-27,Oil leak
+KCH 220N,Probox,Fuel Pump,Fuel System,Gallant,14758.14,2024-07-06,Low power
+KCH 220N,Probox,Oil Filter,Engine,TurboTraders,3982.62,2024-10-29,Routine service
+KDM 530Y,Probox,Fuel Pump,Fuel System,BKT,2014.19,2024-11-30,Low power
+KDM 530Y,Probox,Radiator,Cooling System,FarmEquip Co,3803.91,2024-10-16,Hydraulic issue
+KDM 530Y,Probox,Oil Filter,Engine,PartsPlus,8927.3,2024-07-28,Overheating
+KDM 530Y,Probox,Spark Plug,Ignition,HeavyDuty Supplies,9374.42,2025-05-15,Electrical fault
+KDJ 541F,Probox,Oil Filter,Engine,Goodyear,2480.99,2025-03-31,Oil leak
+KDJ 541F,Probox,Alternator,Electrical,SpareHub,12885.48,2024-07-30,Low power
+KDJ 541F,Probox,Radiator,Cooling System,Gallant,4073.78,2025-02-27,Brake failure
+KDJ 541F,Probox,Battery,Electrical,AutoPro Ltd,10326.7,2024-10-02,Engine noise
+KCC 775Z,Probox,Air Filter,Air Intake,SpareHub,14731.88,2025-05-19,Low power
+KCC 775Z,Probox,Spark Plug,Ignition,JKT,6943.02,2025-05-28,Engine noise
+KCC 775Z,Probox,Fuel Pump,Fuel System,Aeolus,3516.72,2024-10-02,Brake failure
+KCC 775Z,Probox,Air Filter,Air Intake,PowerAuto,1886.64,2025-05-27,Engine noise
+KCC 775Z,Probox,Spark Plug,Ignition,BKT,13369.13,2025-04-04,Hydraulic issue
+KCC 775Z,Probox,Brake Pads,Braking System,PartsPlus,7956.64,2025-05-14,Electrical fault
+KCH 440T,Probox,Brake Pads,Braking System,TechFix,1776.3,2024-09-26,Overheating
+KCH 440T,Probox,Fuel Pump,Fuel System,SpareHub,9818.62,2024-12-09,Routine service
+KCH 440T,Probox,Spark Plug,Ignition,PowerAuto,12518.61,2025-01-30,Tyre worn out
+KCH 440T,Probox,Tyre,Wheels,JKT,8810.67,2025-06-16,Battery issue
+KCH 440T,Probox,Fuel Pump,Fuel System,TechFix,10029.42,2024-10-20,Overheating
+KCH 440T,Probox,Battery,Electrical,SpareHub,9931.91,2024-08-06,Engine noise
+KCH 440T,Probox,Tyre,Wheels,BKT,4043.72,2024-10-04,Tyre worn out
+KCH 440T,Probox,Spark Plug,Ignition,AutoPro Ltd,2537.4,2024-11-29,Brake failure
+KDA 652E,Probox,Hydraulic Pump,Hydraulics,BKT,13653.34,2025-04-04,Brake failure
+KDA 652E,Probox,Battery,Electrical,HeavyDuty Supplies,13411.51,2024-10-15,Electrical fault
+KDA 652E,Probox,Tyre,Wheels,Aeolus,9589.82,2024-10-24,Hydraulic issue
+KDA 652E,Probox,Battery,Electrical,BKT,10103.75,2024-11-25,Electrical fault
+KDA 652E,Probox,Air Filter,Air Intake,TurboTraders,2339.12,2025-01-02,Engine noise
+KDA 652E,Probox,Tyre,Wheels,Aeolus,6958.94,2024-07-02,Battery issue
+KDA 652E,Probox,Hydraulic Pump,Hydraulics,TurboTraders,6715.37,2024-12-02,Engine noise
+KCH 123C,Probox,Radiator,Cooling System,PowerAuto,8174.97,2025-01-10,Low power
+KCH 123C,Probox,Battery,Electrical,Goodyear,7585.0,2024-09-11,Electrical fault
+KCH 123C,Probox,Brake Pads,Braking System,PartsPlus,2123.99,2024-08-19,Hydraulic issue
+KCH 123C,Probox,Fuel Pump,Fuel System,PowerAuto,5645.68,2024-11-15,Routine service
+KCH 123C,Probox,Oil Filter,Engine,Aeolus,2462.09,2025-01-18,Overheating
+KCH 123C,Probox,Alternator,Electrical,MechWorks,8602.12,2025-03-15,Electrical fault
+KCH 123C,Probox,Alternator,Electrical,Aeolus,8699.8,2024-11-12,Low power
+KCH 123C,Probox,Brake Pads,Braking System,Gallant,9319.36,2025-05-28,Battery issue
+KDM 524W,Probox,Fuel Pump,Fuel System,HeavyDuty Supplies,13106.68,2025-02-24,Electrical fault
+KDM 524W,Probox,Oil Filter,Engine,FarmEquip Co,11515.75,2025-03-29,Routine service
+KDM 524W,Probox,Alternator,Electrical,BKT,7723.03,2024-10-30,Hydraulic issue
+KDM 524W,Probox,Air Filter,Air Intake,FarmEquip Co,7706.9,2025-02-02,Oil leak
+KDM 524W,Probox,Oil Filter,Engine,TechFix,13417.9,2024-12-29,Oil leak
+KDM 524W,Probox,Fuel Pump,Fuel System,TechFix,4582.1,2024-07-03,Engine noise
+KDM 524W,Probox,Brake Pads,Braking System,AutoPro Ltd,10055.26,2025-04-04,Routine service
+KDM 524W,Probox,Radiator,Cooling System,DieselParts,14399.16,2025-02-01,Engine noise
+KBX 250Z,Probox,Battery,Electrical,TurboTraders,13842.84,2025-03-26,Battery issue
+KBX 250Z,Probox,Air Filter,Air Intake,TurboTraders,4722.44,2025-02-13,Engine noise
+KBX 250Z,Probox,Brake Pads,Braking System,FarmEquip Co,5628.85,2024-06-19,Low power
+KBX 250Z,Probox,Oil Filter,Engine,TechFix,10616.58,2024-10-25,Hydraulic issue
+KBX 250Z,Probox,Spark Plug,Ignition,BKT,9402.92,2024-11-17,Engine noise
+KBX 250Z,Probox,Brake Pads,Braking System,HeavyDuty Supplies,7321.88,2024-11-16,Routine service
+KDL 614N,Probox,Spark Plug,Ignition,AutoPro Ltd,14946.95,2024-06-18,Battery issue
+KDL 614N,Probox,Brake Pads,Braking System,SpareHub,4987.88,2025-02-23,Battery issue
+KDL 614N,Probox,Tyre,Wheels,Goodyear,14713.83,2025-02-20,Brake failure
+KDL 614N,Probox,Tyre,Wheels,Goodyear,7772.85,2025-04-22,Overheating
+KDL 614N,Probox,Air Filter,Air Intake,Aeolus,12750.44,2024-09-15,Tyre worn out
+KDL 614N,Probox,Tyre,Wheels,JKT,10309.93,2024-09-03,Hydraulic issue
+KDL 614N,Probox,Fuel Pump,Fuel System,TechFix,13846.58,2025-03-08,Routine service
+KDJ 965H,Probox,Air Filter,Air Intake,Aeolus,3926.44,2024-08-22,Oil leak
+KDJ 965H,Probox,Battery,Electrical,BKT,4512.07,2024-07-02,Battery issue
+KDJ 965H,Probox,Oil Filter,Engine,DieselParts,6010.36,2025-05-27,Battery issue
+KDJ 965H,Probox,Alternator,Electrical,HeavyDuty Supplies,7517.91,2025-04-19,Battery issue
+KDJ 965H,Probox,Oil Filter,Engine,DieselParts,14714.24,2025-03-06,Overheating
+KDJ 965H,Probox,Alternator,Electrical,BKT,13517.68,2024-08-10,Engine noise
+KCC 250U,Landcruiser,Hydraulic Pump,Hydraulics,Gallant,10900.31,2024-06-27,Oil leak
+KCC 250U,Landcruiser,Alternator,Electrical,DieselParts,2749.69,2024-07-09,Engine noise
+KCC 250U,Landcruiser,Fuel Pump,Fuel System,FarmEquip Co,2719.75,2024-09-16,Electrical fault
+KCC 250U,Landcruiser,Spark Plug,Ignition,FarmEquip Co,7794.1,2024-11-17,Brake failure
+KCC 250U,Landcruiser,Hydraulic Pump,Hydraulics,Goodyear,14423.0,2024-12-01,Engine noise
+KCC 250U,Landcruiser,Hydraulic Pump,Hydraulics,Gallant,7901.06,2024-08-19,Low power
+KDG 927S,Landcruiser,Oil Filter,Engine,Aeolus,5545.22,2024-11-01,Oil leak
+KDG 927S,Landcruiser,Hydraulic Pump,Hydraulics,Gallant,3302.35,2024-12-11,Brake failure
+KDG 927S,Landcruiser,Radiator,Cooling System,Gallant,7106.78,2025-05-10,Overheating
+KDG 927S,Landcruiser,Tyre,Wheels,Goodyear,2472.06,2025-05-18,Hydraulic issue
+KDG 927S,Landcruiser,Fuel Pump,Fuel System,Goodyear,2017.12,2025-02-11,Hydraulic issue
+KBZ 580G,Landcruiser,Hydraulic Pump,Hydraulics,Goodyear,7967.69,2024-07-29,Brake failure
+KBZ 580G,Landcruiser,Oil Filter,Engine,TechFix,10832.73,2025-01-09,Tyre worn out
+KBZ 580G,Landcruiser,Hydraulic Pump,Hydraulics,FarmEquip Co,14402.43,2025-02-21,Routine service
+KBZ 580G,Landcruiser,Radiator,Cooling System,SpareHub,4742.86,2024-07-04,Low power
+KCN 439X,Landcruiser,Spark Plug,Ignition,PartsPlus,7933.8,2024-07-14,Engine noise
+KCN 439X,Landcruiser,Alternator,Electrical,Aeolus,7498.31,2025-01-07,Hydraulic issue
+KCN 439X,Landcruiser,Hydraulic Pump,Hydraulics,DieselParts,7860.01,2024-10-19,Hydraulic issue
+KCN 439X,Landcruiser,Oil Filter,Engine,JKT,12071.8,2024-08-02,Oil leak
+KCN 439X,Landcruiser,Radiator,Cooling System,TurboTraders,8077.74,2025-01-26,Oil leak
+KCN 439X,Landcruiser,Battery,Electrical,BKT,9055.27,2024-07-21,Routine service
+KCN 439X,Landcruiser,Fuel Pump,Fuel System,Aeolus,13378.94,2025-03-30,Overheating
+KCH 904B,Landcruiser,Hydraulic Pump,Hydraulics,Aeolus,11126.8,2024-12-16,Brake failure
+KCH 904B,Landcruiser,Oil Filter,Engine,Aeolus,8773.06,2025-01-12,Oil leak
+KCH 904B,Landcruiser,Radiator,Cooling System,DieselParts,3727.5,2025-01-19,Oil leak
+KCH 904B,Landcruiser,Tyre,Wheels,BKT,9644.8,2025-06-07,Brake failure
+KCH 904B,Landcruiser,Alternator,Electrical,TurboTraders,6700.14,2024-06-18,Overheating
+KCH 904B,Landcruiser,Radiator,Cooling System,BKT,13925.53,2025-01-21,Low power
+KDJ 339Y,Landcruiser,Fuel Pump,Fuel System,JKT,2228.15,2025-03-21,Brake failure
+KDJ 339Y,Landcruiser,Tyre,Wheels,Gallant,2086.43,2025-03-04,Overheating
+KDJ 339Y,Landcruiser,Radiator,Cooling System,MechWorks,13090.64,2025-02-06,Low power
+KDJ 339Y,Landcruiser,Battery,Electrical,AutoPro Ltd,8257.83,2025-05-13,Tyre worn out
+KDJ 339Y,Landcruiser,Tyre,Wheels,Goodyear,2731.85,2024-12-25,Hydraulic issue
+KDJ 339Y,Landcruiser,Tyre,Wheels,Aeolus,9131.71,2024-12-19,Tyre worn out
+KDJ 339Y,Landcruiser,Battery,Electrical,Gallant,2506.24,2024-08-24,Low power
+KDM 134D,Landcruiser,Oil Filter,Engine,HeavyDuty Supplies,1706.01,2025-04-05,Oil leak
+KDM 134D,Landcruiser,Alternator,Electrical,MechWorks,10007.55,2025-02-05,Battery issue
+KDM 134D,Landcruiser,Tyre,Wheels,JKT,14619.0,2024-08-06,Brake failure
+KDM 134D,Landcruiser,Alternator,Electrical,TechFix,8224.6,2024-11-09,Routine service
+KDG 827K,Landcruiser,Hydraulic Pump,Hydraulics,AutoPro Ltd,8346.15,2025-05-20,Overheating
+KDG 827K,Landcruiser,Oil Filter,Engine,Gallant,10606.01,2025-02-06,Hydraulic issue
+KDG 827K,Landcruiser,Alternator,Electrical,Gallant,8464.02,2025-02-24,Hydraulic issue
+KDG 827K,Landcruiser,Brake Pads,Braking System,HeavyDuty Supplies,8412.77,2025-01-27,Low power
+KDG 827K,Landcruiser,Hydraulic Pump,Hydraulics,BKT,5918.82,2024-09-06,Low power
+KDG 827K,Landcruiser,Spark Plug,Ignition,TurboTraders,4269.17,2025-05-31,Brake failure
+KDG 827K,Landcruiser,Brake Pads,Braking System,FarmEquip Co,7800.48,2024-07-08,Battery issue
+KDG 827K,Landcruiser,Spark Plug,Ignition,JKT,6942.59,2025-05-16,Electrical fault
+KDJ 284K,Landcruiser,Spark Plug,Ignition,JKT,8132.91,2024-11-23,Overheating
+KDJ 284K,Landcruiser,Fuel Pump,Fuel System,PartsPlus,4842.62,2025-05-01,Tyre worn out
+KDJ 284K,Landcruiser,Hydraulic Pump,Hydraulics,PartsPlus,14668.37,2024-10-09,Routine service
+KDJ 284K,Landcruiser,Hydraulic Pump,Hydraulics,FarmEquip Co,14011.11,2024-09-25,Engine noise
+KDJ 284K,Landcruiser,Alternator,Electrical,PartsPlus,1736.16,2025-06-09,Electrical fault
+KDJ 284K,Landcruiser,Hydraulic Pump,Hydraulics,BKT,10166.89,2024-07-16,Electrical fault
+KDJ 284K,Landcruiser,Spark Plug,Ignition,MechWorks,3233.48,2025-06-08,Overheating
+KCN 250J,Landcruiser,Fuel Pump,Fuel System,Gallant,2198.46,2025-03-13,Electrical fault
+KCN 250J,Landcruiser,Oil Filter,Engine,TechFix,14451.19,2025-04-26,Brake failure
+KCN 250J,Landcruiser,Fuel Pump,Fuel System,SpareHub,2620.74,2025-02-16,Oil leak
+KCN 250J,Landcruiser,Battery,Electrical,Aeolus,3689.17,2024-06-26,Brake failure
+KBX 685D,Landcruiser,Alternator,Electrical,HeavyDuty Supplies,1971.05,2025-03-13,Tyre worn out
+KBX 685D,Landcruiser,Fuel Pump,Fuel System,PartsPlus,7963.78,2024-11-14,Low power
+KBX 685D,Landcruiser,Brake Pads,Braking System,Gallant,7186.3,2025-06-10,Low power
+KBX 685D,Landcruiser,Fuel Pump,Fuel System,SpareHub,4014.18,2024-11-18,Routine service
+KDM 788S,Landcruiser,Radiator,Cooling System,PowerAuto,10808.74,2024-07-01,Hydraulic issue
+KDM 788S,Landcruiser,Hydraulic Pump,Hydraulics,Goodyear,3984.37,2025-02-02,Overheating
+KDM 788S,Landcruiser,Hydraulic Pump,Hydraulics,TechFix,11123.71,2025-05-27,Oil leak
+KDM 788S,Landcruiser,Spark Plug,Ignition,HeavyDuty Supplies,9300.87,2024-08-09,Tyre worn out
+KDM 788S,Landcruiser,Radiator,Cooling System,SpareHub,5023.44,2024-07-01,Electrical fault
+KBZ 336G,Landcruiser,Oil Filter,Engine,HeavyDuty Supplies,13323.63,2024-08-29,Low power
+KBZ 336G,Landcruiser,Battery,Electrical,JKT,4675.34,2024-10-05,Brake failure
+KBZ 336G,Landcruiser,Spark Plug,Ignition,Goodyear,13668.04,2024-11-04,Brake failure
+KBZ 336G,Landcruiser,Alternator,Electrical,TechFix,6711.63,2024-07-24,Routine service
+KBZ 336G,Landcruiser,Battery,Electrical,PowerAuto,4726.0,2024-07-16,Overheating
+KBZ 336G,Landcruiser,Alternator,Electrical,AutoPro Ltd,7867.04,2024-12-12,Brake failure
+KBZ 336G,Landcruiser,Spark Plug,Ignition,HeavyDuty Supplies,11149.37,2025-01-02,Overheating
+KDL 228R,Landcruiser,Tyre,Wheels,Aeolus,6611.14,2024-07-10,Hydraulic issue
+KDL 228R,Landcruiser,Spark Plug,Ignition,PartsPlus,12998.12,2024-07-04,Engine noise
+KDL 228R,Landcruiser,Fuel Pump,Fuel System,AutoPro Ltd,13771.79,2024-12-03,Engine noise
+KDL 228R,Landcruiser,Fuel Pump,Fuel System,DieselParts,4626.95,2025-04-04,Brake failure
+KDL 228R,Landcruiser,Tyre,Wheels,JKT,8141.21,2024-10-24,Battery issue
+KDL 228R,Landcruiser,Brake Pads,Braking System,MechWorks,12498.49,2024-11-27,Low power
+KBX 794Z,Landcruiser,Radiator,Cooling System,PowerAuto,13270.59,2024-07-22,Low power
+KBX 794Z,Landcruiser,Air Filter,Air Intake,JKT,14094.53,2025-02-22,Routine service
+KBX 794Z,Landcruiser,Alternator,Electrical,Gallant,11150.91,2025-03-10,Routine service
+KBX 794Z,Landcruiser,Brake Pads,Braking System,DieselParts,14296.81,2025-01-17,Routine service
+KBX 794Z,Landcruiser,Air Filter,Air Intake,FarmEquip Co,4262.95,2024-09-07,Hydraulic issue
+KDL 283D,Heavy Machinery,Spark Plug,Ignition,JKT,6071.78,2025-06-16,Battery issue
+KDL 283D,Heavy Machinery,Brake Pads,Braking System,DieselParts,4311.99,2024-12-25,Hydraulic issue
+KDL 283D,Heavy Machinery,Radiator,Cooling System,HeavyDuty Supplies,11317.29,2025-01-14,Overheating
+KDL 283D,Heavy Machinery,Hydraulic Pump,Hydraulics,JKT,10264.98,2024-06-21,Electrical fault
+KBN 432M,Heavy Machinery,Battery,Electrical,MechWorks,5859.13,2024-07-26,Brake failure
+KBN 432M,Heavy Machinery,Battery,Electrical,Aeolus,14450.66,2024-06-27,Battery issue
+KBN 432M,Heavy Machinery,Alternator,Electrical,TurboTraders,12805.69,2025-04-14,Brake failure
+KBN 432M,Heavy Machinery,Radiator,Cooling System,HeavyDuty Supplies,7284.97,2025-03-13,Overheating
+KBN 432M,Heavy Machinery,Oil Filter,Engine,Gallant,14684.41,2024-12-31,Oil leak
+KBZ 530V,Heavy Machinery,Fuel Pump,Fuel System,FarmEquip Co,6306.63,2025-01-20,Low power
+KBZ 530V,Heavy Machinery,Alternator,Electrical,FarmEquip Co,14188.05,2024-10-10,Overheating
+KBZ 530V,Heavy Machinery,Radiator,Cooling System,BKT,13673.08,2024-12-26,Hydraulic issue
+KBZ 530V,Heavy Machinery,Oil Filter,Engine,SpareHub,13876.75,2024-09-13,Hydraulic issue
+KBZ 530V,Heavy Machinery,Brake Pads,Braking System,PartsPlus,4797.72,2024-10-11,Electrical fault
+KBZ 530V,Heavy Machinery,Tyre,Wheels,JKT,4667.73,2024-12-31,Battery issue
+KBX 633Y,Heavy Machinery,Spark Plug,Ignition,DieselParts,13402.21,2024-10-14,Electrical fault
+KBX 633Y,Heavy Machinery,Spark Plug,Ignition,DieselParts,7783.47,2024-12-21,Electrical fault
+KBX 633Y,Heavy Machinery,Radiator,Cooling System,FarmEquip Co,13572.59,2024-07-26,Oil leak
+KBX 633Y,Heavy Machinery,Spark Plug,Ignition,BKT,6074.7,2025-04-17,Tyre worn out
+KBZ 419V,Heavy Machinery,Brake Pads,Braking System,MechWorks,7471.94,2025-03-13,Battery issue
+KBZ 419V,Heavy Machinery,Radiator,Cooling System,HeavyDuty Supplies,8737.19,2024-10-02,Routine service
+KBZ 419V,Heavy Machinery,Alternator,Electrical,PowerAuto,10427.09,2025-01-09,Electrical fault
+KBZ 419V,Heavy Machinery,Hydraulic Pump,Hydraulics,Gallant,7596.68,2025-05-06,Engine noise
+KBZ 419V,Heavy Machinery,Oil Filter,Engine,PartsPlus,5211.68,2024-10-15,Overheating
+KCC 593N,Heavy Machinery,Hydraulic Pump,Hydraulics,MechWorks,10268.34,2024-07-13,Oil leak
+KCC 593N,Heavy Machinery,Battery,Electrical,Aeolus,12775.58,2024-10-26,Hydraulic issue
+KCC 593N,Heavy Machinery,Tyre,Wheels,Goodyear,14041.64,2025-03-10,Hydraulic issue
+KCC 593N,Heavy Machinery,Spark Plug,Ignition,PartsPlus,6890.12,2025-03-13,Oil leak
+KCC 593N,Heavy Machinery,Tyre,Wheels,Gallant,8299.26,2025-03-28,Oil leak
+KCC 593N,Heavy Machinery,Air Filter,Air Intake,PartsPlus,12910.94,2024-07-11,Routine service
+KDM 559C,Heavy Machinery,Tyre,Wheels,JKT,1505.45,2024-10-31,Low power
+KDM 559C,Heavy Machinery,Radiator,Cooling System,SpareHub,7291.98,2024-11-05,Tyre worn out
+KDM 559C,Heavy Machinery,Oil Filter,Engine,HeavyDuty Supplies,13718.57,2024-10-20,Routine service
+KDM 559C,Heavy Machinery,Air Filter,Air Intake,Gallant,12013.76,2025-05-19,Oil leak
+KDM 559C,Heavy Machinery,Tyre,Wheels,Goodyear,14196.19,2025-06-01,Brake failure
+KBX 564R,Heavy Machinery,Spark Plug,Ignition,PowerAuto,8474.16,2025-01-29,Electrical fault
+KBX 564R,Heavy Machinery,Radiator,Cooling System,PartsPlus,12636.49,2024-08-11,Hydraulic issue
+KBX 564R,Heavy Machinery,Brake Pads,Braking System,PowerAuto,13504.53,2025-01-21,Overheating
+KBX 564R,Heavy Machinery,Tyre,Wheels,Gallant,10191.39,2024-10-21,Brake failure
+KBN 822T,Heavy Machinery,Spark Plug,Ignition,Aeolus,14165.03,2024-12-20,Battery issue
+KBN 822T,Heavy Machinery,Alternator,Electrical,SpareHub,9904.2,2025-05-12,Electrical fault
+KBN 822T,Heavy Machinery,Alternator,Electrical,PartsPlus,7085.72,2024-09-12,Electrical fault
+KBN 822T,Heavy Machinery,Fuel Pump,Fuel System,DieselParts,11065.33,2025-02-08,Battery issue
+KBN 822T,Heavy Machinery,Oil Filter,Engine,JKT,3766.23,2025-03-01,Oil leak
+KBN 822T,Heavy Machinery,Air Filter,Air Intake,JKT,6303.23,2025-02-10,Tyre worn out
+KBN 822T,Heavy Machinery,Brake Pads,Braking System,BKT,9514.18,2024-11-06,Oil leak
+KBN 822T,Heavy Machinery,Alternator,Electrical,Goodyear,7380.46,2025-02-17,Low power
+KBZ 176T,Heavy Machinery,Hydraulic Pump,Hydraulics,DieselParts,1868.32,2024-09-15,Overheating
+KBZ 176T,Heavy Machinery,Fuel Pump,Fuel System,PowerAuto,7922.26,2025-02-18,Battery issue
+KBZ 176T,Heavy Machinery,Spark Plug,Ignition,PowerAuto,5027.09,2024-07-19,Electrical fault
+KBZ 176T,Heavy Machinery,Fuel Pump,Fuel System,TurboTraders,14039.02,2025-02-02,Tyre worn out
+KBZ 176T,Heavy Machinery,Alternator,Electrical,FarmEquip Co,9180.25,2024-11-15,Engine noise
+KDM 147K,Heavy Machinery,Oil Filter,Engine,PartsPlus,12734.11,2025-06-06,Electrical fault
+KDM 147K,Heavy Machinery,Hydraulic Pump,Hydraulics,BKT,2772.57,2024-11-28,Overheating
+KDM 147K,Heavy Machinery,Hydraulic Pump,Hydraulics,MechWorks,1860.17,2024-08-13,Routine service
+KDM 147K,Heavy Machinery,Oil Filter,Engine,PartsPlus,6506.36,2025-04-02,Brake failure
+KDM 147K,Heavy Machinery,Alternator,Electrical,Goodyear,10680.76,2025-01-23,Oil leak
+KDM 147K,Heavy Machinery,Battery,Electrical,SpareHub,11761.29,2024-09-03,Hydraulic issue
+KDA 384G,Heavy Machinery,Air Filter,Air Intake,Aeolus,13151.52,2024-12-24,Oil leak
+KDA 384G,Heavy Machinery,Tyre,Wheels,JKT,7072.18,2024-10-02,Battery issue
+KDA 384G,Heavy Machinery,Brake Pads,Braking System,PowerAuto,14195.37,2025-03-11,Tyre worn out
+KDA 384G,Heavy Machinery,Air Filter,Air Intake,TechFix,9746.95,2024-07-06,Routine service
+KCN 479W,Heavy Machinery,Battery,Electrical,JKT,9481.97,2025-01-29,Routine service
+KCN 479W,Heavy Machinery,Brake Pads,Braking System,SpareHub,3089.41,2024-12-18,Overheating
+KCN 479W,Heavy Machinery,Alternator,Electrical,AutoPro Ltd,7182.28,2024-08-07,Overheating
+KCN 479W,Heavy Machinery,Tyre,Wheels,Gallant,7642.78,2025-01-11,Engine noise
+KCN 479W,Heavy Machinery,Spark Plug,Ignition,JKT,7854.26,2024-11-04,Engine noise
+KCN 479W,Heavy Machinery,Tyre,Wheels,JKT,2164.06,2024-12-04,Tyre worn out
+KCN 479W,Heavy Machinery,Brake Pads,Braking System,Aeolus,7679.59,2025-04-28,Brake failure
+KBZ 572U,Heavy Machinery,Brake Pads,Braking System,TurboTraders,6442.43,2025-01-01,Battery issue
+KBZ 572U,Heavy Machinery,Battery,Electrical,DieselParts,14161.93,2024-07-24,Oil leak
+KBZ 572U,Heavy Machinery,Radiator,Cooling System,TurboTraders,14367.06,2024-12-06,Electrical fault
+KBZ 572U,Heavy Machinery,Air Filter,Air Intake,AutoPro Ltd,12250.52,2024-08-03,Overheating
+KBZ 572U,Heavy Machinery,Air Filter,Air Intake,PartsPlus,11544.1,2024-12-01,Battery issue
+KBZ 572U,Heavy Machinery,Brake Pads,Braking System,HeavyDuty Supplies,4694.21,2025-04-02,Brake failure
+KBZ 572U,Heavy Machinery,Fuel Pump,Fuel System,AutoPro Ltd,12422.79,2024-08-31,Brake failure
+KBN 845R,Heavy Machinery,Alternator,Electrical,TechFix,8796.07,2025-03-02,Tyre worn out
+KBN 845R,Heavy Machinery,Hydraulic Pump,Hydraulics,Aeolus,11120.29,2025-06-14,Low power
+KBN 845R,Heavy Machinery,Brake Pads,Braking System,BKT,9563.05,2025-04-14,Hydraulic issue
+KBN 845R,Heavy Machinery,Radiator,Cooling System,BKT,8630.53,2025-06-01,Battery issue
+KBN 845R,Heavy Machinery,Battery,Electrical,Goodyear,13289.29,2024-08-08,Overheating
+KBN 845R,Heavy Machinery,Battery,Electrical,PartsPlus,12663.37,2025-06-17,Low power
